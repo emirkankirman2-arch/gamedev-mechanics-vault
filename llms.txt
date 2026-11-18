@@ -3,7 +3,8 @@
 > Interactive 4-Bucket Game Design & Engine Implementation Knowledge Graph (Theory, Engine/Code, Game Juice, Anti-Patterns) with linked_systems across 28 domains.
 
 ## Core Entry Points
-- [Vault Home](https://emirkankirman2-arch.github.io/gamedev-mechanics-vault/): Main entry page and domain directory
+- [Vault Home](https://emirkankirman2-arch.github.io/gamedev-mechanics-vault/): Main entry page, real 5-category showcase & domain directory
+- [5 Core Mechanics Real Corpus Showcase](https://emirkankirman2-arch.github.io/gamedev-mechanics-vault/reports/Real_Library_Showcase_5_Core_Mechanics): Deep 4-bucket synthesis across Lighting, Worldbuilding, FPS, Farming & Weather
 - [Linked Systems Graph](https://emirkankirman2-arch.github.io/gamedev-mechanics-vault/linked_systems_graph): Master cross-system dependency network
 - [Full Plain-Text Context](https://emirkankirman2-arch.github.io/gamedev-mechanics-vault/llms-full.txt): Single-file context dump for LLM ingestion
 
