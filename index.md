@@ -1,21 +1,22 @@
 ---
-title: "Game Mechanics Vault — Ana Sayfa"
-tags: [index, home, gamedev-vault]
+title: "Game Mechanics Vault — Living Library (Updated Every 10K Videos)"
+tags: [index, home, gamedev-vault, living-library]
 ---
 
-# 🎮 Game Mechanics Vault (6,774+ Video Analizli 4-Sepetli Bilgi Ağı)
+# 🎮 Game Mechanics Vault — Living Library (Her 10.000 Videoda Güncellenen Yaşayan Kütüphane)
 
-Hoş geldiniz! Bu interaktif bilgi ağı, **6,774+ gerçek video analizinden** çıkarılan oyun mekaniklerini **Teori**, **Motor/Kod (UE5, Unity 6, Godot 4)**, **Game Juice** ve **Anti-Pattern** olmak üzere **4 eşit sepette** sunar ve `[[WikiLinks]]` bağlantılarıyla birbirine bağlar.
+Hoş geldiniz! **7/24 çalışan video analiz motorumuzla sürekli büyüyen ve her 10.000 videoda bir büyük güncelleme alan** bu yaşayan bilgi ağı, oyun mekaniklerini **Teori**, **Motor/Kod (UE5, Unity 6, Godot 4)**, **Game Juice** ve **Anti-Pattern** olmak üzere **4 eşit sepette** sunar ve `[[WikiLinks]]` bağlantılarıyla birbirine bağlar.
 
+- 💎 **Supporter Pack (Itch.io — `$0 or Donate`):** [Çevrimdışı Vault + UE5/Unity/Godot + AI CLI + MCP İndir](https://emirkankirman2353.itch.io/game-mechanics-systems-vault-ue5-unity-6-godot-4-aimcp)
 - 🔥 **Tam Master Rapor:** [[Real_Library_Showcase_5_Core_Mechanics|5 Kategori Master Raporu (Işık, Dünya, FPS, Çiftçilik, Mevsim/Doğa)]]
 - 🔗 **Tüm Bağlantı Ağı:** [[Linked Systems Graph]]
 - 🤖 **AI / Cursor `@Docs` İndeksi:** [`llms.txt`](llms.txt) | [`llms-full.txt`](llms-full.txt)
 
 ---
 
-## 🔥 Gerçek Kütüphane Çıktısı Örneği (Real Query Output — 6,774+ Video Analizi)
+## 🔥 Gerçek Kütüphane Çıktısı Örneği (Real Query Output — Living Library, Updated Every 10K Videos)
 
-Aşağıdaki özetler sentetik şablon değil; doğrudan gerçek veritabanımızdaki **6,774+ video analizinden**, gerçek oyun postmortem'lerinden ve kanonik sistem düğümlerinden damıtılmış **5 Kategori Master Raporu**ndan canlı alıntılardır. Tam teknik döküm için: [[Real_Library_Showcase_5_Core_Mechanics|5 Kategori Master Raporu]]
+Aşağıdaki özetler sentetik şablon değil; **7/24 çalışan analiz motorumuzla sürekli büyüyen ve her 10.000 videoda bir büyük güncelleme alan yaşayan kütüphanemizin** gerçek veritabanından, gerçek oyun postmortem'lerinden ve kanonik sistem düğümlerinden damıtılmış **5 Kategori Master Raporu**ndan canlı alıntılardır. Tam teknik döküm için: [[Real_Library_Showcase_5_Core_Mechanics|5 Kategori Master Raporu]]
 
 ### 1. 🕯️ Işıklandırma & Karanlık (333+ Video Sentezi)
 - **Teori & Kaynak:** *Blender Lighting*, *Cinematic Lighting for Artists*, *Alan Wake* & *Mario Maker 2 (FNAF Darkness Theme)*. 3 Noktalı Aydınlatmada `Fill Light` sıfırlanıp `Negative Fill` kullanıldığında korku kontrastı doğar; `Source Radius` küçüldükçe gölge penumbrası keskinleşir. FNAF / Mario Maker karanlık teması görüş alanını kısıtlayarak klostrofobik gerilim üretir.
@@ -101,4 +102,4 @@ Aşağıdaki özetler sentetik şablon değil; doğrudan gerçek veritabanımız
 ---
 
 > [!TIP] **Bu kütüphaneyi çevrimdışı kullanmak ve kendi oyununuza uyarlamak ister misiniz?**
-> Tam Obsidian Vault veritabanını, Unreal Engine 5 / Unity 6 / Godot 4 hazır parametre tablolarını, GDD şablonlarını, ChatGPT/Claude/NotebookLM sürükle-bırak paketlerini, API anahtarsız MCP Sunucusunu ve kendi anahtarınızla çalışan Yerel AI Sorgu Aracını (CLI) içeren **Supporter Pack**'i [GitHub Supporter Pack & Bağış Sayfası](https://github.com/emirkankirman2-arch/gamedev-mechanics-vault) üzerinden indirerek projeye destek olabilirsiniz!
+> Tam Obsidian Vault veritabanını, Unreal Engine 5 / Unity 6 / Godot 4 hazır parametre tablolarını, GDD şablonlarını, ChatGPT/Claude/NotebookLM sürükle-bırak paketlerini, API anahtarsız MCP Sunucusunu ve kendi anahtarınızla çalışan Yerel AI Sorgu Aracını (CLI) içeren **Supporter Pack**'i [Itch.io Supporter Pack](https://emirkankirman2353.itch.io/game-mechanics-systems-vault-ue5-unity-6-godot-4-aimcp) üzerinden indirerek bu 7/24 büyüyen yaşayan kütüphaneye destek olabilirsiniz!

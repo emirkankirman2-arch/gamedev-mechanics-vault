@@ -1,17 +1,18 @@
-# 🎮 Game Mechanics Vault — Interactive Design & Engine Encyclopedia
+# 🎮 Game Mechanics Vault — Living Library (Updated Every 10K Videos)
 
-> **Bilingual Game Design Knowledge Graph (EN & TR) — Backed by 6,774+ Analyzed Game Dev Videos**  
+> **Bilingual Game Design Knowledge Graph (EN & TR) — Continuously Growing 24/7 • Major Release Every 10,000 Analyzed Videos**  
 > **4-Bucket Architecture:** Theory (25%) • Engine/Code (25%) • Game Juice (25%) • Anti-Patterns (25%)
 
 [![Built with Quartz 4](https://img.shields.io/badge/Built%20with-Quartz%204-7c3aed)](https://quartz.jzhao.xyz/)
 [![Obsidian Ready](https://img.shields.io/badge/Obsidian-WikiLinks%20Graph-483699)](https://obsidian.md/)
-[![Support Project](https://img.shields.io/badge/Support-Supporter%20Pack-fa5c5c)](https://github.com/emirkankirman2-arch/gamedev-mechanics-vault)
+[![Living Library](https://img.shields.io/badge/Living%20Library-Updated%20Every%2010K%20Videos-10b981)](https://emirkankirman2353.itch.io/game-mechanics-systems-vault-ue5-unity-6-godot-4-aimcp)
+[![Support on Itch.io](https://img.shields.io/badge/Support-Itch.io%20Supporter%20Pack-fa5c5c)](https://emirkankirman2353.itch.io/game-mechanics-systems-vault-ue5-unity-6-godot-4-aimcp)
 
 ---
 
 ## 🌍 What Is This? (English)
 
-**Game Mechanics Vault** is a structured, interconnected knowledge graph of **139+ core game mechanics** across **28 game design domains**, distilled from **6,774+ real game development postmortems, GDC talks, and technical engine dissections**.
+**Game Mechanics Vault** is a **Living Library** powered by a **24/7 automated game-dev video dissection engine** — delivering a major corpus expansion **every 10,000 analyzed videos**. It structures **139+ core game mechanics** across **28 game design domains** into an interconnected knowledge graph distilled from real postmortems, GDC talks, and technical engine dissections.
 
 Every mechanic page uses a strict **4-Bucket Architecture**:
 1. **Theory & Heuristics (25%)** — Cognitive psychology, design intent, and systemic rules.
@@ -26,9 +27,9 @@ Point **ChatGPT**, **Claude**, **Gemini**, or **Cursor (`@Docs`)** directly to:
 
 ---
 
-## 🇹🇷 Bu Proje Nedir? (Türkçe)
+## 🇹🇷 Bu Proje Nedir? (Türkçe — Her 10K Videoda Güncellenen Yaşayan Kütüphane)
 
-**Game Mechanics Vault**, **6,774+ gerçek video analizinden** damıtılmış **139+ mekanik modülünü** ve **28 oyun tasarımı disiplinini** `[[WikiLinks]]` bağlantı ağıyla sunan açık erişimli bir oyun tasarım kütüphanesidir.
+**Game Mechanics Vault**, arka planda **7/24 kesintisiz çalışan analiz motoruyla sürekli büyüyen ve her 10.000 videoda bir büyük sürüm güncellemesi alan yaşayan bir oyun tasarımı kütüphanesidir.** **139+ mekanik modülünü** ve **28 oyun tasarımı disiplinini** `[[WikiLinks]]` bağlantı ağıyla açık erişimli olarak sunar.
 
 ### Gerçek Veritabanından Örnek Sorgular
 - *"God of War rüzgar ve bitki örtüsü WPO shader sistemini Zelda: Oracle of Seasons mevsim geçişiyle nasıl birleştiririm?"* -> [[Real_Library_Showcase_5_Core_Mechanics|5 Kategori Master Raporu]]
@@ -37,9 +38,9 @@ Point **ChatGPT**, **Claude**, **Gemini**, or **Cursor (`@Docs`)** directly to:
 
 ---
 
-## 🔥 Gerçek Kütüphane Çıktısı Örneği (Real Query Output — 6,774+ Video Analizi)
+## 🔥 Gerçek Kütüphane Çıktısı Örneği (Real Query Output — Living Library, Updated Every 10K Videos)
 
-Aşağıdaki özetler sentetik şablon değil; doğrudan gerçek veritabanımızdaki **6,774+ video analizinden**, gerçek oyun postmortem'lerinden ve kanonik sistem düğümlerinden damıtılmış **5 Kategori Master Raporu**ndan canlı alıntılardır. Tam teknik döküm için: [[Real_Library_Showcase_5_Core_Mechanics|5 Kategori Master Raporu]]
+Aşağıdaki özetler sentetik şablon değil; **7/24 çalışan analiz motorumuzla sürekli büyüyen ve her 10.000 videoda bir büyük güncelleme alan yaşayan kütüphanemizin** gerçek veritabanından, gerçek oyun postmortem'lerinden ve kanonik sistem düğümlerinden damıtılmış **5 Kategori Master Raporu**ndan canlı alıntılardır. Tam teknik döküm için: [[Real_Library_Showcase_5_Core_Mechanics|5 Kategori Master Raporu]]
 
 ### 1. 🕯️ Işıklandırma & Karanlık (333+ Video Sentezi)
 - **Teori & Kaynak:** *Blender Lighting*, *Cinematic Lighting for Artists*, *Alan Wake* & *Mario Maker 2 (FNAF Darkness Theme)*. 3 Noktalı Aydınlatmada `Fill Light` sıfırlanıp `Negative Fill` kullanıldığında korku kontrastı doğar; `Source Radius` küçüldükçe gölge penumbrası keskinleşir. FNAF / Mario Maker karanlık teması görüş alanını kısıtlayarak klostrofobik gerilim üretir.
@@ -76,7 +77,8 @@ Aşağıdaki özetler sentetik şablon değil; doğrudan gerçek veritabanımız
 
 ## 💎 Supporter Pack (Offline Vault + Engine Tables + Local AI CLI + MCP Server)
 
-Want the **offline Obsidian Vault**, **UE5/Unity 6/Godot 4 CSV & C++/GDScript templates**, **6 AI Drag-and-Drop Bundles** (for ChatGPT/Claude/NotebookLM), **Local CLI (`ask_vault.py`)**, and **Zero-Key MCP Server**?
+Want the **offline Obsidian Vault**, **UE5/Unity 6/Godot 4 CSV & C++/GDScript templates**, **6 AI Drag-and-Drop Bundles** (for ChatGPT/Claude/NotebookLM), **Local CLI (`ask_vault.py`)**, and **Zero-Key MCP Server** — including future **10K-video milestone updates**?
 
-👉 **[Download & Support the Project on GitHub](https://github.com/emirkankirman2-arch/gamedev-mechanics-vault)**  
+👉 **[Download & Support on Itch.io ($0 or Donate)](https://emirkankirman2353.itch.io/game-mechanics-systems-vault-ue5-unity-6-godot-4-aimcp)**  
+📦 **[GitHub Repository](https://github.com/emirkankirman2-arch/gamedev-mechanics-vault)**  
 🌐 **[Interactive Web Graph (GitHub Pages)](https://emirkankirman2-arch.github.io/gamedev-mechanics-vault)**

@@ -33,9 +33,9 @@ Structure: 4-Bucket Architecture (Theory, Engine/Code, Game Juice, Anti-Patterns
 - Retention & Live Systems (Oyuncu Tutma ve Canlı Sistemler): Ethical long-term mastery loops, seasonal modifiers, anti-burnout pacing, and avoiding manipulative dark patterns. | Linked: Reward Systems, Progression, Social Systems, Anti-Pattern Playbook
 
 ==============================================================================
-# 🔥 Gerçek Kütüphane Çıktısı: 5 Kategori Master Raporu (6,774+ Video Analizi)
+# 🔥 Gerçek Kütüphane Çıktısı: 5 Kategori Master Raporu (Living Library — Updated Every 10K Videos)
 
-> Bu rapor, ana veritabanımızdaki **6,774+ gerçek video analizinden** doğrudan derlenen sistem düğümleri, motor reçeteleri ve somut oyun örneklerinden oluşur. Her kategori **%25 Teori • %25 Motor/Kod Parametresi • %25 Game Juice • %25 Anti-Pattern** dengesiyle hazırlanmıştır.
+> Bu rapor, **7/24 çalışan analiz motoruyla sürekli büyüyen ve her 10.000 videoda bir güncellenen yaşayan veritabanımızdan** doğrudan derlenen sistem düğümleri, motor reçeteleri ve somut oyun örneklerinden oluşur. Her kategori **%25 Teori • %25 Motor/Kod Parametresi • %25 Game Juice • %25 Anti-Pattern** dengesiyle hazırlanmıştır.
 
 ---
 

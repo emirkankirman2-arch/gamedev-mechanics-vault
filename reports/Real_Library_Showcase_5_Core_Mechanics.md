@@ -6,9 +6,9 @@ tags: [showcase, real-corpus, 4-bucket-module, master-report]
 linked_systems: ["Volumetric Lighting & Darkness", "Mental Mapping", "Procedural World Generation", "Combat", "Hitstop & Freeze Frames", "Farming & Seasonal Loops", "World Building", "Shader Rim & Silhouette"]
 ---
 
-# 🔥 Gerçek Kütüphane Çıktısı: 5 Kategori Master Raporu (6,774+ Video Analizi)
+# 🔥 Gerçek Kütüphane Çıktısı: 5 Kategori Master Raporu (Living Library — Updated Every 10K Videos)
 
-> Bu rapor, ana veritabanımızdaki **6,774+ gerçek video analizinden** doğrudan derlenen sistem düğümleri, motor reçeteleri ve somut oyun örneklerinden oluşur. Her kategori **%25 Teori • %25 Motor/Kod Parametresi • %25 Game Juice • %25 Anti-Pattern** dengesiyle hazırlanmıştır.
+> Bu rapor, **7/24 çalışan analiz motoruyla sürekli büyüyen ve her 10.000 videoda bir güncellenen yaşayan veritabanımızdan** doğrudan derlenen sistem düğümleri, motor reçeteleri ve somut oyun örneklerinden oluşur. Her kategori **%25 Teori • %25 Motor/Kod Parametresi • %25 Game Juice • %25 Anti-Pattern** dengesiyle hazırlanmıştır.
 
 ---
 
@@ -160,4 +160,4 @@ linked_systems: ["Volumetric Lighting & Darkness", "Mental Mapping", "Procedural
 ---
 
 > [!TIP] **Bu kütüphaneyi çevrimdışı kullanmak ve kendi oyununuza uyarlamak ister misiniz?**
-> Tam Obsidian Vault veritabanını, Unreal Engine 5 / Unity 6 / Godot 4 hazır parametre tablolarını, GDD şablonlarını, ChatGPT/Claude/NotebookLM sürükle-bırak paketlerini, API anahtarsız MCP Sunucusunu ve kendi anahtarınızla çalışan Yerel AI Sorgu Aracını (CLI) içeren **Supporter Pack**'i [GitHub Supporter Pack & Bağış Sayfası](https://github.com/emirkankirman2-arch/gamedev-mechanics-vault) üzerinden indirerek projeye destek olabilirsiniz!
+> Tam Obsidian Vault veritabanını, Unreal Engine 5 / Unity 6 / Godot 4 hazır parametre tablolarını, GDD şablonlarını, ChatGPT/Claude/NotebookLM sürükle-bırak paketlerini, API anahtarsız MCP Sunucusunu ve kendi anahtarınızla çalışan Yerel AI Sorgu Aracını (CLI) içeren **Supporter Pack**'i [Itch.io Supporter Pack](https://emirkankirman2353.itch.io/game-mechanics-systems-vault-ue5-unity-6-godot-4-aimcp) üzerinden indirerek bu 7/24 büyüyen yaşayan kütüphaneye destek olabilirsiniz!
