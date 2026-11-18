@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_4"
 ku_count: 21
 tags: [progression, design, bundle_4, 4-bucket-module]
-linked_systems: ["Progression", "Economy", "Level Design", "Crafting", "Combat", "Core Systems"]
+linked_systems: ["Progression", "Combat", "Crafting", "Economy", "Exploration", "Core Systems"]
 ---
 
 # Player Progression
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Progression]], [[Economy]], [[Level Design]], [[Crafting]], [[Combat]], [[Core Systems]]
+> **Linked Systems:** [[Progression]], [[Combat]], [[Crafting]], [[Economy]], [[Exploration]], [[Core Systems]]
 
 ---
 
@@ -67,10 +67,10 @@ Player Progression mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `How_Do_Games_Design_Around_No_Damage`, `How_Terraria_Makes_You_Feel_Like_A_Master`, `My_Favourite_Games_From_GMTK_Game_Jam_2026`, `What_Makes_a_Great_Secret`

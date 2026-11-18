@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 35
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Game Design Systems", "Game Loop", "Animation", "Game Mechanics"]
+linked_systems: ["Level Design", "Game Design Systems", "Game Loop", "Animation", "Character Design"]
 ---
 
 # Global Information
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `35`  
-> **Linked Systems:** [[Level Design]], [[Game Design Systems]], [[Game Loop]], [[Animation]], [[Game Mechanics]]
+> **Linked Systems:** [[Level Design]], [[Game Design Systems]], [[Game Loop]], [[Animation]], [[Character Design]]
 
 ---
 
@@ -70,7 +70,7 @@ Küresel Bilgi Haritası, oyunun temel yapısını oluşturan sistem.
 - [[Game Design Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Loop]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Animation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Difficulty_By_Design-_X-COM_2_s_Endless_Arms_Race`, `What_Was_Disco_Elysium_Actually_About`, `Concrete_Jungle_Gym_-_Building_Traversal_in_Marvel_s_Spider-Man`, `Rewards_in_Video_Games`, `Balatro_s_Cursed_Design_Problem`
 

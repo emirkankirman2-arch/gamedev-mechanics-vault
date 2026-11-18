@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 19
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Gameplay Mechanics", "Gameplay Systems", "Resource Management", "Storytelling", "Game Maker S Toolkit In 2019"]
+linked_systems: ["Level Design", "Gameplay Mechanics", "Gameplay Systems", "Resource Management", "Enemy AI", "Game Maker S Toolkit In 2019"]
 ---
 
 # Enemy Design
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
-> **Linked Systems:** [[Level Design]], [[Gameplay Mechanics]], [[Gameplay Systems]], [[Resource Management]], [[Storytelling]], [[Game Maker S Toolkit In 2019]]
+> **Linked Systems:** [[Level Design]], [[Gameplay Mechanics]], [[Gameplay Systems]], [[Resource Management]], [[Enemy AI]], [[Game Maker S Toolkit In 2019]]
 
 ---
 
@@ -70,7 +70,7 @@ Enemy Design mekanik sistemi.
 - [[Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Gameplay Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Maker S Toolkit In 2019]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Engineering_The_Perfect_Enemy`, `Good_Design_Bad_Design_Vol._8_-_Analyzing_the_Graphic_Design_in_Cuphead_Jackbox_and_More`, `How_Do_You_Design_a_Cast_of_Enemies`, `What_s_The_Point_of_Elements_in_Games`, `What_Saved_ARC_Raiders_From_Itself`

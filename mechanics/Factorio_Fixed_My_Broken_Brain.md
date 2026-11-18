@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_4"
 ku_count: 30
 tags: [progression, design, bundle_4, 4-bucket-module]
-linked_systems: ["Progression", "Resource Management", "Game Design"]
+linked_systems: ["Progression", "Game Design", "Resource Management"]
 ---
 
 # Factorio Fixed My Broken Brain
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
-> **Linked Systems:** [[Progression]], [[Resource Management]], [[Game Design]]
+> **Linked Systems:** [[Progression]], [[Game Design]], [[Resource Management]]
 
 ---
 
@@ -64,8 +64,8 @@ Systems and principles discussed in Factorio_Fixed_My_Broken_Brain.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Factorio_Fixed_My_Broken_Brain`
 

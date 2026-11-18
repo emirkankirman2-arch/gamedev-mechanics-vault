@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_3"
 ku_count: 21
 tags: [diegetic_guidance, design, bundle_3, 4-bucket-module]
-linked_systems: ["Diegetic Guidance", "Puzzle Design", "Game Mechanics", "Game Design", "Character Design", "Video Analysis"]
+linked_systems: ["Diegetic Guidance", "Game Mechanics", "Puzzle Design", "Game Design", "Character Design", "Video Analysis"]
 ---
 
 # Sound Effects
 
 > **Domain:** [[Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Diegetic Guidance]], [[Puzzle Design]], [[Game Mechanics]], [[Game Design]], [[Character Design]], [[Video Analysis]]
+> **Linked Systems:** [[Diegetic Guidance]], [[Game Mechanics]], [[Puzzle Design]], [[Game Design]], [[Character Design]], [[Video Analysis]]
 
 ---
 
@@ -67,8 +67,8 @@ sound_effects mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi

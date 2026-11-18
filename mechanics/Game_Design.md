@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 139
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Sound Effects", "Exploration", "Combat", "Resource Management", "Game Maker S Toolkit In 2019"]
+linked_systems: ["Level Design", "Sound Effects", "Combat", "Exploration", "Resource Management", "Game Maker S Toolkit In 2019"]
 ---
 
 # Game Design
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `139`  
-> **Linked Systems:** [[Level Design]], [[Sound Effects]], [[Exploration]], [[Combat]], [[Resource Management]], [[Game Maker S Toolkit In 2019]]
+> **Linked Systems:** [[Level Design]], [[Sound Effects]], [[Combat]], [[Exploration]], [[Resource Management]], [[Game Maker S Toolkit In 2019]]
 
 ---
 
@@ -68,8 +68,8 @@ Game Design mekanik sistemi.
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Maker S Toolkit In 2019]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 

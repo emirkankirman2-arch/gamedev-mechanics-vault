@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 22
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Progression", "Core Systems", "Player Agency", "Crafting"]
+linked_systems: ["Level Design", "Core Systems", "Progression", "Player Agency", "Crafting"]
 ---
 
 # The Making Of Divinity Original Sin 2
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `22`  
-> **Linked Systems:** [[Level Design]], [[Progression]], [[Core Systems]], [[Player Agency]], [[Crafting]]
+> **Linked Systems:** [[Level Design]], [[Core Systems]], [[Progression]], [[Player Agency]], [[Crafting]]
 
 ---
 
@@ -64,8 +64,8 @@ Systems and principles discussed in The_Making_of_Divinity_-_Original_Sin_2.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 

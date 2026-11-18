@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 59
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Player Agency", "Combat", "Global Information", "Player Choice", "Game Balance"]
+linked_systems: ["Level Design", "Player Agency", "Combat", "Player Choice", "Game Balance", "Sound Effects"]
 ---
 
 # Game Mechanics
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `59`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Global Information]], [[Player Choice]], [[Game Balance]]
+> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Player Choice]], [[Game Balance]], [[Sound Effects]]
 
 ---
 
@@ -69,9 +69,9 @@ Oyunun temel mekaniklerini tanımlayan sistem.
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Player Choice]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Balance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Farlands - Characterization Through Mechanics`, `Ask a Game Designer Anything #1 - Difficulty, Standardization, Depth`, `Building_Games_That_Can_Be_Understood_at_a_Glance`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `How_Do_Games_Design_Around_No_Damage`
 

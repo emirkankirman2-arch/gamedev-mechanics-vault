@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 32
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Economy", "Crafting", "Player Progression", "Combat", "Game Design"]
+linked_systems: ["Level Design", "Combat", "Crafting", "Economy", "Exploration", "Game Design"]
 ---
 
 # Resource Management
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `32`  
-> **Linked Systems:** [[Level Design]], [[Economy]], [[Crafting]], [[Player Progression]], [[Combat]], [[Game Design]]
+> **Linked Systems:** [[Level Design]], [[Combat]], [[Crafting]], [[Economy]], [[Exploration]], [[Game Design]]
 
 ---
 
@@ -67,10 +67,10 @@ Resource Management mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_20_Games_You_Should_Have_Played`, `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `Factorio_Fixed_My_Broken_Brain`, `How_Outer_Wilds_Makes_Running_Out_of_Stuff_Fun`, `Into_the_Breach_Design_Postmortem`

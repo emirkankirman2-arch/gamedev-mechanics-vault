@@ -3097,7 +3097,7 @@ Oyun tasarımı, programlama, renk teorisi, karakter arkalıkları, hikaye yapı
 # Game Design
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `139`  
-> **Linked Systems:** [[Level Design]], [[Sound Effects]], [[Exploration]], [[Combat]], [[Resource Management]], [[Game Maker S Toolkit In 2019]]
+> **Linked Systems:** [[Level Design]], [[Sound Effects]], [[Combat]], [[Exploration]], [[Resource Management]], [[Game Maker S Toolkit In 2019]]
 
 ---
 
@@ -3154,8 +3154,8 @@ Game Design mekanik sistemi.
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Maker S Toolkit In 2019]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
@@ -3492,7 +3492,7 @@ Game Development mekanik sistemi.
 # Game Mechanics
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `59`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Global Information]], [[Player Choice]], [[Game Balance]]
+> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Player Choice]], [[Game Balance]], [[Sound Effects]]
 
 ---
 
@@ -3550,9 +3550,9 @@ Oyunun temel mekaniklerini tanımlayan sistem.
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Player Choice]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Balance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Farlands - Characterization Through Mechanics`, `Ask a Game Designer Anything #1 - Difficulty, Standardization, Depth`, `Building_Games_That_Can_Be_Understood_at_a_Glance`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `How_Do_Games_Design_Around_No_Damage`
 ------------------------------------------------------------
@@ -4559,7 +4559,7 @@ Systems and principles discussed in The_Tragedy_of_Halo_3_-_ODST.
 # Global Information
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `35`  
-> **Linked Systems:** [[Level Design]], [[Game Design Systems]], [[Game Loop]], [[Animation]], [[Game Mechanics]]
+> **Linked Systems:** [[Level Design]], [[Game Design Systems]], [[Game Loop]], [[Animation]], [[Character Design]]
 
 ---
 
@@ -4618,7 +4618,7 @@ Küresel Bilgi Haritası, oyunun temel yapısını oluşturan sistem.
 - [[Game Design Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Loop]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Animation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Difficulty_By_Design-_X-COM_2_s_Endless_Arms_Race`, `What_Was_Disco_Elysium_Actually_About`, `Concrete_Jungle_Gym_-_Building_Traversal_in_Marvel_s_Spider-Man`, `Rewards_in_Video_Games`, `Balatro_s_Cursed_Design_Problem`
 ------------------------------------------------------------
@@ -4692,7 +4692,7 @@ Player Experience mekanik sistemi.
 # Storytelling
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `35`  
-> **Linked Systems:** [[Level Design]], [[Difficulty Curve]], [[Player Agency]], [[Enemy Design]]
+> **Linked Systems:** [[Level Design]], [[Difficulty Curve]], [[Player Agency]]
 
 ---
 
@@ -4753,7 +4753,6 @@ Oyunun hikaye anlatımı mekanizmaları
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Difficulty Curve]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `Engineering_The_Perfect_Enemy`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `How_to_Fix_Borderlands_3_s_Villains`, `Is_Until_Dawn_a_Good_Horror_Movie`
 ------------------------------------------------------------
@@ -5373,7 +5372,7 @@ Game Feel mekanik sistemi.
 # Resource Management
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `32`  
-> **Linked Systems:** [[Level Design]], [[Economy]], [[Crafting]], [[Player Progression]], [[Combat]], [[Game Design]]
+> **Linked Systems:** [[Level Design]], [[Combat]], [[Crafting]], [[Economy]], [[Exploration]], [[Game Design]]
 
 ---
 
@@ -5429,10 +5428,10 @@ Resource Management mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_20_Games_You_Should_Have_Played`, `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `Factorio_Fixed_My_Broken_Brain`, `How_Outer_Wilds_Makes_Running_Out_of_Stuff_Fun`, `Into_the_Breach_Design_Postmortem`
@@ -5562,7 +5561,7 @@ Systems and principles discussed in I_Made_an_Inverted_Biking_Game.
 # Character Design
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
-> **Linked Systems:** [[Level Design]], [[Character Development]], [[Visual Effects]], [[Sound Effects]], [[Gameplay Mechanics]]
+> **Linked Systems:** [[Level Design]], [[Character Development]], [[Sound Effects]], [[Visual Effects]], [[Gameplay Mechanics]], [[Global Information]]
 
 ---
 
@@ -5619,16 +5618,17 @@ Karakterlerin tasarımları ve yetenekleri.
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Good_Design_Bad_Design_Vol._13_with_JoCat_-_Advance_Wars_Chicory_Astroneer_and_More_~_Design_Doc`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `Good_Design_Bad_Design_Vol._9_-_The_Graphic_Design_of_Animal_Crossing_Resident_Evil_2_and_More`, `Weird_Gaming_Moments_9_-_El_Shaddai_-_Armaros_Fight`, `Final_Fantasy_IX_-_How_to_Pace_a_Game_~_Design_Doc`
 ------------------------------------------------------------
 # Factorio Fixed My Broken Brain
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
-> **Linked Systems:** [[Progression]], [[Resource Management]], [[Game Design]]
+> **Linked Systems:** [[Progression]], [[Game Design]], [[Resource Management]]
 
 ---
 
@@ -5681,8 +5681,8 @@ Systems and principles discussed in Factorio_Fixed_My_Broken_Brain.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Factorio_Fixed_My_Broken_Brain`
 ------------------------------------------------------------
@@ -6565,7 +6565,7 @@ Systems and principles discussed in Balatro_s_Cursed_Design_Problem.
 # Platformer
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `27`  
-> **Linked Systems:** [[Level Design]], [[Roguelike]], [[Exploration]]
+> **Linked Systems:** [[Level Design]], [[Exploration]], [[Roguelike]]
 
 ---
 
@@ -6621,8 +6621,8 @@ Platformer mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Roguelike]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Roguelike]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_20_Games_You_Should_Have_Played`, `GMTK_Game_Jam_Begins_Now_-_Theme_Announcement`, `How_Can_You_Make_Backtracking_Fun`, `How_Difficulty_Turned_DOOM_into_an_RPG`, `How_To_Combine_Video_Game_Genres`
 ------------------------------------------------------------
@@ -7203,7 +7203,7 @@ Systems and principles discussed in Ico_and_Design_by_Subtraction.
 # Roguelike
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
-> **Linked Systems:** [[Level Design]], [[Platformer]], [[Exploration]], [[Enemy AI]]
+> **Linked Systems:** [[Level Design]], [[Exploration]], [[Platformer]], [[Enemy AI]]
 
 ---
 
@@ -7259,8 +7259,8 @@ Roguelike mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Platformer]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Platformer]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `100_Steam_Games_that_started_life_during_GMTK_Game_Jam`, `How_Synergies_Make_Slay_the_Spire_Fun`, `How_To_Combine_Video_Game_Genres`, `How_Videogames_Keep_You_Playing_Forever`, `One_More_Run_-_The_Making_of_Spelunky_2`
@@ -7576,7 +7576,7 @@ Systems and principles discussed in Watch_Dogs_-_Hacking_it_to_11.
 # G Rsel Efektler
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `22`  
-> **Linked Systems:** [[Level Design]], [[Gameplay]], [[Visual Effects]], [[Character Development]]
+> **Linked Systems:** [[Level Design]], [[Character Development]], [[Gameplay]], [[Visual Effects]]
 
 ---
 
@@ -7632,9 +7632,9 @@ Görsel efektler mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Gameplay]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Final_Fantasy_IX_-_How_to_Pace_a_Game_~_Design_Doc`, `How_Fortnite_Exploits_Your_FOMO`, `Making_The_Last_of_Us_Part_II_s_Best_Level`, `The_Design_of_Dead_Space_-_Part_1`, `The_Two_Types_of_Random_in_Game_Design`
 ------------------------------------------------------------
@@ -7705,7 +7705,7 @@ Görsel/İşitsel/Arayüz Bağlantıları mekanik sistemi.
 # The Making Of Divinity Original Sin 2
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `22`  
-> **Linked Systems:** [[Level Design]], [[Progression]], [[Core Systems]], [[Player Agency]], [[Crafting]]
+> **Linked Systems:** [[Level Design]], [[Core Systems]], [[Progression]], [[Player Agency]], [[Crafting]]
 
 ---
 
@@ -7758,8 +7758,8 @@ Systems and principles discussed in The_Making_of_Divinity_-_Original_Sin_2.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
@@ -7768,7 +7768,7 @@ Systems and principles discussed in The_Making_of_Divinity_-_Original_Sin_2.
 # Game Balance
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Level Design]], [[Game Mechanics]], [[Game Design]]
+> **Linked Systems:** [[Level Design]], [[Game Design]], [[Game Mechanics]]
 
 ---
 
@@ -7824,8 +7824,8 @@ Game Balance mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Ask a Game Designer Anything #1 - Difficulty, Standardization, Depth`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `How_Board_Games_Matter`, `How_Do_Games_Design_Around_No_Damage`, `Why_Do_So_Many_Games_Have_Tanks_Healers_and_DPS`
 ------------------------------------------------------------
@@ -8031,7 +8031,7 @@ Karakter Geliştirme mekanik sistemi.
 # Player Progression
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Progression]], [[Economy]], [[Level Design]], [[Crafting]], [[Combat]], [[Core Systems]]
+> **Linked Systems:** [[Progression]], [[Combat]], [[Crafting]], [[Economy]], [[Exploration]], [[Core Systems]]
 
 ---
 
@@ -8087,10 +8087,10 @@ Player Progression mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `How_Do_Games_Design_Around_No_Damage`, `How_Terraria_Makes_You_Feel_Like_A_Master`, `My_Favourite_Games_From_GMTK_Game_Jam_2026`, `What_Makes_a_Great_Secret`
@@ -8284,7 +8284,7 @@ Systems and principles discussed in Rewards_in_Video_Games.
 # Sound Effects
 
 > **Domain:** [[Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Diegetic Guidance]], [[Puzzle Design]], [[Game Mechanics]], [[Game Design]], [[Character Design]], [[Video Analysis]]
+> **Linked Systems:** [[Diegetic Guidance]], [[Game Mechanics]], [[Puzzle Design]], [[Game Design]], [[Character Design]], [[Video Analysis]]
 
 ---
 
@@ -8340,8 +8340,8 @@ sound_effects mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
@@ -8482,7 +8482,7 @@ Video Analiz mekanik sistemi.
 # Design Philosophy
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `20`  
-> **Linked Systems:** [[Level Design]], [[Video Analysis]], [[Game Design]], [[Video Analiz]]
+> **Linked Systems:** [[Level Design]], [[Game Design]], [[Video Analysis]], [[Video Analiz]]
 
 ---
 
@@ -8538,8 +8538,8 @@ Oyun tasarımcıları, tasarım felsefesi ve değişkenler gibi konuları da dik
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Video Analiz]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] 2.2. How to Start Designing Mechanics ｜ Farlands School of Game Design`, `What_Makes_a_Great_Hub_World_-_How_Mario_64_Spyro_and_Hades_Made_Theirs_~_Design_Doc`, `What_Makes_Video_Game_Stories_Special`, `Why_Are_Explosive_Barrels_Always_Red`, `Interactive_Wind_and_Vegetation_in_God_of_War`
@@ -8867,7 +8867,7 @@ Difficulty Curve mekanik sistemi.
 # Enemy Design
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
-> **Linked Systems:** [[Level Design]], [[Gameplay Mechanics]], [[Gameplay Systems]], [[Resource Management]], [[Storytelling]], [[Game Maker S Toolkit In 2019]]
+> **Linked Systems:** [[Level Design]], [[Gameplay Mechanics]], [[Gameplay Systems]], [[Resource Management]], [[Enemy AI]], [[Game Maker S Toolkit In 2019]]
 
 ---
 
@@ -8926,7 +8926,7 @@ Enemy Design mekanik sistemi.
 - [[Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Gameplay Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Maker S Toolkit In 2019]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Engineering_The_Perfect_Enemy`, `Good_Design_Bad_Design_Vol._8_-_Analyzing_the_Graphic_Design_in_Cuphead_Jackbox_and_More`, `How_Do_You_Design_a_Cast_of_Enemies`, `What_s_The_Point_of_Elements_in_Games`, `What_Saved_ARC_Raiders_From_Itself`
@@ -8934,7 +8934,7 @@ Enemy Design mekanik sistemi.
 # Game Design Systems
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
-> **Linked Systems:** [[Level Design]], [[Visual Effects]], [[Character Development]], [[Sound Effects]], [[Enemy Design]], [[Global Information]]
+> **Linked Systems:** [[Level Design]], [[Character Development]], [[Enemy Design]], [[Sound Effects]], [[Visual Effects]], [[Global Information]]
 
 ---
 
@@ -8990,10 +8990,10 @@ Oyunun tasarım sistemleri, oyuncunun deneyimini şekillendiren sistem.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Enemy Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Darkest_Dungeon_-_A_Design_Postmortem`, `Balatro_s_Cursed_Design_Problem`, `Great_and_Terrible_UX_Design_in_Games_-_Good_Design_Bad_Design`, `Making_The_Last_of_Us_Part_II_s_Best_Level`, `How_Tears_Of_The_Kingdom_Keeps_You_Playing_Forever`

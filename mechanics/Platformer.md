@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 27
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Roguelike", "Exploration"]
+linked_systems: ["Level Design", "Exploration", "Roguelike"]
 ---
 
 # Platformer
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `27`  
-> **Linked Systems:** [[Level Design]], [[Roguelike]], [[Exploration]]
+> **Linked Systems:** [[Level Design]], [[Exploration]], [[Roguelike]]
 
 ---
 
@@ -67,8 +67,8 @@ Platformer mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Roguelike]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Roguelike]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_20_Games_You_Should_Have_Played`, `GMTK_Game_Jam_Begins_Now_-_Theme_Announcement`, `How_Can_You_Make_Backtracking_Fun`, `How_Difficulty_Turned_DOOM_into_an_RPG`, `How_To_Combine_Video_Game_Genres`
 

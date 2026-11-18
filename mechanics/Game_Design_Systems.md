@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 19
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Visual Effects", "Character Development", "Sound Effects", "Enemy Design", "Global Information"]
+linked_systems: ["Level Design", "Character Development", "Enemy Design", "Sound Effects", "Visual Effects", "Global Information"]
 ---
 
 # Game Design Systems
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
-> **Linked Systems:** [[Level Design]], [[Visual Effects]], [[Character Development]], [[Sound Effects]], [[Enemy Design]], [[Global Information]]
+> **Linked Systems:** [[Level Design]], [[Character Development]], [[Enemy Design]], [[Sound Effects]], [[Visual Effects]], [[Global Information]]
 
 ---
 
@@ -67,10 +67,10 @@ Oyunun tasarım sistemleri, oyuncunun deneyimini şekillendiren sistem.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Enemy Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Darkest_Dungeon_-_A_Design_Postmortem`, `Balatro_s_Cursed_Design_Problem`, `Great_and_Terrible_UX_Design_in_Games_-_Good_Design_Bad_Design`, `Making_The_Last_of_Us_Part_II_s_Best_Level`, `How_Tears_Of_The_Kingdom_Keeps_You_Playing_Forever`

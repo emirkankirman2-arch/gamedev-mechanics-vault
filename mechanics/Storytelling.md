@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 35
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Difficulty Curve", "Player Agency", "Enemy Design"]
+linked_systems: ["Level Design", "Difficulty Curve", "Player Agency"]
 ---
 
 # Storytelling
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `35`  
-> **Linked Systems:** [[Level Design]], [[Difficulty Curve]], [[Player Agency]], [[Enemy Design]]
+> **Linked Systems:** [[Level Design]], [[Difficulty Curve]], [[Player Agency]]
 
 ---
 
@@ -72,7 +72,6 @@ Oyunun hikaye anlatımı mekanizmaları
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Difficulty Curve]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `Engineering_The_Perfect_Enemy`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `How_to_Fix_Borderlands_3_s_Villains`, `Is_Until_Dawn_a_Good_Horror_Movie`
 

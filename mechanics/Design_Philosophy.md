@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 20
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Video Analysis", "Game Design", "Video Analiz"]
+linked_systems: ["Level Design", "Game Design", "Video Analysis", "Video Analiz"]
 ---
 
 # Design Philosophy
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `20`  
-> **Linked Systems:** [[Level Design]], [[Video Analysis]], [[Game Design]], [[Video Analiz]]
+> **Linked Systems:** [[Level Design]], [[Game Design]], [[Video Analysis]], [[Video Analiz]]
 
 ---
 
@@ -67,8 +67,8 @@ Oyun tasarımcıları, tasarım felsefesi ve değişkenler gibi konuları da dik
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Video Analiz]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] 2.2. How to Start Designing Mechanics ｜ Farlands School of Game Design`, `What_Makes_a_Great_Hub_World_-_How_Mario_64_Spyro_and_Hades_Made_Theirs_~_Design_Doc`, `What_Makes_Video_Game_Stories_Special`, `Why_Are_Explosive_Barrels_Always_Red`, `Interactive_Wind_and_Vegetation_in_God_of_War`

@@ -5,13 +5,13 @@ department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 22
 tags: [level_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Level Design", "Gameplay", "Visual Effects", "Character Development"]
+linked_systems: ["Level Design", "Character Development", "Gameplay", "Visual Effects"]
 ---
 
 # G Rsel Efektler
 
 > **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `22`  
-> **Linked Systems:** [[Level Design]], [[Gameplay]], [[Visual Effects]], [[Character Development]]
+> **Linked Systems:** [[Level Design]], [[Character Development]], [[Gameplay]], [[Visual Effects]]
 
 ---
 
@@ -67,9 +67,9 @@ Görsel efektler mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Gameplay]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Final_Fantasy_IX_-_How_to_Pace_a_Game_~_Design_Doc`, `How_Fortnite_Exploits_Your_FOMO`, `Making_The_Last_of_Us_Part_II_s_Best_Level`, `The_Design_of_Dead_Space_-_Part_1`, `The_Two_Types_of_Random_in_Game_Design`
 
