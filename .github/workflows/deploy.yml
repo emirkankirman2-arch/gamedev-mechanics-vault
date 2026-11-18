@@ -1,0 +1,76 @@
+# GitHub Pages Deployment Workflow for Quartz 4
+name: Deploy Game Mechanics Vault to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Vault Content
+        uses: actions/checkout@v4
+        with:
+          path: vault_src
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Clone Quartz 4 Engine
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: v4
+          path: quartz
+
+      - name: Install Quartz Dependencies
+        working-directory: quartz
+        run: npm ci
+
+      - name: Populate Quartz Content & AI Static Files
+        run: |
+          rm -rf quartz/content/*
+          cp -r vault_src/index.md vault_src/README.md vault_src/linked_systems_graph.md quartz/content/
+          cp -r vault_src/categories vault_src/mechanics vault_src/reports quartz/content/
+          mkdir -p quartz/quartz/static
+          cp vault_src/llms.txt vault_src/llms-full.txt quartz/quartz/static/
+
+      - name: Build Quartz 4 Static Site
+        working-directory: quartz
+        run: npx quartz build
+
+      - name: Copy llms.txt to Public Root
+        run: |
+          cp vault_src/llms.txt quartz/public/llms.txt
+          cp vault_src/llms-full.txt quartz/public/llms-full.txt
+
+      - name: Upload GitHub Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
