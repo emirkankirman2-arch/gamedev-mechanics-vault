@@ -1,5 +1,6 @@
 ---
 title: "Stealth"
+aliases: ["Stealth", "Gizlilik ve Algılama Döngüleri"]
 tr_title: "Gizlilik ve Algılama Döngüleri"
 department: "GAME_AI"
 bundle: "Bundle_4"
@@ -8,7 +9,7 @@ tags: [domain-hub, stealth]
 
 # Stealth — Gizlilik ve Algılama Döngüleri
 
-> **Ana Disiplin:** `GAME_AI` | **Bağlı Alanlar:** [[Enemy AI]], [[Volumetric Lighting & Darkness]], [[Level Design]], [[Player Agency]]
+> **Ana Disiplin:** `GAME_AI` | **Bağlı Alanlar:** [[Enemy_AI|Enemy AI]], [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]], [[Level_Design|Level Design]], [[Player_Agency|Player Agency]]
 
 ## Alan Özeti (Domain Synopsis)
 

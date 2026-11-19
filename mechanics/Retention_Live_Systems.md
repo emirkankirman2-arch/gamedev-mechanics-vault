@@ -1,5 +1,6 @@
 ---
 title: "Retention & Live Systems"
+aliases: ["Retention & Live Systems"]
 domain: "Retention & Live Systems"
 department: "LIVEOPS"
 bundle: "Bundle_5"
@@ -10,8 +11,8 @@ linked_systems: ["Reward Systems", "Progression", "Social Systems", "Anti-Patter
 
 # Retention & Live Systems
 
-> **Domain:** [[Retention & Live Systems]] | **Department:** `LIVEOPS` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Reward Systems]], [[Progression]], [[Social Systems]], [[Anti-Pattern Playbook]]
+> **Domain:** [[Retention_Live_Systems|Retention & Live Systems]] | **Department:** `LIVEOPS` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Reward_Systems|Reward Systems]], [[Progression]], [[Social_Systems|Social Systems]], [[Anti_Pattern_Playbook|Anti-Pattern Playbook]]
 
 ---
 
@@ -62,10 +63,10 @@ linked_systems: ["Reward Systems", "Progression", "Social Systems", "Anti-Patter
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Reward_Systems|Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Social Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Anti-Pattern Playbook]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Social_Systems|Social Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Anti_Pattern_Playbook|Anti-Pattern Playbook]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Canonical_V2_Corpus`
 

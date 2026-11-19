@@ -1,5 +1,6 @@
 ---
 title: "Vertical Level Architecture"
+aliases: ["Vertical Level Architecture"]
 domain: "Level Design"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Landmark Guidance", "Navigation", "Traversal",
 
 # Vertical Level Architecture
 
-> **Domain:** [[Level Design]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `203`  
-> **Linked Systems:** [[Level Design]], [[Landmark Guidance]], [[Navigation]], [[Traversal]], [[Volumetric Lighting & Darkness]], [[Mental Mapping]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `203`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Landmark_Guidance|Landmark Guidance]], [[Navigation]], [[Traversal]], [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]], [[Mental_Mapping|Mental Mapping]]
 
 ---
 
@@ -75,12 +76,12 @@ linked_systems: ["Level Design", "Landmark Guidance", "Navigation", "Traversal",
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Landmark_Guidance|Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Navigation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Traversal]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Mental Mapping]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Mental_Mapping|Mental Mapping]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Ask a Game Designer Anything #1 - Difficulty, Standardization, Depth`, `Bonus_-_Playing_your_Super_Mario_Maker_Levels_GMTK_Extra`, `Dishonored_2_Devs_Explain_the_Clockwork_Mansion`, `Don_t_make_this_assumption_about_your_players_Developing_10`, `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`
 

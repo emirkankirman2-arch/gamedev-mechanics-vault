@@ -1,5 +1,6 @@
 ---
 title: "Game Maker S Toolkit In 2019"
+aliases: ["Game Maker S Toolkit In 2019"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Game Design", "Enemy Design"]
 
 # Game Maker S Toolkit In 2019
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `44`  
-> **Linked Systems:** [[Level Design]], [[Game Design]], [[Enemy Design]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `44`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Game_Design|Game Design]], [[Enemy_Design|Enemy Design]]
 
 ---
 
@@ -63,9 +64,9 @@ Systems and principles discussed in Game_Maker_s_Toolkit_in_2019.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design|Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_Design|Enemy Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Game_Maker_s_Toolkit_in_2019`
 

@@ -37,7 +37,7 @@ linked_systems: ["Volumetric Lighting & Darkness", "Mental Mapping", "Procedural
 - **Jump Scare Enflasyonu:** *Alan Wake* analizinde vurgulandığı üzere anlık ses/ışık patlamalarını (`jump_scare_system`) aşırı kullanmak oyuncuyu korkutmak yerine hissizleştirir.
 - **Crushed Blacks Körlüğü:** Sahneyi `#000000` saf siyaha gömmek yön duygusunu kırar; `Implied Light Source` ve `Practical Light` odaklarıyla çıkış silüeti korunmalıdır.
 
-**↔ Linked Systems:** [[Volumetric Lighting & Darkness]] ↔ [[Diegetic Guidance]] ↔ [[Stealth]] ↔ [[Shader Rim & Silhouette]]
+**↔ Linked Systems:** [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]] ↔ [[Diegetic_Guidance|Diegetic Guidance]] ↔ [[Stealth]] ↔ [[Shader_Rim_Silhouette|Shader Rim & Silhouette]]
 
 ---
 
@@ -66,7 +66,7 @@ linked_systems: ["Volumetric Lighting & Darkness", "Mental Mapping", "Procedural
 - **"Oatmeal Problem" (Rastgelelik Çorbası):** `Domain Warping` ve `Erosion` katmanları olmadan ham `Perlin Noise` basmak her gezegeni/haritayı aynı tekdüze tepeciklere dönüştürür.
 - **Önemsiz Seçim İllüzyonu:** *New Vegas* analizinin tersine, tüm diyalog dallarının aynı sonuca bağlanması (`No Trade-Off`) oyuncunun dünyaya olan inancını yıkar.
 
-**↔ Linked Systems:** [[Mental Mapping]] ↔ [[Landmark Guidance]] ↔ [[Procedural World Generation]] ↔ [[World Building]] ↔ [[Quest Design]]
+**↔ Linked Systems:** [[Mental_Mapping|Mental Mapping]] ↔ [[Landmark_Guidance|Landmark Guidance]] ↔ [[Procedural_World_Generation|Procedural World Generation]] ↔ [[World_Building|World Building]] ↔ [[Quest_Design|Quest Design]]
 
 ---
 
@@ -96,7 +96,7 @@ linked_systems: ["Volumetric Lighting & Darkness", "Mental Mapping", "Procedural
 - **Oynanışı Sabote Eden Viewmodel Sallantısı:** Silah sallantısını veya reload animasyonunu ekran ortasına (`Locked-Off Camera` merkezine) taşıyıp nişan almayı engellemek (`Gameplay First` ihlali).
 - **Tutarsız Duvar Çarpışması:** İnce ahşap kapıdan mermi geçmezken kalın köşeden hasar geçmesi oyuncuda netcode/hitbox güvensizliği doğurur.
 
-**↔ Linked Systems:** [[Combat]] ↔ [[Hitstop & Freeze Frames]] ↔ [[Camera Trauma & Screenshake]] ↔ [[Parry & Deflect Windows]]
+**↔ Linked Systems:** [[First_Person_Animation_Terminal_Ballistics|First-Person Animation & Terminal Ballistics]] ↔ [[Combat]] ↔ [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]] ↔ [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]] ↔ [[Parry_Deflect_Windows|Parry & Deflect Windows]]
 
 ---
 
@@ -125,7 +125,7 @@ linked_systems: ["Volumetric Lighting & Darkness", "Mental Mapping", "Procedural
 - **Zorunlu Tekli Üretim Hamallığı:** Oyuncuya 50 adet yem veya duvar ürettirirken her biri için aynı 4 saniyelik animasyonu izletmek (`time_management_system` anti-pattern'i).
 - **Dekorasyonların Sadece Statik Heykel Olması:** Oyuncunun kurduğu tezgah, salıncak veya kulübenin hiçbir mekanik etkileşim (`entertainment_system`) sunmaması.
 
-**↔ Linked Systems:** [[Farming & Seasonal Loops]] ↔ [[Economy]] ↔ [[Crafting]] ↔ [[Progression]] ↔ [[Social Systems]]
+**↔ Linked Systems:** [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]] ↔ [[Automated_Drone_Farming_Batch_Crafting|Automated Drone Farming & Batch Crafting]] ↔ [[Farming_Seasonal_Loops|Farming & Seasonal Loops]] ↔ [[Economy]] ↔ [[Crafting]]
 
 ---
 
@@ -155,7 +155,7 @@ linked_systems: ["Volumetric Lighting & Darkness", "Mental Mapping", "Procedural
 - **Senkronize "Asker Çimler":** `Diverging Neighbors` faz kaydırması ve `Fractal Noise` olmadan tüm bitkileri tek bir `sin(Time)` dalgasıyla sallamak plastik görünüm üretir.
 - **Dekoratif Hava Durumu:** Görüşü kör eden ama oynanışa (`Difficulty Modifier` / `Environmental Property` — örn. yağmurun ateşi söndürmesi veya sesi bastırması) hiçbir etkisi olmayan rastgele fırtınalar oyuncuyu sadece yorar.
 
-**↔ Linked Systems:** [[World Building]] ↔ [[Environmental Storytelling]] ↔ [[Puzzle Design]] ↔ [[Shader Rim & Silhouette]]
+**↔ Linked Systems:** [[Seasonal_Switch_Weather_Mechanics|Seasonal Switch & Weather Mechanics]] ↔ [[Interactive_Wind_Vegetation_WPO_Shaders|Interactive Wind & Vegetation WPO Shaders]] ↔ [[World_Building|World Building]] ↔ [[Puzzle_Design|Puzzle Design]] ↔ [[Shader_Rim_Silhouette|Shader Rim & Silhouette]]
 
 ---
 

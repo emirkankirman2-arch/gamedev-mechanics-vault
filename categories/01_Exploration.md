@@ -1,5 +1,6 @@
 ---
 title: "Exploration"
+aliases: ["Exploration", "Keşif ve Merak Döngüleri"]
 tr_title: "Keşif ve Merak Döngüleri"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, exploration]
 
 # Exploration — Keşif ve Merak Döngüleri
 
-> **Ana Disiplin:** `WORLD_DEVELOPMENT` | **Bağlı Alanlar:** [[Discovery]], [[Landmark Guidance]], [[Environmental Storytelling]], [[Navigation]], [[World Building]]
+> **Ana Disiplin:** `WORLD_DEVELOPMENT` | **Bağlı Alanlar:** [[Discovery]], [[Landmark_Guidance|Landmark Guidance]], [[Environmental_Storytelling|Environmental Storytelling]], [[Navigation]], [[World_Building|World Building]]
 
 ## Alan Özeti (Domain Synopsis)
 

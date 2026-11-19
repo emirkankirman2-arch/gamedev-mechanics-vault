@@ -1,5 +1,6 @@
 ---
 title: "Karakter Geli Imi"
+aliases: ["Karakter Geli Imi"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 # Karakter Geli Imi
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `28`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `28`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -66,8 +67,8 @@ Karakter Gelişimi mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] The Anatomy of Journey ｜ Farlands School of Game Design`, `An_Approach_to_Holistic_Level_Design`, `Can_A_Game_Be_Too_Realistic`, `Designing_Path_of_Exile_to_Be_Played_Forever`, `FFX_VS_FFXIII_-_Two_Linear_Games_Two_Outcomes_~_Design_Doc`

@@ -25,6 +25,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: vault_src
+          fetch-depth: 0
 
       - name: Setup Node.js 22
         uses: actions/setup-node@v4
@@ -42,13 +43,15 @@ jobs:
         working-directory: quartz
         run: npm ci
 
-      - name: Populate Quartz Content & AI Static Files
+      - name: Configure Quartz BaseURL & Populate Content
         run: |
           rm -rf quartz/content/*
           cp -r vault_src/index.md vault_src/README.md vault_src/linked_systems_graph.md quartz/content/
           cp -r vault_src/categories vault_src/mechanics vault_src/reports quartz/content/
           mkdir -p quartz/quartz/static
           cp vault_src/llms.txt vault_src/llms-full.txt quartz/quartz/static/
+          sed -i 's|baseUrl: ".*"|baseUrl: "emirkankirman2-arch.github.io/gamedev-mechanics-vault"|g' quartz/quartz.config.ts
+          sed -i 's|pageTitle: ".*"|pageTitle: "Game Mechanics Vault"|g' quartz/quartz.config.ts
 
       - name: Build Quartz 4 Static Site
         working-directory: quartz

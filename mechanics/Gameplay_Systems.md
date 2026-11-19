@@ -1,5 +1,6 @@
 ---
 title: "Gameplay Systems"
+aliases: ["Gameplay Systems"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "Enemy Design"]
 
 # Gameplay Systems
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `269`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Enemy Design]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `269`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[Enemy_Design|Enemy Design]]
 
 ---
 
@@ -66,10 +67,10 @@ Oyun tasarımı, programlama, renk teorisi, karakter arkalıkları, hikaye yapı
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_Design|Enemy Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] 1.5. What Game Designers Need to Know ｜ Farlands School of Game Design`, `[OLD] 2.2. How to Start Designing Mechanics ｜ Farlands School of Game Design`
 

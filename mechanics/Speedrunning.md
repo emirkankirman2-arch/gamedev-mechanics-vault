@@ -1,5 +1,6 @@
 ---
 title: "Speedrunning"
+aliases: ["Speedrunning"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Global Information Map", "Puzzle Solving"]
 
 # Speedrunning
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Level Design]], [[Global Information Map]], [[Puzzle Solving]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Global_Information_Map|Global Information Map]], [[Puzzle_Solving|Puzzle Solving]]
 
 ---
 
@@ -66,9 +67,9 @@ Speedrunning mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Global Information Map]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Puzzle Solving]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Global_Information_Map|Global Information Map]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Puzzle_Solving|Puzzle Solving]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `How_Neon_White_Lets_You_Speedrun_Speedrunning`, `Shovel_Knight_s_Secret_Mode-_The_Challenge_Run_Formula.f251`, `Shovel_Knight_s_Secret_Mode-_The_Challenge_Run_Formula`, `Super_Mario_s_Invisible_Difficulty_Settings`, `What_Makes_A_Game_Replayable`
 

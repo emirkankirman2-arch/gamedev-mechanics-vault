@@ -1,5 +1,6 @@
 ---
 title: "Movement"
+aliases: ["Movement"]
 domain: "Combat"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -11,7 +12,7 @@ linked_systems: ["Combat", "Player Agency", "Level Design"]
 # Movement
 
 > **Domain:** [[Combat]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Combat]], [[Player Agency]], [[Level Design]]
+> **Linked Systems:** [[Combat]], [[Player_Agency|Player Agency]], [[Level_Design|Level Design]]
 
 ---
 
@@ -67,8 +68,8 @@ linked_systems: ["Combat", "Player Agency", "Level Design"]
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Designing_Walk_It_Top_20_GMTK_Jam_2025`, `I_Turned_a_Boring_Platformer_Into_an_Addicting_One`, `Nintendo_-_Putting_Play_First`, `The_Legend_of_Zelda_-_Breath_of_the_Wild_s_dungeon_design_Boss_Keys`
 

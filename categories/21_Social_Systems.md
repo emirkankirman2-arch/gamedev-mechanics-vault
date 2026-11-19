@@ -1,5 +1,6 @@
 ---
 title: "Social Systems"
+aliases: ["Social Systems", "Sosyal Sistemler ve Asenkron İşbirliği"]
 tr_title: "Sosyal Sistemler ve Asenkron İşbirliği"
 department: "MULTIPLAYER_ONLINE"
 bundle: "Bundle_4"
@@ -8,7 +9,7 @@ tags: [domain-hub, social_systems]
 
 # Social Systems — Sosyal Sistemler ve Asenkron İşbirliği
 
-> **Ana Disiplin:** `MULTIPLAYER_ONLINE` | **Bağlı Alanlar:** [[Multiplayer]], [[Retention & Live Systems]], [[Player Agency]], [[Diegetic Guidance]]
+> **Ana Disiplin:** `MULTIPLAYER_ONLINE` | **Bağlı Alanlar:** [[Multiplayer]], [[Retention_Live_Systems|Retention & Live Systems]], [[Player_Agency|Player Agency]], [[Diegetic_Guidance|Diegetic Guidance]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Asynchronous bloodstains/messages, non-toxic ping wheels, shared world state, an
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Social Systems]] (`MULTIPLAYER_ONLINE`, `8 KUs`)
+- [[Social_Systems|Social Systems]] (`MULTIPLAYER_ONLINE`, `8 KUs`)
 
 ---
 

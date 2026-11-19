@@ -1,5 +1,6 @@
 ---
 title: "Economy"
+aliases: ["Economy", "Oyun Ekonomisi (Musluklar ve Giderler)"]
 tr_title: "Oyun Ekonomisi (Musluklar ve Giderler)"
 department: "ECONOMY"
 bundle: "Bundle_4"
@@ -8,7 +9,7 @@ tags: [domain-hub, economy]
 
 # Economy — Oyun Ekonomisi (Musluklar ve Giderler)
 
-> **Ana Disiplin:** `ECONOMY` | **Bağlı Alanlar:** [[Crafting]], [[Reward Systems]], [[Farming & Seasonal Loops]], [[Progression]]
+> **Ana Disiplin:** `ECONOMY` | **Bağlı Alanlar:** [[Crafting]], [[Reward_Systems|Reward Systems]], [[Farming_Seasonal_Loops|Farming & Seasonal Loops]], [[Progression]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Currency faucets vs. sinks, inflation containment, scarcity friction, and meanin
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Farming & Seasonal Loops]] (`ECONOMY`, `115 KUs`)
+- [[Farming_Seasonal_Loops|Farming & Seasonal Loops]] (`ECONOMY`, `115 KUs`)
 - [[Economy]] (`ECONOMY`, `8 KUs`)
 
 ---

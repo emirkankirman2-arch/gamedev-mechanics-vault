@@ -1,5 +1,6 @@
 ---
 title: "Enemy Design"
+aliases: ["Enemy Design"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Gameplay Mechanics", "Gameplay Systems", "Reso
 
 # Enemy Design
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
-> **Linked Systems:** [[Level Design]], [[Gameplay Mechanics]], [[Gameplay Systems]], [[Resource Management]], [[Enemy AI]], [[Game Maker S Toolkit In 2019]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Gameplay_Mechanics|Gameplay Mechanics]], [[Gameplay_Systems|Gameplay Systems]], [[Resource_Management|Resource Management]], [[Enemy_AI|Enemy AI]], [[Game_Maker_S_Toolkit_In_2019|Game Maker S Toolkit In 2019]]
 
 ---
 
@@ -66,12 +67,12 @@ Enemy Design mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Gameplay Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Maker S Toolkit In 2019]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Gameplay_Mechanics|Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Gameplay_Systems|Gameplay Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Resource_Management|Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_AI|Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Maker_S_Toolkit_In_2019|Game Maker S Toolkit In 2019]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Engineering_The_Perfect_Enemy`, `Good_Design_Bad_Design_Vol._8_-_Analyzing_the_Graphic_Design_in_Cuphead_Jackbox_and_More`, `How_Do_You_Design_a_Cast_of_Enemies`, `What_s_The_Point_of_Elements_in_Games`, `What_Saved_ARC_Raiders_From_Itself`
 

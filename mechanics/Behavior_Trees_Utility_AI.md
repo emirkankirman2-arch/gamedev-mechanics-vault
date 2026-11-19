@@ -1,5 +1,6 @@
 ---
 title: "Behavior Trees & Utility AI"
+aliases: ["Behavior Trees & Utility AI"]
 domain: "Enemy AI"
 department: "GAME_AI"
 bundle: "Bundle_4"
@@ -10,8 +11,8 @@ linked_systems: ["Enemy AI", "Stealth", "Boss Design", "Combat"]
 
 # Behavior Trees & Utility AI
 
-> **Domain:** [[Enemy AI]] | **Department:** `GAME_AI` | **Evidence Units:** `12`  
-> **Linked Systems:** [[Enemy AI]], [[Stealth]], [[Boss Design]], [[Combat]]
+> **Domain:** [[Enemy_AI|Enemy AI]] | **Department:** `GAME_AI` | **Evidence Units:** `12`  
+> **Linked Systems:** [[Enemy_AI|Enemy AI]], [[Stealth]], [[Boss_Design|Boss Design]], [[Combat]]
 
 ---
 
@@ -71,9 +72,9 @@ linked_systems: ["Enemy AI", "Stealth", "Boss Design", "Combat"]
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_AI|Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Stealth]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Boss_Design|Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `AI_Arborist_-_Proper_Cultivation_and_Care_for_Your_Behavior_Trees`, `Squad_Coordination_in_Days_Gone`

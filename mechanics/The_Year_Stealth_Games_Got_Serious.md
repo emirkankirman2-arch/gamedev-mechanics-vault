@@ -1,5 +1,6 @@
 ---
 title: "The Year Stealth Games Got Serious"
+aliases: ["The Year Stealth Games Got Serious"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Player Agency", "Combat"]
 # The Year Stealth Games Got Serious
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `33`  
-> **Linked Systems:** [[Progression]], [[Player Agency]], [[Combat]]
+> **Linked Systems:** [[Progression]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -64,7 +65,7 @@ Systems and principles discussed in The_Year_Stealth_Games_Got_Serious.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `The_Year_Stealth_Games_Got_Serious`

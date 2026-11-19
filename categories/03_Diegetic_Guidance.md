@@ -1,5 +1,6 @@
 ---
 title: "Diegetic Guidance"
+aliases: ["Diegetic Guidance", "Diegetik (HUD-suz) Yönlendirme"]
 tr_title: "Diegetik (HUD-suz) Yönlendirme"
 department: "UI_UX"
 bundle: "Bundle_3"
@@ -8,7 +9,7 @@ tags: [domain-hub, diegetic_guidance]
 
 # Diegetic Guidance — Diegetik (HUD-suz) Yönlendirme
 
-> **Ana Disiplin:** `UI_UX` | **Bağlı Alanlar:** [[Player Guidance]], [[Volumetric Lighting & Darkness]], [[Environmental Storytelling]], [[Adaptive Audio & Stems]]
+> **Ana Disiplin:** `UI_UX` | **Bağlı Alanlar:** [[Player_Guidance|Player Guidance]], [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]], [[Environmental_Storytelling|Environmental Storytelling]], [[Adaptive_Audio_Stems|Adaptive Audio & Stems]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,12 +17,13 @@ In-world spatial guidance using wind currents, volumetric god rays, pulsing emis
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Volumetric Lighting & Darkness]] (`ART`, `58 KUs`)
-- [[Diegetic Guidance]] (`UI_UX`, `8 KUs`)
-- [[Visual Effects]] (`DESIGN`, `30 KUs`)
-- [[Sound Design]] (`DESIGN`, `29 KUs`)
-- [[The Art Of The Witness]] (`DESIGN`, `29 KUs`)
-- [[Sound Effects]] (`DESIGN`, `21 KUs`)
+- [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]] (`ART`, `58 KUs`)
+- [[Adaptive_Audio_Stems|Adaptive Audio & Stems]] (`AUDIO`, `60 KUs`)
+- [[Diegetic_Guidance|Diegetic Guidance]] (`UI_UX`, `8 KUs`)
+- [[Visual_Effects|Visual Effects]] (`DESIGN`, `30 KUs`)
+- [[Sound_Design|Sound Design]] (`DESIGN`, `29 KUs`)
+- [[The_Art_Of_The_Witness|The Art Of The Witness]] (`DESIGN`, `29 KUs`)
+- [[Sound_Effects|Sound Effects]] (`DESIGN`, `21 KUs`)
 
 ---
 

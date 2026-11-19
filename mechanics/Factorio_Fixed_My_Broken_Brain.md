@@ -1,5 +1,6 @@
 ---
 title: "Factorio Fixed My Broken Brain"
+aliases: ["Factorio Fixed My Broken Brain"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Game Design", "Resource Management"]
 # Factorio Fixed My Broken Brain
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
-> **Linked Systems:** [[Progression]], [[Game Design]], [[Resource Management]]
+> **Linked Systems:** [[Progression]], [[Game_Design|Game Design]], [[Resource_Management|Resource Management]]
 
 ---
 
@@ -64,8 +65,8 @@ Systems and principles discussed in Factorio_Fixed_My_Broken_Brain.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design|Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Resource_Management|Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Factorio_Fixed_My_Broken_Brain`
 

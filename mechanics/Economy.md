@@ -1,17 +1,18 @@
 ---
 title: "Economy"
+aliases: ["Economy"]
 domain: "Economy"
 department: "ECONOMY"
 bundle: "Bundle_4"
 ku_count: 8
 tags: [economy, economy, bundle_4, 4-bucket-module]
-linked_systems: ["Crafting", "Reward Systems", "Farming & Seasonal Loops", "Progression", "Anti-Pattern Playbook", "Resource Management"]
+linked_systems: ["Crafting", "Reward Systems", "Farming & Seasonal Loops", "Progression", "Anti-Pattern Playbook", "Automated Drone Farming & Batch Crafting"]
 ---
 
 # Economy
 
 > **Domain:** [[Economy]] | **Department:** `ECONOMY` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Crafting]], [[Reward Systems]], [[Farming & Seasonal Loops]], [[Progression]], [[Anti-Pattern Playbook]], [[Resource Management]]
+> **Linked Systems:** [[Crafting]], [[Reward_Systems|Reward Systems]], [[Farming_Seasonal_Loops|Farming & Seasonal Loops]], [[Progression]], [[Anti_Pattern_Playbook|Anti-Pattern Playbook]], [[Automated_Drone_Farming_Batch_Crafting|Automated Drone Farming & Batch Crafting]]
 
 ---
 
@@ -67,11 +68,11 @@ linked_systems: ["Crafting", "Reward Systems", "Farming & Seasonal Loops", "Prog
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Reward_Systems|Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Farming_Seasonal_Loops|Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Anti-Pattern Playbook]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Anti_Pattern_Playbook|Anti-Pattern Playbook]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Automated_Drone_Farming_Batch_Crafting|Automated Drone Farming & Batch Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `Classic_Game_Postmortem_-_Sid_Meier_s_Civilization`
 

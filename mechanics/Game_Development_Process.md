@@ -1,5 +1,6 @@
 ---
 title: "Game Development Process"
+aliases: ["Game Development Process"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Game Design", "Player Agency", "Game A Week Te
 
 # Game Development Process
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Level Design]], [[Game Design]], [[Player Agency]], [[Game A Week Teaching Students To Prototype]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Game_Design|Game Design]], [[Player_Agency|Player Agency]], [[Game_A_Week_Teaching_Students_To_Prototype|Game A Week Teaching Students To Prototype]]
 
 ---
 
@@ -69,10 +70,10 @@ Game Development Process mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game A Week Teaching Students To Prototype]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design|Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_A_Week_Teaching_Students_To_Prototype|Game A Week Teaching Students To Prototype]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Game_a_Week_-_Teaching_Students_to_Prototype`, `Game_Maker_s_Toolkit_Turns_5_Celebrate_with_GMTK_Merch`, `How_Do_You_Make_A_Great_Sequel`, `I_got_2nd_place_in_the_GMTK_Game_Jam_Bricker_Breaks_Free_Devlog`, `Into_the_Breach_Design_Postmortem`
 

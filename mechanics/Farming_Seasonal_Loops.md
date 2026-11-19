@@ -1,17 +1,18 @@
 ---
 title: "Farming & Seasonal Loops"
+aliases: ["Farming & Seasonal Loops"]
 domain: "Economy"
 department: "ECONOMY"
 bundle: "Bundle_4"
 ku_count: 115
 tags: [economy, economy, bundle_4, 4-bucket-module]
-linked_systems: ["Economy", "Crafting", "Progression", "Reward Systems", "World Building"]
+linked_systems: ["Economy", "Crafting", "Progression", "Reward Systems", "World Building", "Virtual Home & Belonging Hubs"]
 ---
 
 # Farming & Seasonal Loops
 
 > **Domain:** [[Economy]] | **Department:** `ECONOMY` | **Evidence Units:** `115`  
-> **Linked Systems:** [[Economy]], [[Crafting]], [[Progression]], [[Reward Systems]], [[World Building]]
+> **Linked Systems:** [[Economy]], [[Crafting]], [[Progression]], [[Reward_Systems|Reward Systems]], [[World_Building|World Building]], [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]]
 
 ---
 
@@ -70,8 +71,9 @@ linked_systems: ["Economy", "Crafting", "Progression", "Reward Systems", "World 
 - [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Reward_Systems|Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[World_Building|World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `Classic_Game_Postmortem_-_Sid_Meier_s_Civilization`, `Designing_Path_of_Exile_to_Be_Played_Forever`, `Good_Design_Bad_Design_Vol._9_-_The_Graphic_Design_of_Animal_Crossing_Resident_Evil_2_and_More`, `The_Design_of_Dead_Space_-_Part_3`
 

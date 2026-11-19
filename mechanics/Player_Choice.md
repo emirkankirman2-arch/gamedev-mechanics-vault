@@ -1,5 +1,6 @@
 ---
 title: "Player Choice"
+aliases: ["Player Choice"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Game Mechanics", "Player Agency"]
 
 # Player Choice
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
-> **Linked Systems:** [[Level Design]], [[Game Mechanics]], [[Player Agency]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Game_Mechanics|Game Mechanics]], [[Player_Agency|Player Agency]]
 
 ---
 
@@ -66,9 +67,9 @@ Oyunun oyuncunun seçimi mekanizmaları
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Mechanics|Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `[OLD] Farlands - Characterization Through Mechanics`, `Are_Morality_Systems_Making_Us_Less_Moral`, `Dishonored_2_Devs_Explain_the_Clockwork_Mansion`, `Engineering_The_Perfect_Enemy`
 

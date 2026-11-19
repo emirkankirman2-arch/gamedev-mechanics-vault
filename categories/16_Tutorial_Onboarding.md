@@ -1,5 +1,6 @@
 ---
 title: "Tutorial & Onboarding"
+aliases: ["Tutorial & Onboarding", "Görünmez Öğretici (Invisible Onboarding)"]
 tr_title: "Görünmez Öğretici (Invisible Onboarding)"
 department: "UI_UX"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, tutorial_onboarding]
 
 # Tutorial & Onboarding — Görünmez Öğretici (Invisible Onboarding)
 
-> **Ana Disiplin:** `UI_UX` | **Bağlı Alanlar:** [[Player Guidance]], [[Puzzle Design]], [[Level Design]], [[Difficulty Design]]
+> **Ana Disiplin:** `UI_UX` | **Bağlı Alanlar:** [[Player_Guidance|Player Guidance]], [[Puzzle_Design|Puzzle Design]], [[Level_Design|Level Design]], [[Difficulty_Design|Difficulty Design]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Safe isolated sandbox rooms, teaching through level constraints, and immediate a
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Tutorial & Onboarding]] (`UI_UX`, `8 KUs`)
+- [[Tutorial_Onboarding|Tutorial & Onboarding]] (`UI_UX`, `8 KUs`)
 
 ---
 

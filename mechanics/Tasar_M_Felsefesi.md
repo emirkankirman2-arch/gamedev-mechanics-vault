@@ -1,5 +1,6 @@
 ---
 title: "Tasar M Felsefesi"
+aliases: ["Tasar M Felsefesi"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 # Tasar M Felsefesi
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `28`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `28`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -66,8 +67,8 @@ Tasarım Felsefesi mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] 1.6. The Designer Mindset ｜ Farlands School of Game Design`, `Good_Design_Bad_Design_Vol._11_-_Tetris_Hyper_Light_Drifter_and_Great_Game_Animation`, `Good_Design_Bad_Design_Vol._14_-_Great_and_Terrible_Graphic_Design_in_Games`, `Graphic_Design_in_New_Games_-_Good_Design_Bad_Design_17`, `Improving_Games_for_Those_with_Cognitive_Disabilities_Designing_for_Disability`

@@ -1,17 +1,18 @@
 ---
 title: "Social Systems"
+aliases: ["Social Systems"]
 domain: "Social Systems"
 department: "MULTIPLAYER_ONLINE"
 bundle: "Bundle_4"
 ku_count: 8
 tags: [social_systems, multiplayer_online, bundle_4, 4-bucket-module]
-linked_systems: ["Multiplayer", "Retention & Live Systems", "Player Agency", "Diegetic Guidance"]
+linked_systems: ["Multiplayer", "Retention & Live Systems", "Player Agency", "Diegetic Guidance", "Virtual Home & Belonging Hubs"]
 ---
 
 # Social Systems
 
-> **Domain:** [[Social Systems]] | **Department:** `MULTIPLAYER_ONLINE` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Multiplayer]], [[Retention & Live Systems]], [[Player Agency]], [[Diegetic Guidance]]
+> **Domain:** [[Social_Systems|Social Systems]] | **Department:** `MULTIPLAYER_ONLINE` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Multiplayer]], [[Retention_Live_Systems|Retention & Live Systems]], [[Player_Agency|Player Agency]], [[Diegetic_Guidance|Diegetic Guidance]], [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]]
 
 ---
 
@@ -63,9 +64,10 @@ linked_systems: ["Multiplayer", "Retention & Live Systems", "Player Agency", "Di
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Multiplayer]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Retention & Live Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Retention_Live_Systems|Retention & Live Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Canonical_V2_Corpus`
 

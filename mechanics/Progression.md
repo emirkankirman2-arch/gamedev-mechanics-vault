@@ -1,5 +1,6 @@
 ---
 title: "Progression"
+aliases: ["Progression"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Reward Systems", "Permadeath & Meta-Progression", "Economy", "
 # Progression
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `102`  
-> **Linked Systems:** [[Reward Systems]], [[Permadeath & Meta-Progression]], [[Economy]], [[Difficulty Design]], [[Dynamic Difficulty Adjustment]], [[Farming & Seasonal Loops]]
+> **Linked Systems:** [[Reward_Systems|Reward Systems]], [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]], [[Economy]], [[Difficulty_Design|Difficulty Design]], [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]], [[Farming_Seasonal_Loops|Farming & Seasonal Loops]]
 
 ---
 
@@ -72,12 +73,12 @@ linked_systems: ["Reward Systems", "Permadeath & Meta-Progression", "Economy", "
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Permadeath & Meta-Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Reward_Systems|Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Difficulty_Design|Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Farming_Seasonal_Loops|Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Can_We_Do_It_with_Particles_-_VFX_Learnings_from_Returnal`, `Classic_Game_Postmortem_-_Ultima_Online`, `How_the_Nemesis_System_Creates_Stories`, `How_YOU_Wrote_Rimworld_s_Best_Story`, `I_Made_a_Game_in_4_Days_for_the_GMTK_jam`
 

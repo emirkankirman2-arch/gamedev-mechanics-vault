@@ -1,5 +1,6 @@
 ---
 title: "Gameplay"
+aliases: ["Gameplay"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "G Rsel Efektler"]
 
 # Gameplay
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `37`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[G Rsel Efektler]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `37`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[G_Rsel_Efektler|G Rsel Efektler]]
 
 ---
 
@@ -66,10 +67,10 @@ Gameplay Loop mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[G Rsel Efektler]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[G_Rsel_Efektler|G Rsel Efektler]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Breath_of_the_Wild_s_Exploration_Cycle_~_Design_Doc`, `Deus_Ex_-_Mankind_Divided_s_Amazing_Open_World`, `Half-Life_2_s_Invisible_Tutorial`, `My_Favourite_Games_From_GMTK_Game_Jam_2026`, `The_4_Ps_of_DOOM_s_Amazing_Combat`
 

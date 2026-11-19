@@ -1,5 +1,6 @@
 ---
 title: "Progression"
+aliases: ["Progression", "İlerleme ve Güç Eğrileri"]
 tr_title: "İlerleme ve Güç Eğrileri"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -8,7 +9,7 @@ tags: [domain-hub, progression]
 
 # Progression — İlerleme ve Güç Eğrileri
 
-> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Reward Systems]], [[Permadeath & Meta-Progression]], [[Economy]], [[Difficulty Design]]
+> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Reward_Systems|Reward Systems]], [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]], [[Economy]], [[Difficulty_Design|Difficulty Design]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,18 +17,18 @@ Horizontal ability gating, vertical stat curves, build synergies, and meaningful
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Permadeath & Meta-Progression]] (`DESIGN`, `186 KUs`)
+- [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]] (`DESIGN`, `186 KUs`)
 - [[Progression]] (`DESIGN`, `102 KUs`)
-- [[Shovel Knight And Nailing Nostalgia]] (`DESIGN`, `34 KUs`)
-- [[The Year Stealth Games Got Serious]] (`DESIGN`, `33 KUs`)
-- [[Factorio Fixed My Broken Brain]] (`DESIGN`, `30 KUs`)
-- [[Word Play Is Now Available On Ios]] (`DESIGN`, `29 KUs`)
-- [[What Minecraft Should Learn From Valheim]] (`DESIGN`, `27 KUs`)
-- [[Character Progression]] (`DESIGN`, `26 KUs`)
-- [[Stealth Gameplay]] (`DESIGN`, `23 KUs`)
-- [[Player Progression]] (`DESIGN`, `21 KUs`)
-- [[Rewards In Video Games]] (`DESIGN`, `21 KUs`)
-- [[Difficulty Curve]] (`DESIGN`, `19 KUs`)
+- [[Shovel_Knight_And_Nailing_Nostalgia|Shovel Knight And Nailing Nostalgia]] (`DESIGN`, `34 KUs`)
+- [[The_Year_Stealth_Games_Got_Serious|The Year Stealth Games Got Serious]] (`DESIGN`, `33 KUs`)
+- [[Factorio_Fixed_My_Broken_Brain|Factorio Fixed My Broken Brain]] (`DESIGN`, `30 KUs`)
+- [[Word_Play_Is_Now_Available_On_Ios|Word Play Is Now Available On Ios]] (`DESIGN`, `29 KUs`)
+- [[What_Minecraft_Should_Learn_From_Valheim|What Minecraft Should Learn From Valheim]] (`DESIGN`, `27 KUs`)
+- [[Character_Progression|Character Progression]] (`DESIGN`, `26 KUs`)
+- [[Stealth_Gameplay|Stealth Gameplay]] (`DESIGN`, `23 KUs`)
+- [[Player_Progression|Player Progression]] (`DESIGN`, `21 KUs`)
+- [[Rewards_In_Video_Games|Rewards In Video Games]] (`DESIGN`, `21 KUs`)
+- [[Difficulty_Curve|Difficulty Curve]] (`DESIGN`, `19 KUs`)
 
 ---
 

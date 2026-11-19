@@ -1,5 +1,6 @@
 ---
 title: "Pacing"
+aliases: ["Pacing"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "Difficulty Curve"]
 
 # Pacing
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `26`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Difficulty Curve]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `26`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[Difficulty_Curve|Difficulty Curve]]
 
 ---
 
@@ -69,10 +70,10 @@ Oyuncu, savaşın ritmini ve hızını yönetir.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Difficulty Curve]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Difficulty_Curve|Difficulty Curve]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Boss_Battle_Design_Vol._3_-_Okami_Sonic_Mania_and_what_s_wrong_with_Zorah_Magdaros`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `Graphing_games-_The_Power_of_the_Narrative_Arc`, `How_to_Keep_Players_Engaged_Without_Being_Evil`
 

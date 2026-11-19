@@ -1,5 +1,6 @@
 ---
 title: "Roguelike"
+aliases: ["Roguelike"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Exploration", "Platformer", "Enemy AI"]
 
 # Roguelike
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
-> **Linked Systems:** [[Level Design]], [[Exploration]], [[Platformer]], [[Enemy AI]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Exploration]], [[Platformer]], [[Enemy_AI|Enemy AI]]
 
 ---
 
@@ -66,10 +67,10 @@ Roguelike mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Platformer]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_AI|Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `100_Steam_Games_that_started_life_during_GMTK_Game_Jam`, `How_Synergies_Make_Slay_the_Spire_Fun`, `How_To_Combine_Video_Game_Genres`, `How_Videogames_Keep_You_Playing_Forever`, `One_More_Run_-_The_Making_of_Spelunky_2`
 

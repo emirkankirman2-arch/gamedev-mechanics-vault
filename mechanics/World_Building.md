@@ -1,17 +1,18 @@
 ---
 title: "World Building"
+aliases: ["World Building"]
 domain: "World Building"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
 ku_count: 18
 tags: [world_building, world_development, bundle_1, 4-bucket-module]
-linked_systems: ["Environmental Storytelling", "Exploration", "Procedural World Generation", "Quest Design", "Farming & Seasonal Loops", "Landmark Guidance"]
+linked_systems: ["Environmental Storytelling", "Exploration", "Procedural World Generation", "Quest Design", "Farming & Seasonal Loops", "Virtual Home & Belonging Hubs"]
 ---
 
 # World Building
 
-> **Domain:** [[World Building]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `18`  
-> **Linked Systems:** [[Environmental Storytelling]], [[Exploration]], [[Procedural World Generation]], [[Quest Design]], [[Farming & Seasonal Loops]], [[Landmark Guidance]]
+> **Domain:** [[World_Building|World Building]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `18`  
+> **Linked Systems:** [[Environmental_Storytelling|Environmental Storytelling]], [[Exploration]], [[Procedural_World_Generation|Procedural World Generation]], [[Quest_Design|Quest Design]], [[Farming_Seasonal_Loops|Farming & Seasonal Loops]], [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]]
 
 ---
 
@@ -69,12 +70,12 @@ linked_systems: ["Environmental Storytelling", "Exploration", "Procedural World 
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Environmental_Storytelling|Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Procedural World Generation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Quest Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Procedural_World_Generation|Procedural World Generation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Quest_Design|Quest Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Farming_Seasonal_Loops|Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `[OLD] Leitmotifs as Mechanics in Ocarina of Time ｜ Designer's Notebook`, `Deus_Ex_-_Mankind_Divided_s_Amazing_Open_World`, `What_s_The_Point_of_Elements_in_Games`, `How_Level_Design_Can_Tell_a_Story`
 

@@ -1,5 +1,6 @@
 ---
 title: "Procedural World Generation"
+aliases: ["Procedural World Generation"]
 domain: "World Building"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["World Building", "Level Design", "Exploration", "Permadeath & 
 
 # Procedural World Generation
 
-> **Domain:** [[World Building]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `46`  
-> **Linked Systems:** [[World Building]], [[Level Design]], [[Exploration]], [[Permadeath & Meta-Progression]]
+> **Domain:** [[World_Building|World Building]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `46`  
+> **Linked Systems:** [[World_Building|World Building]], [[Level_Design|Level Design]], [[Exploration]], [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]]
 
 ---
 
@@ -70,10 +71,10 @@ Tamamen rastgele (pure random) üretilen dünyalar ruhsuz, anlamsız ve tekrarla
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[World_Building|World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Permadeath & Meta-Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_17_Games_You_Should_Have_Played`, `Are_Games_Getting_Too_Random`, `Do_We_Need_a_Soulslike_Genre`, `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `How_Game_Juice_Made_My_Game_Come_to_Life`
 

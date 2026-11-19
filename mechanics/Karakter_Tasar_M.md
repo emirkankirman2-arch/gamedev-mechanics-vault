@@ -1,5 +1,6 @@
 ---
 title: "Karakter Tasar M"
+aliases: ["Karakter Tasar M"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 # Karakter Tasar M
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -66,8 +67,8 @@ Karakter Tasarımı mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] 1.4. The Types of Game Designers ｜ Farlands School of Game Design`, `[OLD] The Anatomy of Journey ｜ Farlands School of Game Design`, `Can_A_Game_Be_Too_Realistic`, `Did_I_complete_my_30_day_game_making_challenge_Developing_4`, `Final_Fantasy_IX_-_How_to_Pace_a_Game_~_Design_Doc`

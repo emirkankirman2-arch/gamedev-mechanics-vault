@@ -1,5 +1,6 @@
 ---
 title: "Video Analiz"
+aliases: ["Video Analiz"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "Global Information 
 
 # Video Analiz
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Global Information Map]], [[Video Analysis]], [[Design Philosophy]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[Global_Information_Map|Global Information Map]], [[Video_Analysis|Video Analysis]], [[Design_Philosophy|Design Philosophy]]
 
 ---
 
@@ -66,12 +67,12 @@ Video Analiz mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Global Information Map]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Design Philosophy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Global_Information_Map|Global Information Map]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Video_Analysis|Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Design_Philosophy|Design Philosophy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Building_A_Good_Place_To_Fight_-_RPG_Battlefields`, `Designing_Narrative_Choice_-_Add_Branching_Paths_to_Game_Stories_Without_a_AAA_Budget_~_Design_Doc`, `Good_Design_Bad_Design_Vol._11_-_Tetris_Hyper_Light_Drifter_and_Great_Game_Animation`, `Good_Design_Bad_Design_Vol._16_-_The_Best_and_Worst_of_Video_Game_Graphic_Design`, `How_Good_Design_Ruins_Games`
 

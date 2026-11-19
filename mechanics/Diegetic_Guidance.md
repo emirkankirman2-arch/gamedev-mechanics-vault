@@ -1,5 +1,6 @@
 ---
 title: "Diegetic Guidance"
+aliases: ["Diegetic Guidance"]
 domain: "Diegetic Guidance"
 department: "UI_UX"
 bundle: "Bundle_3"
@@ -10,8 +11,8 @@ linked_systems: ["Player Guidance", "Volumetric Lighting & Darkness", "Environme
 
 # Diegetic Guidance
 
-> **Domain:** [[Diegetic Guidance]] | **Department:** `UI_UX` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Player Guidance]], [[Volumetric Lighting & Darkness]], [[Environmental Storytelling]], [[Adaptive Audio & Stems]], [[Mental Mapping]], [[Shader Rim & Silhouette]]
+> **Domain:** [[Diegetic_Guidance|Diegetic Guidance]] | **Department:** `UI_UX` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Player_Guidance|Player Guidance]], [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]], [[Environmental_Storytelling|Environmental Storytelling]], [[Adaptive_Audio_Stems|Adaptive Audio & Stems]], [[Mental_Mapping|Mental Mapping]], [[Shader_Rim_Silhouette|Shader Rim & Silhouette]]
 
 ---
 
@@ -62,12 +63,12 @@ linked_systems: ["Player Guidance", "Volumetric Lighting & Darkness", "Environme
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Player Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Adaptive Audio & Stems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Mental Mapping]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Shader Rim & Silhouette]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Guidance|Player Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Environmental_Storytelling|Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Adaptive_Audio_Stems|Adaptive Audio & Stems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Mental_Mapping|Mental Mapping]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Shader_Rim_Silhouette|Shader Rim & Silhouette]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Canonical_V2_Corpus`
 

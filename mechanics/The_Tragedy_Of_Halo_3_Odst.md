@@ -1,5 +1,6 @@
 ---
 title: "The Tragedy Of Halo 3 Odst"
+aliases: ["The Tragedy Of Halo 3 Odst"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 # The Tragedy Of Halo 3 Odst
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `36`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `36`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -63,8 +64,8 @@ Systems and principles discussed in The_Tragedy_of_Halo_3_-_ODST.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `The_Tragedy_of_Halo_3_-_ODST`

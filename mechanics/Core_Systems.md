@@ -1,5 +1,6 @@
 ---
 title: "Core Systems"
+aliases: ["Core Systems"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Progression", "Player Experience", "Player Pro
 
 # Core Systems
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `85`  
-> **Linked Systems:** [[Level Design]], [[Progression]], [[Player Experience]], [[Player Progression]], [[The Many Dimensions Of Kirby]], [[The Making Of Divinity Original Sin 2]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `85`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Progression]], [[Player_Experience|Player Experience]], [[Player_Progression|Player Progression]], [[The_Many_Dimensions_Of_Kirby|The Many Dimensions Of Kirby]], [[The_Making_Of_Divinity_Original_Sin_2|The Making Of Divinity Original Sin 2]]
 
 ---
 
@@ -66,12 +67,12 @@ linked_systems: ["Level Design", "Progression", "Player Experience", "Player Pro
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Experience]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[The Many Dimensions Of Kirby]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[The Making Of Divinity Original Sin 2]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Experience|Player Experience]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Progression|Player Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[The_Many_Dimensions_Of_Kirby|The Many Dimensions Of Kirby]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[The_Making_Of_Divinity_Original_Sin_2|The Making Of Divinity Original Sin 2]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Can_We_Do_It_with_Particles_-_VFX_Learnings_from_Returnal`, `Classic_Game_Postmortem_-_Ultima_Online`, `How_the_Nemesis_System_Creates_Stories`
 

@@ -1,5 +1,6 @@
 ---
 title: "Global Candidate"
+aliases: ["Global Candidate"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 # Global Candidate
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `43`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `43`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -66,8 +67,8 @@ Metroid serisinde küresel aday sistemleri, oyuncunun farklı Metroid oyunların
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `How_AM2R_and_Samus_Returns_remade_Metroid_2`, `How_Cuphead_s_Bosses_Try_to_Kill_You`, `The_GMTK_Game_Jam_2026_Theme_is...`, `What_Makes_a_Good_Detective_Game`, `A_puzzle_game_where_you_decipher_languages`

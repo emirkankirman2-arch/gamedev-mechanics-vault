@@ -1,5 +1,6 @@
 ---
 title: "Karakter Geli Tirme"
+aliases: ["Karakter Geli Tirme"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 # Karakter Geli Tirme
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -69,8 +70,8 @@ Karakter Geliştirme mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Building_Better_Skill_Trees`, `Designing_Modern_Adventure_Games_-_Ace_Attorney_Danganronpa_and_More_~_Design_Doc`, `Designing_Narrative_Choice_-_Add_Branching_Paths_to_Game_Stories_Without_a_AAA_Budget_~_Design_Doc`, `Final_Fantasy_IX_-_How_to_Pace_a_Game_~_Design_Doc`, `Golf_Story_-_Why_Golf_RPGS_Work_~_Design_Doc`

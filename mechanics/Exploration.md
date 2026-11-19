@@ -1,5 +1,6 @@
 ---
 title: "Exploration"
+aliases: ["Exploration"]
 domain: "Exploration"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -11,7 +12,7 @@ linked_systems: ["Discovery", "Landmark Guidance", "Environmental Storytelling",
 # Exploration
 
 > **Domain:** [[Exploration]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `48`  
-> **Linked Systems:** [[Discovery]], [[Landmark Guidance]], [[Environmental Storytelling]], [[Navigation]], [[World Building]], [[Procedural World Generation]]
+> **Linked Systems:** [[Discovery]], [[Landmark_Guidance|Landmark Guidance]], [[Environmental_Storytelling|Environmental Storytelling]], [[Navigation]], [[World_Building|World Building]], [[Procedural_World_Generation|Procedural World Generation]]
 
 ---
 
@@ -70,11 +71,11 @@ linked_systems: ["Discovery", "Landmark Guidance", "Environmental Storytelling",
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Discovery]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Landmark_Guidance|Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Environmental_Storytelling|Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Navigation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Procedural World Generation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[World_Building|World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Procedural_World_Generation|Procedural World Generation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_20_Games_You_Should_Have_Played`, `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `Climbing_in_Games`, `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `How_Terraria_Makes_You_Feel_Like_A_Master`
 

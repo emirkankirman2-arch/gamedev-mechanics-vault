@@ -1,5 +1,6 @@
 ---
 title: "Discovery"
+aliases: ["Discovery", "Gizli Keşif ve Sır Tasarımı"]
 tr_title: "Gizli Keşif ve Sır Tasarımı"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, discovery]
 
 # Discovery — Gizli Keşif ve Sır Tasarımı
 
-> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Exploration]], [[Puzzle Design]], [[Environmental Storytelling]], [[Reward Systems]]
+> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Exploration]], [[Puzzle_Design|Puzzle Design]], [[Environmental_Storytelling|Environmental Storytelling]], [[Reward_Systems|Reward Systems]]
 
 ## Alan Özeti (Domain Synopsis)
 

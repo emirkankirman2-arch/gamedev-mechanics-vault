@@ -1,5 +1,6 @@
 ---
 title: "Stealth"
+aliases: ["Stealth"]
 domain: "Stealth"
 department: "GAME_AI"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Enemy AI", "Volumetric Lighting & Darkness", "Level Design", "
 # Stealth
 
 > **Domain:** [[Stealth]] | **Department:** `GAME_AI` | **Evidence Units:** `37`  
-> **Linked Systems:** [[Enemy AI]], [[Volumetric Lighting & Darkness]], [[Level Design]], [[Player Agency]], [[Behavior Trees & Utility AI]], [[Adaptive Audio & Stems]]
+> **Linked Systems:** [[Enemy_AI|Enemy AI]], [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]], [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Behavior_Trees_Utility_AI|Behavior Trees & Utility AI]], [[Adaptive_Audio_Stems|Adaptive Audio & Stems]]
 
 ---
 
@@ -69,12 +70,12 @@ linked_systems: ["Enemy AI", "Volumetric Lighting & Darkness", "Level Design", "
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Behavior Trees & Utility AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Adaptive Audio & Stems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_AI|Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Behavior_Trees_Utility_AI|Behavior Trees & Utility AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Adaptive_Audio_Stems|Adaptive Audio & Stems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Anatomy_of_a_Side_Quest_-_Beyond_the_Beef`, `Does_Spidey_s_Web-Swinging_Make_You_Feel_Like_Spider-Man`, `Game_Maker_s_Toolkit_in_2019`, `How_Game_Designers_Protect_Players_From_Themselves`, `How_To_Combine_Video_Game_Genres`
 

@@ -1,5 +1,6 @@
 ---
 title: "Game Design"
+aliases: ["Game Design"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Sound Effects", "Combat", "Exploration", "Reso
 
 # Game Design
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `139`  
-> **Linked Systems:** [[Level Design]], [[Sound Effects]], [[Combat]], [[Exploration]], [[Resource Management]], [[Game Maker S Toolkit In 2019]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `139`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Sound_Effects|Sound Effects]], [[Combat]], [[Exploration]], [[Resource_Management|Resource Management]], [[Game_Maker_S_Toolkit_In_2019|Game Maker S Toolkit In 2019]]
 
 ---
 
@@ -66,12 +67,12 @@ Game Design mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound_Effects|Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Maker S Toolkit In 2019]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Resource_Management|Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Maker_S_Toolkit_In_2019|Game Maker S Toolkit In 2019]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Are_Morality_Systems_Making_Us_Less_Moral`, `Ask a Game Designer Anything #1 - Difficulty, Standardization, Depth`, `Building_Games_That_Can_Be_Understood_at_a_Glance`, `Classic_Game_Postmortem_-_Lemmings`, `Clones_Aren_t_Killing_Gaming_-_They_re_Saving_It`
 

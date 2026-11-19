@@ -1,5 +1,6 @@
 ---
 title: "Coyote Time & Input Buffering"
+aliases: ["Coyote Time & Input Buffering"]
 domain: "Traversal"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -11,7 +12,7 @@ linked_systems: ["Traversal", "Camera & Player Perspective", "Level Design", "Co
 # Coyote Time & Input Buffering
 
 > **Domain:** [[Traversal]] | **Department:** `DESIGN` | **Evidence Units:** `53`  
-> **Linked Systems:** [[Traversal]], [[Camera & Player Perspective]], [[Level Design]], [[Combat]]
+> **Linked Systems:** [[Traversal]], [[Camera_Player_Perspective|Camera & Player Perspective]], [[Level_Design|Level Design]], [[Combat]]
 
 ---
 
@@ -73,8 +74,8 @@ Oyuncu zihnindeki 'tam kenarda bastım' algısı ile gerçek fizik çarpışma k
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Traversal]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Player_Perspective|Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] 2.6. Game Feel and Input ｜ Farlands School of Game Design`, `I_made_a_game_about_magnets_Developing_16`, `Physics_for_Game_Programmers_Continuous_Collision`

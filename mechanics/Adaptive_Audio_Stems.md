@@ -1,17 +1,18 @@
 ---
 title: "Adaptive Audio & Stems"
-domain: "Audio & Sensory UX"
+aliases: ["Adaptive Audio & Stems"]
+domain: "Diegetic Guidance"
 department: "AUDIO"
 bundle: "Bundle_3"
 ku_count: 60
-tags: [audio_sensory_ux, audio, bundle_3, 4-bucket-module]
+tags: [diegetic_guidance, audio, bundle_3, 4-bucket-module]
 linked_systems: ["Combat", "Stealth", "Boss Design", "Hitstop & Freeze Frames", "Diegetic Guidance"]
 ---
 
 # Adaptive Audio & Stems
 
-> **Domain:** [[Audio & Sensory UX]] | **Department:** `AUDIO` | **Evidence Units:** `60`  
-> **Linked Systems:** [[Combat]], [[Stealth]], [[Boss Design]], [[Hitstop & Freeze Frames]], [[Diegetic Guidance]]
+> **Domain:** [[Diegetic_Guidance|Diegetic Guidance]] | **Department:** `AUDIO` | **Evidence Units:** `60`  
+> **Linked Systems:** [[Combat]], [[Stealth]], [[Boss_Design|Boss Design]], [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]], [[Diegetic_Guidance|Diegetic Guidance]]
 
 ---
 
@@ -68,9 +69,9 @@ Dinamik müzik ve ses tasarımı yalnızca arka plan atmosferi değil, oyuncuya 
 
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Stealth]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Hitstop & Freeze Frames]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Boss_Design|Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Adaptive_Soundtracks_in_Games`, `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`
 

@@ -1,5 +1,6 @@
 ---
 title: "Dynamic Difficulty Adjustment"
+aliases: ["Dynamic Difficulty Adjustment"]
 domain: "Difficulty Design"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -10,8 +11,8 @@ linked_systems: ["Difficulty Design", "Progression", "Risk & Reward", "Enemy AI"
 
 # Dynamic Difficulty Adjustment
 
-> **Domain:** [[Difficulty Design]] | **Department:** `DESIGN` | **Evidence Units:** `140`  
-> **Linked Systems:** [[Difficulty Design]], [[Progression]], [[Risk & Reward]], [[Enemy AI]], [[Reward Systems]]
+> **Domain:** [[Difficulty_Design|Difficulty Design]] | **Department:** `DESIGN` | **Evidence Units:** `140`  
+> **Linked Systems:** [[Difficulty_Design|Difficulty Design]], [[Progression]], [[Risk_Reward|Risk & Reward]], [[Enemy_AI|Enemy AI]], [[Reward_Systems|Reward Systems]]
 
 ---
 
@@ -63,11 +64,11 @@ linked_systems: ["Difficulty Design", "Progression", "Risk & Reward", "Enemy AI"
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Difficulty_Design|Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Risk & Reward]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Risk_Reward|Risk & Reward]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_AI|Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Reward_Systems|Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `What_s_The_Point_Of_Hard_Games_Anyway`
 

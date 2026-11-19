@@ -1,5 +1,6 @@
 ---
 title: "Player Guidance"
+aliases: ["Player Guidance"]
 domain: "Player Guidance"
 department: "UI_UX"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Diegetic Guidance", "Landmark Guidance", "Tutorial & Onboardin
 
 # Player Guidance
 
-> **Domain:** [[Player Guidance]] | **Department:** `UI_UX` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Diegetic Guidance]], [[Landmark Guidance]], [[Tutorial & Onboarding]], [[Navigation]], [[Level Design]], [[Anti-Pattern Playbook]]
+> **Domain:** [[Player_Guidance|Player Guidance]] | **Department:** `UI_UX` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Diegetic_Guidance|Diegetic Guidance]], [[Landmark_Guidance|Landmark Guidance]], [[Tutorial_Onboarding|Tutorial & Onboarding]], [[Navigation]], [[Level_Design|Level Design]], [[Anti_Pattern_Playbook|Anti-Pattern Playbook]]
 
 ---
 
@@ -72,12 +73,12 @@ linked_systems: ["Diegetic Guidance", "Landmark Guidance", "Tutorial & Onboardin
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Tutorial & Onboarding]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Landmark_Guidance|Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Tutorial_Onboarding|Tutorial & Onboarding]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Navigation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Anti-Pattern Playbook]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Anti_Pattern_Playbook|Anti-Pattern Playbook]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Point_and_Click_Puzzle_Design`, `What_We_Can_Learn_From_A_2000_Year_Old_Puzzle`
 

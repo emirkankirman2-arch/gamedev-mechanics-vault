@@ -1,5 +1,6 @@
 ---
 title: "Enemy AI"
+aliases: ["Enemy AI"]
 domain: "Enemy AI"
 department: "GAME_AI"
 bundle: "Bundle_4"
@@ -10,8 +11,8 @@ linked_systems: ["Behavior Trees & Utility AI", "Combat", "Stealth", "Boss Desig
 
 # Enemy AI
 
-> **Domain:** [[Enemy AI]] | **Department:** `GAME_AI` | **Evidence Units:** `14`  
-> **Linked Systems:** [[Behavior Trees & Utility AI]], [[Combat]], [[Stealth]], [[Boss Design]], [[Parry & Deflect Windows]], [[Dynamic Difficulty Adjustment]]
+> **Domain:** [[Enemy_AI|Enemy AI]] | **Department:** `GAME_AI` | **Evidence Units:** `14`  
+> **Linked Systems:** [[Behavior_Trees_Utility_AI|Behavior Trees & Utility AI]], [[Combat]], [[Stealth]], [[Boss_Design|Boss Design]], [[Parry_Deflect_Windows|Parry & Deflect Windows]], [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]]
 
 ---
 
@@ -72,12 +73,12 @@ linked_systems: ["Behavior Trees & Utility AI", "Combat", "Stealth", "Boss Desig
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Behavior Trees & Utility AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Behavior_Trees_Utility_AI|Behavior Trees & Utility AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Stealth]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Boss_Design|Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Parry_Deflect_Windows|Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `3_Lessons_from_a_Real-time_Turn-based_Game`, `Engineering_The_Perfect_Enemy`, `Making_a_Farm-Themed_Tower_Defense_Game_in_48_Hours_-_GMTK_2023_Devlog`, `Slay_the_Spire_-_Metrics_Driven_Design_and_Balance`, `What_Makes_a_Good_New_Game_Plus`
 

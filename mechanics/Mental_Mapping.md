@@ -1,5 +1,6 @@
 ---
 title: "Mental Mapping"
+aliases: ["Mental Mapping"]
 domain: "Navigation"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -11,7 +12,7 @@ linked_systems: ["Navigation", "Landmark Guidance", "Vertical Level Architecture
 # Mental Mapping
 
 > **Domain:** [[Navigation]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `58`  
-> **Linked Systems:** [[Navigation]], [[Landmark Guidance]], [[Vertical Level Architecture]], [[Environmental Storytelling]], [[Diegetic Guidance]]
+> **Linked Systems:** [[Navigation]], [[Landmark_Guidance|Landmark Guidance]], [[Vertical_Level_Architecture|Vertical Level Architecture]], [[Environmental_Storytelling|Environmental Storytelling]], [[Diegetic_Guidance|Diegetic Guidance]]
 
 ---
 
@@ -73,10 +74,10 @@ Oyuncular mini-harita okuna baktıklarında dünyaya değil, ekranın köşesind
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Navigation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Vertical Level Architecture]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Landmark_Guidance|Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Vertical_Level_Architecture|Vertical Level Architecture]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Environmental_Storytelling|Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Stop_Getting_Lost_-_Make_Cognitive_Maps_Not_Levels`, `The_Legend_of_Zelda_-_Breath_of_the_Wild_s_dungeon_design_Boss_Keys`, `The_Legend_of_Zelda_-_Oracle_of_Ages_and_Seasons_dungeon_design_Boss_Keys`, `Building_Beauclair_in_The_Witcher_3_-_Wild_Hunt_-_Blood_and_Wine`, `Quick_Tip_11_CS_-GO_Source_-_Correctly_Spawn_Chickens_in_Your_Map_Like_in_CS_Italy_Tutorial`
 

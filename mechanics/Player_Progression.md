@@ -1,5 +1,6 @@
 ---
 title: "Player Progression"
+aliases: ["Player Progression"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Combat", "Crafting", "Economy", "Exploration", 
 # Player Progression
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Progression]], [[Combat]], [[Crafting]], [[Economy]], [[Exploration]], [[Core Systems]]
+> **Linked Systems:** [[Progression]], [[Combat]], [[Crafting]], [[Economy]], [[Exploration]], [[Core_Systems|Core Systems]]
 
 ---
 
@@ -71,7 +72,7 @@ Player Progression mekanik sistemi.
 - [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Core_Systems|Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `How_Do_Games_Design_Around_No_Damage`, `How_Terraria_Makes_You_Feel_Like_A_Master`, `My_Favourite_Games_From_GMTK_Game_Jam_2026`, `What_Makes_a_Great_Secret`
 

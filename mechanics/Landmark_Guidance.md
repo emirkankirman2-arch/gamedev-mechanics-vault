@@ -1,5 +1,6 @@
 ---
 title: "Landmark Guidance"
+aliases: ["Landmark Guidance"]
 domain: "Landmark Guidance"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Exploration", "Navigation", "Mental Mapping", "Level Design", 
 
 # Landmark Guidance
 
-> **Domain:** [[Landmark Guidance]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Exploration]], [[Navigation]], [[Mental Mapping]], [[Level Design]], [[World Building]], [[Volumetric Lighting & Darkness]]
+> **Domain:** [[Landmark_Guidance|Landmark Guidance]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Exploration]], [[Navigation]], [[Mental_Mapping|Mental Mapping]], [[Level_Design|Level Design]], [[World_Building|World Building]], [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]]
 
 ---
 
@@ -64,10 +65,10 @@ linked_systems: ["Exploration", "Navigation", "Mental Mapping", "Level Design", 
 
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Navigation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Mental Mapping]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Mental_Mapping|Mental Mapping]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[World_Building|World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Canonical_V2_Corpus`
 

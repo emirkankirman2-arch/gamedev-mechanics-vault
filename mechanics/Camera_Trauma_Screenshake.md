@@ -1,17 +1,18 @@
 ---
 title: "Camera Trauma & Screenshake"
+aliases: ["Camera Trauma & Screenshake"]
 domain: "Camera & Player Perspective"
 department: "CINEMATICS"
 bundle: "Bundle_3"
 ku_count: 44
 tags: [camera_player_perspective, cinematics, bundle_3, 4-bucket-module]
-linked_systems: ["Camera & Player Perspective", "Hitstop & Freeze Frames", "Combat", "Volumetric Lighting & Darkness", "Parry & Deflect Windows"]
+linked_systems: ["Camera & Player Perspective", "Hitstop & Freeze Frames", "Combat", "Volumetric Lighting & Darkness", "Parry & Deflect Windows", "First-Person Animation & Terminal Ballistics"]
 ---
 
 # Camera Trauma & Screenshake
 
-> **Domain:** [[Camera & Player Perspective]] | **Department:** `CINEMATICS` | **Evidence Units:** `44`  
-> **Linked Systems:** [[Camera & Player Perspective]], [[Hitstop & Freeze Frames]], [[Combat]], [[Volumetric Lighting & Darkness]], [[Parry & Deflect Windows]]
+> **Domain:** [[Camera_Player_Perspective|Camera & Player Perspective]] | **Department:** `CINEMATICS` | **Evidence Units:** `44`  
+> **Linked Systems:** [[Camera_Player_Perspective|Camera & Player Perspective]], [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]], [[Combat]], [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]], [[Parry_Deflect_Windows|Parry & Deflect Windows]], [[First_Person_Animation_Terminal_Ballistics|First-Person Animation & Terminal Ballistics]]
 
 ---
 
@@ -75,11 +76,12 @@ Doğrusal (lineer) rastgele kamera titremesi yapay ve mide bulandırıcıdır. E
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Hitstop & Freeze Frames]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Player_Perspective|Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Parry_Deflect_Windows|Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[First_Person_Animation_Terminal_Ballistics|First-Person Animation & Terminal Ballistics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] 2.3. Defining Feedback ｜ Farlands School of Game Design`, `[OLD] 2.4. The Human Processor Model ｜ Farlands School of Game Design`, `Game_a_Week_-_Teaching_Students_to_Prototype`, `How_Games_Convey_Pain_-_Exploring_Life_Bars_and_Feedback_~_Design_Doc`, `Point_and_Click_Puzzle_Design`
 

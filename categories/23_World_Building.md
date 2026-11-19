@@ -1,5 +1,6 @@
 ---
 title: "World Building"
+aliases: ["World Building", "Dünya İnşası ve Ekoloji"]
 tr_title: "Dünya İnşası ve Ekoloji"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, world_building]
 
 # World Building — Dünya İnşası ve Ekoloji
 
-> **Ana Disiplin:** `WORLD_DEVELOPMENT` | **Bağlı Alanlar:** [[Environmental Storytelling]], [[Exploration]], [[Procedural World Generation]], [[Quest Design]]
+> **Ana Disiplin:** `WORLD_DEVELOPMENT` | **Bağlı Alanlar:** [[Environmental_Storytelling|Environmental Storytelling]], [[Exploration]], [[Procedural_World_Generation|Procedural World Generation]], [[Quest_Design|Quest Design]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,8 +17,10 @@ Cohesive faction ecology, systemic weather rules, architectural logic, and belie
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Procedural World Generation]] (`WORLD_DEVELOPMENT`, `46 KUs`)
-- [[World Building]] (`WORLD_DEVELOPMENT`, `18 KUs`)
+- [[Procedural_World_Generation|Procedural World Generation]] (`WORLD_DEVELOPMENT`, `46 KUs`)
+- [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]] (`WORLD_DEVELOPMENT`, `18 KUs`)
+- [[Seasonal_Switch_Weather_Mechanics|Seasonal Switch & Weather Mechanics]] (`WORLD_DEVELOPMENT`, `151 KUs`)
+- [[World_Building|World Building]] (`WORLD_DEVELOPMENT`, `18 KUs`)
 
 ---
 

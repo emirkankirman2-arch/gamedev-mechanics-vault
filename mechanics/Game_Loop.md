@@ -1,5 +1,6 @@
 ---
 title: "Game Loop"
+aliases: ["Game Loop"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Discovery", "Gameplay Mechanics", "Player Expe
 
 # Game Loop
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
-> **Linked Systems:** [[Level Design]], [[Discovery]], [[Gameplay Mechanics]], [[Player Experience]], [[Global Information]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Discovery]], [[Gameplay_Mechanics|Gameplay Mechanics]], [[Player_Experience|Player Experience]], [[Global_Information|Global Information]]
 
 ---
 
@@ -66,11 +67,11 @@ Oyun döngüsü, oyunun temel yapısını oluşturan sistem.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Discovery]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Experience]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Gameplay_Mechanics|Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Experience|Player Experience]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Global_Information|Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Collectibles_-_How_To_Make_Chores_Fun_In_Games`, `Nuke_Possum_Springs_-_A_Night_in_the_Woods_Design_Postmortem`, `Roguelikes_and_the_Modular_Genre`, `Triple_Bosses_-_Why_Are_They_Different`, `What_Makes_Video_Game_Stories_Special`
 

@@ -1,5 +1,6 @@
 ---
 title: "Platformer"
+aliases: ["Platformer"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Exploration", "Roguelike"]
 
 # Platformer
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `27`  
-> **Linked Systems:** [[Level Design]], [[Exploration]], [[Roguelike]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `27`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Exploration]], [[Roguelike]]
 
 ---
 
@@ -66,7 +67,7 @@ Platformer mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Roguelike]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 

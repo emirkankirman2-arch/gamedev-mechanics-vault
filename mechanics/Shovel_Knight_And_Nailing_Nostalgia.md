@@ -1,5 +1,6 @@
 ---
 title: "Shovel Knight And Nailing Nostalgia"
+aliases: ["Shovel Knight And Nailing Nostalgia"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Player Agency", "Combat"]
 # Shovel Knight And Nailing Nostalgia
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `34`  
-> **Linked Systems:** [[Progression]], [[Player Agency]], [[Combat]]
+> **Linked Systems:** [[Progression]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -64,7 +65,7 @@ Systems and principles discussed in Shovel_Knight_and_Nailing_Nostalgia.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Shovel_Knight_and_Nailing_Nostalgia`

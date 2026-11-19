@@ -1,5 +1,6 @@
 ---
 title: "Boss Design"
+aliases: ["Boss Design", "Boss Tasarımı ve Faz Geçişleri"]
 tr_title: "Boss Tasarımı ve Faz Geçişleri"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -8,7 +9,7 @@ tags: [domain-hub, boss_design]
 
 # Boss Design — Boss Tasarımı ve Faz Geçişleri
 
-> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Combat]], [[Enemy AI]], [[Parry & Deflect Windows]], [[Adaptive Audio & Stems]]
+> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Combat]], [[Enemy_AI|Enemy AI]], [[Parry_Deflect_Windows|Parry & Deflect Windows]], [[Adaptive_Audio_Stems|Adaptive Audio & Stems]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Multi-phase escalation, arena geometry shifts, punish windows, and rhythm-testin
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Boss Design]] (`DESIGN`, `8 KUs`)
+- [[Boss_Design|Boss Design]] (`DESIGN`, `8 KUs`)
 
 ---
 

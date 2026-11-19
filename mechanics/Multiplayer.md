@@ -1,5 +1,6 @@
 ---
 title: "Multiplayer"
+aliases: ["Multiplayer"]
 domain: "Multiplayer"
 department: "MULTIPLAYER_ONLINE"
 bundle: "Bundle_2"
@@ -11,7 +12,7 @@ linked_systems: ["Rollback Netcode & Prediction", "Combat", "Social Systems", "C
 # Multiplayer
 
 > **Domain:** [[Multiplayer]] | **Department:** `MULTIPLAYER_ONLINE` | **Evidence Units:** `12`  
-> **Linked Systems:** [[Rollback Netcode & Prediction]], [[Combat]], [[Social Systems]], [[Camera & Player Perspective]]
+> **Linked Systems:** [[Rollback_Netcode_Prediction|Rollback Netcode & Prediction]], [[Combat]], [[Social_Systems|Social Systems]], [[Camera_Player_Perspective|Camera & Player Perspective]]
 
 ---
 
@@ -69,10 +70,10 @@ linked_systems: ["Rollback Netcode & Prediction", "Combat", "Social Systems", "C
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Rollback Netcode & Prediction]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Rollback_Netcode_Prediction|Rollback Netcode & Prediction]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Social Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Social_Systems|Social Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Player_Perspective|Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Classic_Game_Postmortem_-_Command_Conquer`, `Classic_Game_Postmortem_-_Ultima_Online`, `Top_5_Games_of_2013`, `Affordable_Space_Adventures_Postmortem`
 

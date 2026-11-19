@@ -1,5 +1,6 @@
 ---
 title: "Environmental Storytelling"
+aliases: ["Environmental Storytelling", "Çevresel Anlatım"]
 tr_title: "Çevresel Anlatım"
 department: "NARRATIVE_WORLD_STORY"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, environmental_storytelling]
 
 # Environmental Storytelling — Çevresel Anlatım
 
-> **Ana Disiplin:** `NARRATIVE_WORLD_STORY` | **Bağlı Alanlar:** [[World Building]], [[Exploration]], [[Diegetic Guidance]], [[Discovery]]
+> **Ana Disiplin:** `NARRATIVE_WORLD_STORY` | **Bağlı Alanlar:** [[World_Building|World Building]], [[Exploration]], [[Diegetic_Guidance|Diegetic Guidance]], [[Discovery]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,9 @@ Prop placement, architectural decay, spatial vignettes, and visual juxtaposition
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Environmental Storytelling]] (`NARRATIVE_WORLD_STORY`, `12 KUs`)
+- [[Shader_Rim_Silhouette|Shader Rim & Silhouette]] (`ART`, `64 KUs`)
+- [[Interactive_Wind_Vegetation_WPO_Shaders|Interactive Wind & Vegetation WPO Shaders]] (`ART`, `60 KUs`)
+- [[Environmental_Storytelling|Environmental Storytelling]] (`NARRATIVE_WORLD_STORY`, `12 KUs`)
 
 ---
 

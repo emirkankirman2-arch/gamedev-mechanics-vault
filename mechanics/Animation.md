@@ -1,5 +1,6 @@
 ---
 title: "Animation"
+aliases: ["Animation"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "Global Information"
 
 # Animation
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `26`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Global Information]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `26`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[Global_Information|Global Information]]
 
 ---
 
@@ -66,10 +67,10 @@ Animation mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Global_Information|Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Good_Design_Bad_Design_Vol._13_with_JoCat_-_Advance_Wars_Chicory_Astroneer_and_More_~_Design_Doc`, `Good_Design_Bad_Design_Vol._9_-_The_Graphic_Design_of_Animal_Crossing_Resident_Evil_2_and_More`, `How_to_make_a_good_platforming_character_Developing_6`, `I_Made_A_Game_In_4_Days_GMTK_Game_Jam_Dev_Log`, `The_one_thing_you_need_to_finish_your_game_Developing_11`
 

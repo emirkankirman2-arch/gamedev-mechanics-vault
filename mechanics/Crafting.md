@@ -1,17 +1,18 @@
 ---
 title: "Crafting"
+aliases: ["Crafting"]
 domain: "Crafting"
 department: "ECONOMY"
 bundle: "Bundle_4"
 ku_count: 11
 tags: [crafting, economy, bundle_4, 4-bucket-module]
-linked_systems: ["Economy", "Progression", "Exploration", "Farming & Seasonal Loops", "Resource Management", "The Making Of Divinity Original Sin 2"]
+linked_systems: ["Economy", "Progression", "Exploration", "Farming & Seasonal Loops", "Virtual Home & Belonging Hubs", "Automated Drone Farming & Batch Crafting"]
 ---
 
 # Crafting
 
 > **Domain:** [[Crafting]] | **Department:** `ECONOMY` | **Evidence Units:** `11`  
-> **Linked Systems:** [[Economy]], [[Progression]], [[Exploration]], [[Farming & Seasonal Loops]], [[Resource Management]], [[The Making Of Divinity Original Sin 2]]
+> **Linked Systems:** [[Economy]], [[Progression]], [[Exploration]], [[Farming_Seasonal_Loops|Farming & Seasonal Loops]], [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]], [[Automated_Drone_Farming_Batch_Crafting|Automated Drone Farming & Batch Crafting]]
 
 ---
 
@@ -72,9 +73,9 @@ linked_systems: ["Economy", "Progression", "Exploration", "Farming & Seasonal Lo
 - [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[The Making Of Divinity Original Sin 2]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Farming_Seasonal_Loops|Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Virtual_Home_Belonging_Hubs|Virtual Home & Belonging Hubs]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Automated_Drone_Farming_Batch_Crafting|Automated Drone Farming & Batch Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Designing_Path_of_Exile_to_Be_Played_Forever`, `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`, `Good_Design_Bad_Design_Vol._9_-_The_Graphic_Design_of_Animal_Crossing_Resident_Evil_2_and_More`, `The_Design_of_Dead_Space_-_Part_3`, `Why_Atomic_Heart_Fails_To_Live_Up_To_Its_Inspiration`
 

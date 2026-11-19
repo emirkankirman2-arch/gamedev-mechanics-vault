@@ -1,5 +1,6 @@
 ---
 title: "Game Development"
+aliases: ["Game Development"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "The State And Futur
 
 # Game Development
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `75`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[The State And Future Of Board Games]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `75`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[The_State_And_Future_Of_Board_Games|The State And Future Of Board Games]]
 
 ---
 
@@ -69,10 +70,10 @@ Game Development mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[The State And Future Of Board Games]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[The_State_And_Future_Of_Board_Games|The State And Future Of Board Games]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Building_Games_That_Can_Be_Understood_at_a_Glance`, `Don_t_make_this_assumption_about_your_players_Developing_10`, `Game_Maker_s_Toolkit_Turns_5_Celebrate_with_GMTK_Merch`, `GMTK_Game_Jam_2019_-_The_Full_Details`, `How_Do_You_Make_A_Great_Sequel`
 

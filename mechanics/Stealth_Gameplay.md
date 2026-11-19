@@ -1,5 +1,6 @@
 ---
 title: "Stealth Gameplay"
+aliases: ["Stealth Gameplay"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Player Agency", "Combat"]
 # Stealth Gameplay
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
-> **Linked Systems:** [[Progression]], [[Player Agency]], [[Combat]]
+> **Linked Systems:** [[Progression]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -67,7 +68,7 @@ Stealth Gameplay mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Breaking_Down_the_Best_World_in_Rayman_Legends`, `Good_Design_Bad_Design_-_The_Best_Worst_of_Graphic_Design_in_Games_~_Design_Doc`, `How_Batman_Takes_Stealth_Back_to_Basics`

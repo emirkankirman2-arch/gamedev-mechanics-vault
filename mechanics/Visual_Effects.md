@@ -1,5 +1,6 @@
 ---
 title: "Visual Effects"
+aliases: ["Visual Effects"]
 domain: "Diegetic Guidance"
 department: "DESIGN"
 bundle: "Bundle_3"
@@ -10,8 +11,8 @@ linked_systems: ["Diegetic Guidance", "Game Feel", "Player Agency", "Character D
 
 # Visual Effects
 
-> **Domain:** [[Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
-> **Linked Systems:** [[Diegetic Guidance]], [[Game Feel]], [[Player Agency]], [[Character Design]], [[G Rsel Efektler]], [[Game Design Systems]]
+> **Domain:** [[Diegetic_Guidance|Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
+> **Linked Systems:** [[Diegetic_Guidance|Diegetic Guidance]], [[Game_Feel|Game Feel]], [[Player_Agency|Player Agency]], [[Character_Design|Character Design]], [[G_Rsel_Efektler|G Rsel Efektler]], [[Game_Design_Systems|Game Design Systems]]
 
 ---
 
@@ -66,12 +67,12 @@ Görsel efektlerin oluşturulması ve geliştirilmesi için kullanılan sistem.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Feel]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[G Rsel Efektler]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Feel|Game Feel]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character_Design|Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[G_Rsel_Efektler|G Rsel Efektler]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design_Systems|Game Design Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `How_Accessible_Were_2021_s_Games`, `How_Space_Invaders_Birthed_Japanese_Games`, `How_the_Visual_Effects_In_Games_Actually_Work`, `I_Made_an_Inverted_Biking_Game`
 

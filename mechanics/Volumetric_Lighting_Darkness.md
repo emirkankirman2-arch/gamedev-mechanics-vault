@@ -1,5 +1,6 @@
 ---
 title: "Volumetric Lighting & Darkness"
+aliases: ["Volumetric Lighting & Darkness"]
 domain: "Diegetic Guidance"
 department: "ART"
 bundle: "Bundle_3"
@@ -10,8 +11,8 @@ linked_systems: ["Diegetic Guidance", "Stealth", "Shader Rim & Silhouette", "Lan
 
 # Volumetric Lighting & Darkness
 
-> **Domain:** [[Diegetic Guidance]] | **Department:** `ART` | **Evidence Units:** `58`  
-> **Linked Systems:** [[Diegetic Guidance]], [[Stealth]], [[Shader Rim & Silhouette]], [[Landmark Guidance]], [[Environmental Storytelling]], [[Camera Trauma & Screenshake]]
+> **Domain:** [[Diegetic_Guidance|Diegetic Guidance]] | **Department:** `ART` | **Evidence Units:** `58`  
+> **Linked Systems:** [[Diegetic_Guidance|Diegetic Guidance]], [[Stealth]], [[Shader_Rim_Silhouette|Shader Rim & Silhouette]], [[Landmark_Guidance|Landmark Guidance]], [[Environmental_Storytelling|Environmental Storytelling]], [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]]
 
 ---
 
@@ -72,12 +73,12 @@ Karanlık fantezi ve korku/FPS oyunlarında ışık yalnızca atmosferik bir sü
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Stealth]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Shader Rim & Silhouette]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Shader_Rim_Silhouette|Shader Rim & Silhouette]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Landmark_Guidance|Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Environmental_Storytelling|Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Cinematic_Environment_Production_for_Uncharted_4`, `Procedurally_Crafting_Manhattan_for_Marvel_s_Spider-Man`, `X-COM_-_UFO_Defense_Classic_Game_Postmortem`, `Low_Complexity_High_Fidelity_-_The_Rendering_of_INSIDE`
 

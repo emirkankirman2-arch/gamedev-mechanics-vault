@@ -1,5 +1,6 @@
 ---
 title: "Quest Design"
+aliases: ["Quest Design", "Görev ve Dallanan Anlatı Mimarisi"]
 tr_title: "Görev ve Dallanan Anlatı Mimarisi"
 department: "NARRATIVE_WORLD_STORY"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, quest_design]
 
 # Quest Design — Görev ve Dallanan Anlatı Mimarisi
 
-> **Ana Disiplin:** `NARRATIVE_WORLD_STORY` | **Bağlı Alanlar:** [[Player Agency]], [[Environmental Storytelling]], [[World Building]], [[Navigation]]
+> **Ana Disiplin:** `NARRATIVE_WORLD_STORY` | **Bağlı Alanlar:** [[Player_Agency|Player Agency]], [[Environmental_Storytelling|Environmental Storytelling]], [[World_Building|World Building]], [[Navigation]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Non-linear state machines, multi-solution objective graphs, diegetic journals, a
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Quest Design]] (`NARRATIVE_WORLD_STORY`, `8 KUs`)
+- [[Quest_Design|Quest Design]] (`NARRATIVE_WORLD_STORY`, `8 KUs`)
 
 ---
 

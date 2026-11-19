@@ -1,5 +1,6 @@
 ---
 title: "Global Information Map"
+aliases: ["Global Information Map"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Video Analiz", "Player Agency", "Speedrunning"
 
 # Global Information Map
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `39`  
-> **Linked Systems:** [[Level Design]], [[Video Analiz]], [[Player Agency]], [[Speedrunning]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `39`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Video_Analiz|Video Analiz]], [[Player_Agency|Player Agency]], [[Speedrunning]]
 
 ---
 
@@ -66,9 +67,9 @@ Oyunun küresel bilgi haritasını oluşturan sistem.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Video Analiz]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Video_Analiz|Video Analiz]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Speedrunning]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `30_Minute_Steam_Page_Makeovers`, `Starcraft_2-_The_Greatest_RTS_Ever`, `Vampire_Survivors_Only_Works_Because_We_re_Stupid`, `Why_Is_It_So_Easy_To_Break_Videogame_Economies`, `Why_You_Probably_Didn_t_Get_Lost_in_Metroid_Dread`

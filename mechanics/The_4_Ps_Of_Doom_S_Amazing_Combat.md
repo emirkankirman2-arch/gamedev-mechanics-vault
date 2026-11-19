@@ -1,5 +1,6 @@
 ---
 title: "The 4 Ps Of Doom S Amazing Combat"
+aliases: ["The 4 Ps Of Doom S Amazing Combat"]
 domain: "Combat"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -11,7 +12,7 @@ linked_systems: ["Combat", "Player Agency", "Level Design"]
 # The 4 Ps Of Doom S Amazing Combat
 
 > **Domain:** [[Combat]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
-> **Linked Systems:** [[Combat]], [[Player Agency]], [[Level Design]]
+> **Linked Systems:** [[Combat]], [[Player_Agency|Player Agency]], [[Level_Design|Level Design]]
 
 ---
 
@@ -64,8 +65,8 @@ Systems and principles discussed in The_4_Ps_of_DOOM_s_Amazing_Combat.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `The_4_Ps_of_DOOM_s_Amazing_Combat`
 

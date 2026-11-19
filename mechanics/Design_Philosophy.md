@@ -1,5 +1,6 @@
 ---
 title: "Design Philosophy"
+aliases: ["Design Philosophy"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Game Design", "Video Analysis", "Video Analiz"
 
 # Design Philosophy
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `20`  
-> **Linked Systems:** [[Level Design]], [[Game Design]], [[Video Analysis]], [[Video Analiz]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `20`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Game_Design|Game Design]], [[Video_Analysis|Video Analysis]], [[Video_Analiz|Video Analiz]]
 
 ---
 
@@ -66,10 +67,10 @@ Oyun tasarımcıları, tasarım felsefesi ve değişkenler gibi konuları da dik
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Video Analiz]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design|Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Video_Analysis|Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Video_Analiz|Video Analiz]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] 2.2. How to Start Designing Mechanics ｜ Farlands School of Game Design`, `What_Makes_a_Great_Hub_World_-_How_Mario_64_Spyro_and_Hades_Made_Theirs_~_Design_Doc`, `What_Makes_Video_Game_Stories_Special`, `Why_Are_Explosive_Barrels_Always_Red`, `Interactive_Wind_and_Vegetation_in_God_of_War`
 

@@ -1,5 +1,6 @@
 ---
 title: "Gameplay Mechanics"
+aliases: ["Gameplay Mechanics"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "Character Design", 
 
 # Gameplay Mechanics
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `87`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Character Design]], [[Sound Design]], [[Game Loop]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `87`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[Character_Design|Character Design]], [[Sound_Design|Sound Design]], [[Game_Loop|Game Loop]]
 
 ---
 
@@ -66,12 +67,12 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "Character Design", 
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Sound Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Loop]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character_Design|Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound_Design|Sound Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Loop|Game Loop]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `Board_Game_Design_Day_-_Balancing_Mechanics_for_Your_Card_Game_s_Unique_Power_Curve`, `Bonus_-_Playing_your_Super_Mario_Maker_Levels_GMTK_Extra`, `Boss_Fight_Secrets_Are_Crazy`, `Can_I_fix_Zelda_s_UI_using_Unity`
 

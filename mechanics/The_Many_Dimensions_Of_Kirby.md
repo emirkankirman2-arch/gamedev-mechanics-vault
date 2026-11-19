@@ -1,5 +1,6 @@
 ---
 title: "The Many Dimensions Of Kirby"
+aliases: ["The Many Dimensions Of Kirby"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Progression", "Player Experience", "Core Syste
 
 # The Many Dimensions Of Kirby
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `28`  
-> **Linked Systems:** [[Level Design]], [[Progression]], [[Player Experience]], [[Core Systems]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `28`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Progression]], [[Player_Experience|Player Experience]], [[Core_Systems|Core Systems]]
 
 ---
 
@@ -63,10 +64,10 @@ Systems and principles discussed in The_Many_Dimensions_of_Kirby.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Experience]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Experience|Player Experience]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Core_Systems|Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `The_Many_Dimensions_of_Kirby`
 

@@ -1,5 +1,6 @@
 ---
 title: "Character Progression"
+aliases: ["Character Progression"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Player Agency", "Combat", "Ico And Design By Su
 # Character Progression
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `26`  
-> **Linked Systems:** [[Progression]], [[Player Agency]], [[Combat]], [[Ico And Design By Subtraction]]
+> **Linked Systems:** [[Progression]], [[Player_Agency|Player Agency]], [[Combat]], [[Ico_And_Design_By_Subtraction|Ico And Design By Subtraction]]
 
 ---
 
@@ -67,9 +68,9 @@ Character Progression mekanik sistemi.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Ico And Design By Subtraction]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Ico_And_Design_By_Subtraction|Ico And Design By Subtraction]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Final_Fantasy_VIII_s_Divisive_Junction_System_~_Design_Doc`, `Ico_and_Design_by_Subtraction`, `Roguelikes_Persistency_and_Progression`, `Should_Games_Always_Be_Accessible`
 

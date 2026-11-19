@@ -1,5 +1,6 @@
 ---
 title: "Puzzle Design"
+aliases: ["Puzzle Design", "Bulmaca ve Epistemik Kilit Sistemleri"]
 tr_title: "Bulmaca ve Epistemik Kilit Sistemleri"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, puzzle_design]
 
 # Puzzle Design — Bulmaca ve Epistemik Kilit Sistemleri
 
-> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Tutorial & Onboarding]], [[Discovery]], [[Level Design]], [[Player Agency]]
+> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Tutorial_Onboarding|Tutorial & Onboarding]], [[Discovery]], [[Level_Design|Level Design]], [[Player_Agency|Player Agency]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Aha-moment epistemic shifts, rule-discovery onboarding without text walls, and c
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Puzzle Design]] (`DESIGN`, `16 KUs`)
+- [[Puzzle_Design|Puzzle Design]] (`DESIGN`, `16 KUs`)
 
 ---
 

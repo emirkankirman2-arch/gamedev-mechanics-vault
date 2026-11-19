@@ -1,5 +1,6 @@
 ---
 title: "Sound Effects"
+aliases: ["Sound Effects"]
 domain: "Diegetic Guidance"
 department: "DESIGN"
 bundle: "Bundle_3"
@@ -10,8 +11,8 @@ linked_systems: ["Diegetic Guidance", "Game Mechanics", "Puzzle Design", "Game D
 
 # Sound Effects
 
-> **Domain:** [[Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Diegetic Guidance]], [[Game Mechanics]], [[Puzzle Design]], [[Game Design]], [[Character Design]], [[Video Analysis]]
+> **Domain:** [[Diegetic_Guidance|Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
+> **Linked Systems:** [[Diegetic_Guidance|Diegetic Guidance]], [[Game_Mechanics|Game Mechanics]], [[Puzzle_Design|Puzzle Design]], [[Game_Design|Game Design]], [[Character_Design|Character Design]], [[Video_Analysis|Video Analysis]]
 
 ---
 
@@ -66,12 +67,12 @@ sound_effects mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Mechanics|Game Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Puzzle_Design|Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design|Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character_Design|Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Video_Analysis|Video Analysis]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `How_I_polished_my_indie_magnet_puzzle_game_Developing_12`, `I_Made_A_Game_In_4_Days_GMTK_Game_Jam_Dev_Log`, `Making_a_Farm-Themed_Tower_Defense_Game_in_48_Hours_-_GMTK_2023_Devlog`, `Top_10_In_Popularity_-_GMTK_Game_Jam_2022`, `Watching_GameDev_Tutorials_Be_Like...`
 

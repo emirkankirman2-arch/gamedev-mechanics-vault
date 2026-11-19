@@ -1,5 +1,6 @@
 ---
 title: "Player Agency"
+aliases: ["Player Agency", "Oyuncu İnisiyatifi ve Emergent Oynanış"]
 tr_title: "Oyuncu İnisiyatifi ve Emergent Oynanış"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, player_agency]
 
 # Player Agency — Oyuncu İnisiyatifi ve Emergent Oynanış
 
-> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Quest Design]], [[Exploration]], [[Stealth]], [[Combat]]
+> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Quest_Design|Quest Design]], [[Exploration]], [[Stealth]], [[Combat]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Systemic verb combinations, emergent chemistry engines, meaningful trade-offs, a
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Player Agency]] (`DESIGN`, `51 KUs`)
+- [[Player_Agency|Player Agency]] (`DESIGN`, `51 KUs`)
 
 ---
 

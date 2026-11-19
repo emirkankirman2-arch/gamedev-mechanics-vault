@@ -1,5 +1,6 @@
 ---
 title: "Player Experience"
+aliases: ["Player Experience"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Core Systems", "Player Agency", "The Many Dime
 
 # Player Experience
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `35`  
-> **Linked Systems:** [[Level Design]], [[Core Systems]], [[Player Agency]], [[The Many Dimensions Of Kirby]], [[Game Loop]], [[Day Night Cycle]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `35`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Core_Systems|Core Systems]], [[Player_Agency|Player Agency]], [[The_Many_Dimensions_Of_Kirby|The Many Dimensions Of Kirby]], [[Game_Loop|Game Loop]], [[Day_Night_Cycle|Day Night Cycle]]
 
 ---
 
@@ -66,12 +67,12 @@ Player Experience mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[The Many Dimensions Of Kirby]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Loop]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Day Night Cycle]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Core_Systems|Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[The_Many_Dimensions_Of_Kirby|The Many Dimensions Of Kirby]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Loop|Game Loop]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Day_Night_Cycle|Day Night Cycle]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Ask a Game Designer Anything #1 - Difficulty, Standardization, Depth`, `Bonus_-_Playing_your_Super_Mario_Maker_Levels_GMTK_Extra`, `Building_Games_That_Can_Be_Understood_at_a_Glance`, `Can_We_Do_It_with_Particles_-_VFX_Learnings_from_Returnal`
 

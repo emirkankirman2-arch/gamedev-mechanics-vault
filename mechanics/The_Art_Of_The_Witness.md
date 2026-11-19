@@ -1,5 +1,6 @@
 ---
 title: "The Art Of The Witness"
+aliases: ["The Art Of The Witness"]
 domain: "Diegetic Guidance"
 department: "DESIGN"
 bundle: "Bundle_3"
@@ -10,8 +11,8 @@ linked_systems: ["Diegetic Guidance", "Player Agency", "Combat"]
 
 # The Art Of The Witness
 
-> **Domain:** [[Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `29`  
-> **Linked Systems:** [[Diegetic Guidance]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Diegetic_Guidance|Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `29`  
+> **Linked Systems:** [[Diegetic_Guidance|Diegetic Guidance]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -63,8 +64,8 @@ Systems and principles discussed in The_Art_of_The_Witness.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `The_Art_of_The_Witness`

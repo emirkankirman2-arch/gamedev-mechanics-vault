@@ -1,5 +1,6 @@
 ---
 title: "Character Development"
+aliases: ["Character Development"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "Character Design", 
 
 # Character Development
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `51`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Character Design]], [[G Rsel Efektler]], [[Game Design Systems]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `51`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[Character_Design|Character Design]], [[G_Rsel_Efektler|G Rsel Efektler]], [[Game_Design_Systems|Game Design Systems]]
 
 ---
 
@@ -68,12 +69,12 @@ Oyunun karakter geliştirme mekanizmaları
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[G Rsel Efektler]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character_Design|Character Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[G_Rsel_Efektler|G Rsel Efektler]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design_Systems|Game Design Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `Choice_Architecture_Player_Expression_and_Narrative_Design_in_Fallout_-_New_Vegas`, `Good_Design_Bad_Design_Vol._8_-_Analyzing_the_Graphic_Design_in_Cuphead_Jackbox_and_More`, `How_Do_You_Build_RPG_Party_Chemistry`, `How_to_Fix_Borderlands_3_s_Villains`
 

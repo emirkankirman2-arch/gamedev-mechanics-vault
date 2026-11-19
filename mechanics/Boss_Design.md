@@ -1,5 +1,6 @@
 ---
 title: "Boss Design"
+aliases: ["Boss Design"]
 domain: "Boss Design"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -10,8 +11,8 @@ linked_systems: ["Combat", "Enemy AI", "Parry & Deflect Windows", "Adaptive Audi
 
 # Boss Design
 
-> **Domain:** [[Boss Design]] | **Department:** `DESIGN` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Combat]], [[Enemy AI]], [[Parry & Deflect Windows]], [[Adaptive Audio & Stems]], [[Behavior Trees & Utility AI]]
+> **Domain:** [[Boss_Design|Boss Design]] | **Department:** `DESIGN` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Combat]], [[Enemy_AI|Enemy AI]], [[Parry_Deflect_Windows|Parry & Deflect Windows]], [[Adaptive_Audio_Stems|Adaptive Audio & Stems]], [[Behavior_Trees_Utility_AI|Behavior Trees & Utility AI]]
 
 ---
 
@@ -65,10 +66,10 @@ linked_systems: ["Combat", "Enemy AI", "Parry & Deflect Windows", "Adaptive Audi
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Adaptive Audio & Stems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Behavior Trees & Utility AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_AI|Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Parry_Deflect_Windows|Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Adaptive_Audio_Stems|Adaptive Audio & Stems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Behavior_Trees_Utility_AI|Behavior Trees & Utility AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `The_Anatomy_of_a_Bossfight`
 

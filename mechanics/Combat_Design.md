@@ -1,5 +1,6 @@
 ---
 title: "Combat Design"
+aliases: ["Combat Design"]
 domain: "Combat"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -11,7 +12,7 @@ linked_systems: ["Combat", "Player Agency", "Level Design"]
 # Combat Design
 
 > **Domain:** [[Combat]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
-> **Linked Systems:** [[Combat]], [[Player Agency]], [[Level Design]]
+> **Linked Systems:** [[Combat]], [[Player_Agency|Player Agency]], [[Level_Design|Level Design]]
 
 ---
 
@@ -67,8 +68,8 @@ Oyuncuların algısını etkilemek için kullanılan sistem.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Board_Game_Design_Day_-_Board_Game_Design_and_the_Psychology_of_Loss_Aversion`, `Hitman_and_the_Art_of_Repetition`, `How_Cuphead_s_Bosses_Try_to_Kill_You`, `The_4_Ps_of_DOOM_s_Amazing_Combat`
 

@@ -1,5 +1,6 @@
 ---
 title: "Tutorial & Onboarding"
+aliases: ["Tutorial & Onboarding"]
 domain: "Tutorial & Onboarding"
 department: "UI_UX"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Player Guidance", "Puzzle Design", "Level Design", "Difficulty
 
 # Tutorial & Onboarding
 
-> **Domain:** [[Tutorial & Onboarding]] | **Department:** `UI_UX` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Player Guidance]], [[Puzzle Design]], [[Level Design]], [[Difficulty Design]]
+> **Domain:** [[Tutorial_Onboarding|Tutorial & Onboarding]] | **Department:** `UI_UX` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Player_Guidance|Player Guidance]], [[Puzzle_Design|Puzzle Design]], [[Level_Design|Level Design]], [[Difficulty_Design|Difficulty Design]]
 
 ---
 
@@ -62,10 +63,10 @@ linked_systems: ["Player Guidance", "Puzzle Design", "Level Design", "Difficulty
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Player Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Guidance|Player Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Puzzle_Design|Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Difficulty_Design|Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Canonical_V2_Corpus`
 

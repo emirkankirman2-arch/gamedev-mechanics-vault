@@ -1,5 +1,6 @@
 ---
 title: "Video Analysis"
+aliases: ["Video Analysis"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Sound Effects", "Design Philosophy", "Game Des
 
 # Video Analysis
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `26`  
-> **Linked Systems:** [[Level Design]], [[Sound Effects]], [[Design Philosophy]], [[Game Design]], [[Video Analiz]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `26`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Sound_Effects|Sound Effects]], [[Design_Philosophy|Design Philosophy]], [[Game_Design|Game Design]], [[Video_Analiz|Video Analiz]]
 
 ---
 
@@ -66,11 +67,11 @@ Oyun içi video analizini sağlayan sistem.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Design Philosophy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Video Analiz]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound_Effects|Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Design_Philosophy|Design Philosophy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design|Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Video_Analiz|Video Analiz]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Classic_Game_Postmortem_-_Lemmings`, `Triple_Bosses_-_Why_Are_They_Different`, `What_Makes_Video_Game_Stories_Special`, `Interactive_Wind_and_Vegetation_in_God_of_War`, `Building_A_Good_Place_To_Fight_-_RPG_Battlefields`
 

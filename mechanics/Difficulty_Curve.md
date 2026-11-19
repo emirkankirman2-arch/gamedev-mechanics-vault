@@ -1,5 +1,6 @@
 ---
 title: "Difficulty Curve"
+aliases: ["Difficulty Curve"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Storytelling", "Game Design", "Pacing"]
 # Difficulty Curve
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
-> **Linked Systems:** [[Progression]], [[Storytelling]], [[Game Design]], [[Pacing]]
+> **Linked Systems:** [[Progression]], [[Storytelling]], [[Game_Design|Game Design]], [[Pacing]]
 
 ---
 
@@ -68,7 +69,7 @@ Difficulty Curve mekanik sistemi.
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design|Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Pacing]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `How_Space_Invaders_Birthed_Japanese_Games`, `How_Terraria_Makes_You_Feel_Like_A_Master`, `Making_Ori_and_The_Will_of_the_Wisps_Best_Level`, `Roguelikes_Persistency_and_Progression`, `The_Anatomy_of_a_Bossfight`

@@ -1,5 +1,6 @@
 ---
 title: "Game Mechanics"
+aliases: ["Game Mechanics"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "Player Choice", "Ga
 
 # Game Mechanics
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `59`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Player Choice]], [[Game Balance]], [[Sound Effects]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `59`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[Player_Choice|Player Choice]], [[Game_Balance|Game Balance]], [[Sound_Effects|Sound Effects]]
 
 ---
 
@@ -66,12 +67,12 @@ Oyunun temel mekaniklerini tanımlayan sistem.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Choice]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Balance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Choice|Player Choice]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Balance|Game Balance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound_Effects|Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Farlands - Characterization Through Mechanics`, `Ask a Game Designer Anything #1 - Difficulty, Standardization, Depth`, `Building_Games_That_Can_Be_Understood_at_a_Glance`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `How_Do_Games_Design_Around_No_Damage`
 

@@ -1,5 +1,6 @@
 ---
 title: "Camera & Player Perspective"
+aliases: ["Camera & Player Perspective"]
 domain: "Camera & Player Perspective"
 department: "CINEMATICS"
 bundle: "Bundle_2"
@@ -10,8 +11,8 @@ linked_systems: ["Camera Trauma & Screenshake", "Combat", "Traversal", "Shader R
 
 # Camera & Player Perspective
 
-> **Domain:** [[Camera & Player Perspective]] | **Department:** `CINEMATICS` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Camera Trauma & Screenshake]], [[Combat]], [[Traversal]], [[Shader Rim & Silhouette]], [[Coyote Time & Input Buffering]], [[Rollback Netcode & Prediction]]
+> **Domain:** [[Camera_Player_Perspective|Camera & Player Perspective]] | **Department:** `CINEMATICS` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]], [[Combat]], [[Traversal]], [[Shader_Rim_Silhouette|Shader Rim & Silhouette]], [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]], [[Rollback_Netcode_Prediction|Rollback Netcode & Prediction]]
 
 ---
 
@@ -62,12 +63,12 @@ linked_systems: ["Camera Trauma & Screenshake", "Combat", "Traversal", "Shader R
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Traversal]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Shader Rim & Silhouette]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Coyote Time & Input Buffering]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Rollback Netcode & Prediction]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Shader_Rim_Silhouette|Shader Rim & Silhouette]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Rollback_Netcode_Prediction|Rollback Netcode & Prediction]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Canonical_V2_Corpus`
 

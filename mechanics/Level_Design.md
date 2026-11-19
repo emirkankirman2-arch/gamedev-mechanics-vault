@@ -1,5 +1,6 @@
 ---
 title: "Level Design"
+aliases: ["Level Design"]
 domain: "Level Design"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Navigation", "Landmark Guidance", "Traversal", "Vertical Level
 
 # Level Design
 
-> **Domain:** [[Level Design]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `117`  
-> **Linked Systems:** [[Navigation]], [[Landmark Guidance]], [[Traversal]], [[Vertical Level Architecture]], [[Coyote Time & Input Buffering]], [[Procedural World Generation]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `117`  
+> **Linked Systems:** [[Navigation]], [[Landmark_Guidance|Landmark Guidance]], [[Traversal]], [[Vertical_Level_Architecture|Vertical Level Architecture]], [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]], [[Procedural_World_Generation|Procedural World Generation]]
 
 ---
 
@@ -73,11 +74,11 @@ linked_systems: ["Navigation", "Landmark Guidance", "Traversal", "Vertical Level
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Navigation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Landmark_Guidance|Landmark Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Traversal]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Vertical Level Architecture]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Coyote Time & Input Buffering]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Procedural World Generation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Vertical_Level_Architecture|Vertical Level Architecture]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Procedural_World_Generation|Procedural World Generation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Ask a Game Designer Anything #1 - Difficulty, Standardization, Depth`, `Bonus_-_Playing_your_Super_Mario_Maker_Levels_GMTK_Extra`, `Dishonored_2_Devs_Explain_the_Clockwork_Mansion`, `Don_t_make_this_assumption_about_your_players_Developing_10`, `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`
 

@@ -1,5 +1,6 @@
 ---
 title: "Day Night Cycle"
+aliases: ["Day Night Cycle"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Gameplay Mechanics", "Player Experience"]
 
 # Day Night Cycle
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
-> **Linked Systems:** [[Level Design]], [[Gameplay Mechanics]], [[Player Experience]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `19`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Gameplay_Mechanics|Gameplay Mechanics]], [[Player_Experience|Player Experience]]
 
 ---
 
@@ -66,9 +67,9 @@ Day-Night Cycle mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Experience]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Gameplay_Mechanics|Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Experience|Player Experience]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `What_Makes_A_Great_Sleep_Mechanic`, `What_s_The_Point_of_a_Day-Night_Cycle_in_Games`, `The_Rise_and_Fall_of_Britain_s_Bedroom_Coders_Design_Icons`, `The_Hidden_Purpose_of_Hub_Worlds`, `Should_Designers_Listen_to_Negative_Feedback`
 

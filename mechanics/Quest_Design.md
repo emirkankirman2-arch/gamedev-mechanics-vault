@@ -1,5 +1,6 @@
 ---
 title: "Quest Design"
+aliases: ["Quest Design"]
 domain: "Quest Design"
 department: "NARRATIVE_WORLD_STORY"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Player Agency", "Environmental Storytelling", "World Building"
 
 # Quest Design
 
-> **Domain:** [[Quest Design]] | **Department:** `NARRATIVE_WORLD_STORY` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Player Agency]], [[Environmental Storytelling]], [[World Building]], [[Navigation]]
+> **Domain:** [[Quest_Design|Quest Design]] | **Department:** `NARRATIVE_WORLD_STORY` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Player_Agency|Player Agency]], [[Environmental_Storytelling|Environmental Storytelling]], [[World_Building|World Building]], [[Navigation]]
 
 ---
 
@@ -70,9 +71,9 @@ linked_systems: ["Player Agency", "Environmental Storytelling", "World Building"
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Environmental_Storytelling|Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[World_Building|World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Navigation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Mini_open_world_design_in_Alba_-_A_Wildlife_Adventure`, `I_Hate_Fast_Travel`

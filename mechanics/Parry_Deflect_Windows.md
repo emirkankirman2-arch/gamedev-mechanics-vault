@@ -1,5 +1,6 @@
 ---
 title: "Parry & Deflect Windows"
+aliases: ["Parry & Deflect Windows"]
 domain: "Combat"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -11,7 +12,7 @@ linked_systems: ["Combat", "Hitstop & Freeze Frames", "Boss Design", "Enemy AI",
 # Parry & Deflect Windows
 
 > **Domain:** [[Combat]] | **Department:** `DESIGN` | **Evidence Units:** `143`  
-> **Linked Systems:** [[Combat]], [[Hitstop & Freeze Frames]], [[Boss Design]], [[Enemy AI]], [[Camera Trauma & Screenshake]], [[Rollback Netcode & Prediction]]
+> **Linked Systems:** [[Combat]], [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]], [[Boss_Design|Boss Design]], [[Enemy_AI|Enemy AI]], [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]], [[Rollback_Netcode_Prediction|Rollback Netcode & Prediction]]
 
 ---
 
@@ -79,11 +80,11 @@ linked_systems: ["Combat", "Hitstop & Freeze Frames", "Boss Design", "Enemy AI",
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Hitstop & Freeze Frames]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Rollback Netcode & Prediction]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Boss_Design|Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_AI|Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Rollback_Netcode_Prediction|Rollback Netcode & Prediction]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `15_Questions_Level_Designers_should_ask_themselves`, `Master_Class_in_Level_Design_Storytelling_-_6_Secrets_I_Learned_from_Playing_Alan_Wake`, `Good_Game_Design_-_Super_Mario_Odyssey`, `Good_Game_Design_-_Spelunky_2_-_Reinventing_Perfection`, `Good_Game_Design_-_Speedrunning`
 

@@ -1,5 +1,6 @@
 ---
 title: "Storytelling"
+aliases: ["Storytelling"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Difficulty Curve", "Player Agency"]
 
 # Storytelling
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `35`  
-> **Linked Systems:** [[Level Design]], [[Difficulty Curve]], [[Player Agency]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `35`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Difficulty_Curve|Difficulty Curve]], [[Player_Agency|Player Agency]]
 
 ---
 
@@ -69,9 +70,9 @@ Oyunun hikaye anlatımı mekanizmaları
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Difficulty Curve]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Difficulty_Curve|Difficulty Curve]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `Engineering_The_Perfect_Enemy`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `How_to_Fix_Borderlands_3_s_Villains`, `Is_Until_Dawn_a_Good_Horror_Movie`
 

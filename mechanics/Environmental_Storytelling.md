@@ -1,5 +1,6 @@
 ---
 title: "Environmental Storytelling"
+aliases: ["Environmental Storytelling"]
 domain: "Environmental Storytelling"
 department: "NARRATIVE_WORLD_STORY"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["World Building", "Exploration", "Diegetic Guidance", "Discover
 
 # Environmental Storytelling
 
-> **Domain:** [[Environmental Storytelling]] | **Department:** `NARRATIVE_WORLD_STORY` | **Evidence Units:** `12`  
-> **Linked Systems:** [[World Building]], [[Exploration]], [[Diegetic Guidance]], [[Discovery]], [[Volumetric Lighting & Darkness]], [[Mental Mapping]]
+> **Domain:** [[Environmental_Storytelling|Environmental Storytelling]] | **Department:** `NARRATIVE_WORLD_STORY` | **Evidence Units:** `12`  
+> **Linked Systems:** [[World_Building|World Building]], [[Exploration]], [[Diegetic_Guidance|Diegetic Guidance]], [[Discovery]], [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]], [[Mental_Mapping|Mental Mapping]]
 
 ---
 
@@ -69,12 +70,12 @@ linked_systems: ["World Building", "Exploration", "Diegetic Guidance", "Discover
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[World_Building|World Building]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Discovery]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Mental Mapping]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Mental_Mapping|Mental Mapping]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `How_Can_You_Make_Backtracking_Fun`, `What_Made_Psychonauts_Special`, `Why_Tunic_Hides_Its_Tutorial`, `How_Game_Juice_Made_My_Game_Come_to_Life`, `Deus_Ex_-_Mankind_Divided_s_Amazing_Open_World`
 

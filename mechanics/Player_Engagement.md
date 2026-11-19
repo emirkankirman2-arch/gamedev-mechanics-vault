@@ -1,5 +1,6 @@
 ---
 title: "Player Engagement"
+aliases: ["Player Engagement"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 # Player Engagement
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `20`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `20`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -68,8 +69,8 @@ Player Engagement mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Ask a Game Designer Anything #1 - Difficulty, Standardization, Depth`, `How_Terraria_Makes_You_Feel_Like_A_Master`, `How_to_Fix_Borderlands_3_s_Villains`, `My_Favourite_Games_From_GMTK_Game_Jam_2026`, `What_Makes_a_Great_Secret`

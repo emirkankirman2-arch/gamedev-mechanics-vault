@@ -1,5 +1,6 @@
 ---
 title: "Reward Systems"
+aliases: ["Reward Systems", "Ödül Psikolojisi ve Ganimet Döngüleri"]
 tr_title: "Ödül Psikolojisi ve Ganimet Döngüleri"
 department: "ECONOMY"
 bundle: "Bundle_4"
@@ -8,7 +9,7 @@ tags: [domain-hub, reward_systems]
 
 # Reward Systems — Ödül Psikolojisi ve Ganimet Döngüleri
 
-> **Ana Disiplin:** `ECONOMY` | **Bağlı Alanlar:** [[Progression]], [[Risk & Reward]], [[Economy]], [[Retention & Live Systems]]
+> **Ana Disiplin:** `ECONOMY` | **Bağlı Alanlar:** [[Progression]], [[Risk_Reward|Risk & Reward]], [[Economy]], [[Retention_Live_Systems|Retention & Live Systems]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Intrinsic mastery rewards vs. extrinsic variable-ratio loot drops, anticipation 
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Reward Systems]] (`ECONOMY`, `8 KUs`)
+- [[Reward_Systems|Reward Systems]] (`ECONOMY`, `8 KUs`)
 
 ---
 

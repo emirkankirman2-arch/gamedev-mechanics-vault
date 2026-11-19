@@ -1,5 +1,6 @@
 ---
 title: "Traversal"
+aliases: ["Traversal"]
 domain: "Traversal"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -11,7 +12,7 @@ linked_systems: ["Coyote Time & Input Buffering", "Level Design", "Camera & Play
 # Traversal
 
 > **Domain:** [[Traversal]] | **Department:** `DESIGN` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Coyote Time & Input Buffering]], [[Level Design]], [[Camera & Player Perspective]], [[Combat]], [[Vertical Level Architecture]], [[Navigation]]
+> **Linked Systems:** [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]], [[Level_Design|Level Design]], [[Camera_Player_Perspective|Camera & Player Perspective]], [[Combat]], [[Vertical_Level_Architecture|Vertical Level Architecture]], [[Navigation]]
 
 ---
 
@@ -66,11 +67,11 @@ linked_systems: ["Coyote Time & Input Buffering", "Level Design", "Camera & Play
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Coyote Time & Input Buffering]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Player_Perspective|Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Vertical Level Architecture]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Vertical_Level_Architecture|Vertical Level Architecture]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Navigation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Exploding_the_Box_-_Thinking_Differently_in_the_A_+_B_Era`

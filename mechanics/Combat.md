@@ -1,5 +1,6 @@
 ---
 title: "Combat"
+aliases: ["Combat"]
 domain: "Combat"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -11,7 +12,7 @@ linked_systems: ["Parry & Deflect Windows", "Hitstop & Freeze Frames", "Enemy AI
 # Combat
 
 > **Domain:** [[Combat]] | **Department:** `DESIGN` | **Evidence Units:** `97`  
-> **Linked Systems:** [[Parry & Deflect Windows]], [[Hitstop & Freeze Frames]], [[Enemy AI]], [[Boss Design]], [[Camera Trauma & Screenshake]], [[Coyote Time & Input Buffering]]
+> **Linked Systems:** [[Parry_Deflect_Windows|Parry & Deflect Windows]], [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]], [[Enemy_AI|Enemy AI]], [[Boss_Design|Boss Design]], [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]], [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]]
 
 ---
 
@@ -69,12 +70,12 @@ linked_systems: ["Parry & Deflect Windows", "Hitstop & Freeze Frames", "Enemy AI
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Hitstop & Freeze Frames]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Coyote Time & Input Buffering]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Parry_Deflect_Windows|Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Enemy_AI|Enemy AI]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Boss_Design|Boss Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_20_Games_You_Should_Have_Played`, `Anatomy_of_a_Side_Quest_-_Beyond_the_Beef`, `Are_Morality_Systems_Making_Us_Less_Moral`, `Does_Spidey_s_Web-Swinging_Make_You_Feel_Like_Spider-Man`, `Don_t_Starve_-_Creating_Community_Around_an_Antisocial_Game`
 

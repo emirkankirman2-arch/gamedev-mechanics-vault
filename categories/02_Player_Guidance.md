@@ -1,5 +1,6 @@
 ---
 title: "Player Guidance"
+aliases: ["Player Guidance", "Oyuncu Yönlendirme Sistemleri"]
 tr_title: "Oyuncu Yönlendirme Sistemleri"
 department: "UI_UX"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, player_guidance]
 
 # Player Guidance — Oyuncu Yönlendirme Sistemleri
 
-> **Ana Disiplin:** `UI_UX` | **Bağlı Alanlar:** [[Diegetic Guidance]], [[Landmark Guidance]], [[Tutorial & Onboarding]], [[Navigation]], [[Level Design]]
+> **Ana Disiplin:** `UI_UX` | **Bağlı Alanlar:** [[Diegetic_Guidance|Diegetic Guidance]], [[Landmark_Guidance|Landmark Guidance]], [[Tutorial_Onboarding|Tutorial & Onboarding]], [[Navigation]], [[Level_Design|Level Design]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Communicating spatial affordances, leading lines, contrast ratios, and objective
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Player Guidance]] (`UI_UX`, `8 KUs`)
+- [[Player_Guidance|Player Guidance]] (`UI_UX`, `8 KUs`)
 
 ---
 

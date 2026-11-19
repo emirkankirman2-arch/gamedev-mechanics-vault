@@ -1,5 +1,6 @@
 ---
 title: "Rewards In Video Games"
+aliases: ["Rewards In Video Games"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Player Agency", "Combat"]
 # Rewards In Video Games
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Progression]], [[Player Agency]], [[Combat]]
+> **Linked Systems:** [[Progression]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -64,7 +65,7 @@ Systems and principles discussed in Rewards_in_Video_Games.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Rewards_in_Video_Games`

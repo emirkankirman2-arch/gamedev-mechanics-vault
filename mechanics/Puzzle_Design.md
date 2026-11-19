@@ -1,17 +1,18 @@
 ---
 title: "Puzzle Design"
+aliases: ["Puzzle Design"]
 domain: "Puzzle Design"
 department: "DESIGN"
 bundle: "Bundle_1"
 ku_count: 16
 tags: [puzzle_design, design, bundle_1, 4-bucket-module]
-linked_systems: ["Tutorial & Onboarding", "Discovery", "Level Design", "Player Agency", "Sound Effects"]
+linked_systems: ["Tutorial & Onboarding", "Discovery", "Level Design", "Player Agency", "Seasonal Switch & Weather Mechanics", "Sound Effects"]
 ---
 
 # Puzzle Design
 
-> **Domain:** [[Puzzle Design]] | **Department:** `DESIGN` | **Evidence Units:** `16`  
-> **Linked Systems:** [[Tutorial & Onboarding]], [[Discovery]], [[Level Design]], [[Player Agency]], [[Sound Effects]]
+> **Domain:** [[Puzzle_Design|Puzzle Design]] | **Department:** `DESIGN` | **Evidence Units:** `16`  
+> **Linked Systems:** [[Tutorial_Onboarding|Tutorial & Onboarding]], [[Discovery]], [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Seasonal_Switch_Weather_Mechanics|Seasonal Switch & Weather Mechanics]], [[Sound_Effects|Sound Effects]]
 
 ---
 
@@ -72,11 +73,12 @@ linked_systems: ["Tutorial & Onboarding", "Discovery", "Level Design", "Player A
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Tutorial & Onboarding]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Tutorial_Onboarding|Tutorial & Onboarding]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Discovery]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Seasonal_Switch_Weather_Mechanics|Seasonal Switch & Weather Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound_Effects|Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Game_Maker_s_Toolkit_in_2019`, `Making_Games_Better_for_the_Deaf_and_Hard_of_Hearing_Designing_for_Disability`, `Point_and_Click_Puzzle_Design`, `What_Makes_a_Good_Puzzle`, `What_We_Can_Learn_From_A_2000_Year_Old_Puzzle`
 

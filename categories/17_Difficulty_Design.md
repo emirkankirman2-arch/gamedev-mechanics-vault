@@ -1,5 +1,6 @@
 ---
 title: "Difficulty Design"
+aliases: ["Difficulty Design", "Zorluk Eğrisi ve Dinamik Dengeleme"]
 tr_title: "Zorluk Eğrisi ve Dinamik Dengeleme"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -8,7 +9,7 @@ tags: [domain-hub, difficulty_design]
 
 # Difficulty Design — Zorluk Eğrisi ve Dinamik Dengeleme
 
-> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Dynamic Difficulty Adjustment]], [[Combat]], [[Progression]], [[Risk & Reward]]
+> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]], [[Combat]], [[Progression]], [[Risk_Reward|Risk & Reward]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,8 +17,8 @@ Flow-channel calibration, rubber-banding, opt-in risk modifiers, and assistive a
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Dynamic Difficulty Adjustment]] (`DESIGN`, `140 KUs`)
-- [[Difficulty Design]] (`DESIGN`, `8 KUs`)
+- [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]] (`DESIGN`, `140 KUs`)
+- [[Difficulty_Design|Difficulty Design]] (`DESIGN`, `8 KUs`)
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "The State And Future Of Board Games"
+aliases: ["The State And Future Of Board Games"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Game Design", "Game Development"]
 
 # The State And Future Of Board Games
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
-> **Linked Systems:** [[Level Design]], [[Game Design]], [[Game Development]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Game_Design|Game Design]], [[Game_Development|Game Development]]
 
 ---
 
@@ -63,9 +64,9 @@ Systems and principles discussed in The_State_and_Future_of_Board_Games.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design|Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Development|Game Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `The_State_and_Future_of_Board_Games`
 

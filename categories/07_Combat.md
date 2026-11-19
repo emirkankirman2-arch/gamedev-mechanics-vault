@@ -1,5 +1,6 @@
 ---
 title: "Combat"
+aliases: ["Combat", "Savaş ve Vuruş Sistemleri"]
 tr_title: "Savaş ve Vuruş Sistemleri"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -8,7 +9,7 @@ tags: [domain-hub, combat]
 
 # Combat — Savaş ve Vuruş Sistemleri
 
-> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Parry & Deflect Windows]], [[Hitstop & Freeze Frames]], [[Enemy AI]], [[Boss Design]], [[Camera Trauma & Screenshake]]
+> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Parry_Deflect_Windows|Parry & Deflect Windows]], [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]], [[Enemy_AI|Enemy AI]], [[Boss_Design|Boss Design]], [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,14 +17,15 @@ Risk-reward spacing, frame-accurate hitboxes, telegraphing windows, stagger stat
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Hitstop & Freeze Frames]] (`ANIMATION`, `142 KUs`)
-- [[Parry & Deflect Windows]] (`DESIGN`, `143 KUs`)
+- [[Hitstop_Freeze_Frames|Hitstop & Freeze Frames]] (`ANIMATION`, `142 KUs`)
+- [[Parry_Deflect_Windows|Parry & Deflect Windows]] (`DESIGN`, `143 KUs`)
+- [[First_Person_Animation_Terminal_Ballistics|First-Person Animation & Terminal Ballistics]] (`DESIGN`, `201 KUs`)
 - [[Combat]] (`DESIGN`, `97 KUs`)
-- [[Boss Fight Secrets Are Crazy]] (`DESIGN`, `48 KUs`)
-- [[The Anatomy Of A Bossfight]] (`DESIGN`, `39 KUs`)
-- [[The 4 Ps Of Doom S Amazing Combat]] (`DESIGN`, `30 KUs`)
+- [[Boss_Fight_Secrets_Are_Crazy|Boss Fight Secrets Are Crazy]] (`DESIGN`, `48 KUs`)
+- [[The_Anatomy_Of_A_Bossfight|The Anatomy Of A Bossfight]] (`DESIGN`, `39 KUs`)
+- [[The_4_Ps_Of_Doom_S_Amazing_Combat|The 4 Ps Of Doom S Amazing Combat]] (`DESIGN`, `30 KUs`)
 - [[Movement]] (`DESIGN`, `21 KUs`)
-- [[Combat Design]] (`DESIGN`, `19 KUs`)
+- [[Combat_Design|Combat Design]] (`DESIGN`, `19 KUs`)
 
 ---
 

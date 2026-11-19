@@ -1,5 +1,6 @@
 ---
 title: "Puzzle"
+aliases: ["Puzzle"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 # Puzzle
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `43`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `43`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -66,8 +67,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_20_Games_You_Should_Have_Played`, `Half-Life_2_s_Invisible_Tutorial`, `How_I_polished_my_indie_magnet_puzzle_game_Developing_12`, `How_To_Combine_Video_Game_Genres`, `Ico_and_Design_by_Subtraction`

@@ -1,5 +1,6 @@
 ---
 title: "Ico And Design By Subtraction"
+aliases: ["Ico And Design By Subtraction"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Character Progression", "Player Agency"]
 
 # Ico And Design By Subtraction
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
-> **Linked Systems:** [[Level Design]], [[Character Progression]], [[Player Agency]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `23`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Character_Progression|Character Progression]], [[Player_Agency|Player Agency]]
 
 ---
 
@@ -63,9 +64,9 @@ Systems and principles discussed in Ico_and_Design_by_Subtraction.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Character Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character_Progression|Character Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Ico_and_Design_by_Subtraction`
 

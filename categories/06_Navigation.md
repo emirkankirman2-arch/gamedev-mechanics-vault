@@ -1,5 +1,6 @@
 ---
 title: "Navigation"
+aliases: ["Navigation", "Uzamsal Navigasyon ve Bilişsel Harita"]
 tr_title: "Uzamsal Navigasyon ve Bilişsel Harita"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, navigation]
 
 # Navigation — Uzamsal Navigasyon ve Bilişsel Harita
 
-> **Ana Disiplin:** `WORLD_DEVELOPMENT` | **Bağlı Alanlar:** [[Landmark Guidance]], [[Mental Mapping]], [[Level Design]], [[Traversal]]
+> **Ana Disiplin:** `WORLD_DEVELOPMENT` | **Bağlı Alanlar:** [[Landmark_Guidance|Landmark Guidance]], [[Mental_Mapping|Mental Mapping]], [[Level_Design|Level Design]], [[Traversal]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Mental map formation, loop-back shortcuts, elevation gradients, and readable cho
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Mental Mapping]] (`WORLD_DEVELOPMENT`, `58 KUs`)
+- [[Mental_Mapping|Mental Mapping]] (`WORLD_DEVELOPMENT`, `58 KUs`)
 - [[Navigation]] (`WORLD_DEVELOPMENT`, `10 KUs`)
 
 ---

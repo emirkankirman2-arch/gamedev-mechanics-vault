@@ -1,5 +1,6 @@
 ---
 title: "Power Ups"
+aliases: ["Power Ups"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Game Design", "Resource Management"]
 
 # Power Ups
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Level Design]], [[Game Design]], [[Resource Management]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Game_Design|Game Design]], [[Resource_Management|Resource Management]]
 
 ---
 
@@ -66,9 +67,9 @@ Power-ups mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Design|Game Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Resource_Management|Resource Management]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Experimental_Kart_Racers_-_Sonic_Kirby_Snowboard_Kids_More`, `Factorio_Fixed_My_Broken_Brain`, `How_Can_You_Make_Backtracking_Fun`, `I_Made_A_Game_In_4_Days_GMTK_Game_Jam_Dev_Log`, `Super_Mario_s_Invisible_Difficulty_Settings`
 

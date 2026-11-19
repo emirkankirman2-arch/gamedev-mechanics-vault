@@ -1,5 +1,6 @@
 ---
 title: "The Making Of Divinity Original Sin 2"
+aliases: ["The Making Of Divinity Original Sin 2"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Core Systems", "Progression", "Player Agency",
 
 # The Making Of Divinity Original Sin 2
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `22`  
-> **Linked Systems:** [[Level Design]], [[Core Systems]], [[Progression]], [[Player Agency]], [[Crafting]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `22`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Core_Systems|Core Systems]], [[Progression]], [[Player_Agency|Player Agency]], [[Crafting]]
 
 ---
 
@@ -63,10 +64,10 @@ Systems and principles discussed in The_Making_of_Divinity_-_Original_Sin_2.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Core_Systems|Core Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Crafting]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `The_Making_of_Divinity_-_Original_Sin_2`

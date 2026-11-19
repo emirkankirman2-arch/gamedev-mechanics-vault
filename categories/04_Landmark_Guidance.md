@@ -1,5 +1,6 @@
 ---
 title: "Landmark Guidance"
+aliases: ["Landmark Guidance", "Nirengi Noktaları (Landmarks)"]
 tr_title: "Nirengi Noktaları (Landmarks)"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -8,7 +9,7 @@ tags: [domain-hub, landmark_guidance]
 
 # Landmark Guidance — Nirengi Noktaları (Landmarks)
 
-> **Ana Disiplin:** `WORLD_DEVELOPMENT` | **Bağlı Alanlar:** [[Exploration]], [[Navigation]], [[Mental Mapping]], [[Level Design]], [[World Building]]
+> **Ana Disiplin:** `WORLD_DEVELOPMENT` | **Bağlı Alanlar:** [[Exploration]], [[Navigation]], [[Mental_Mapping|Mental Mapping]], [[Level_Design|Level Design]], [[World_Building|World Building]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Hierarchical macro/meso/micro silhouettes and elevated sightline anchors that pr
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Landmark Guidance]] (`WORLD_DEVELOPMENT`, `8 KUs`)
+- [[Landmark_Guidance|Landmark Guidance]] (`WORLD_DEVELOPMENT`, `8 KUs`)
 
 ---
 

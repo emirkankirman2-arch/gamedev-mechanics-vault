@@ -1,5 +1,6 @@
 ---
 title: "Crafting"
+aliases: ["Crafting", "Zanaatkarlık ve Kaynak Dönüşümü"]
 tr_title: "Zanaatkarlık ve Kaynak Dönüşümü"
 department: "ECONOMY"
 bundle: "Bundle_4"
@@ -8,7 +9,7 @@ tags: [domain-hub, crafting]
 
 # Crafting — Zanaatkarlık ve Kaynak Dönüşümü
 
-> **Ana Disiplin:** `ECONOMY` | **Bağlı Alanlar:** [[Economy]], [[Progression]], [[Exploration]], [[Farming & Seasonal Loops]]
+> **Ana Disiplin:** `ECONOMY` | **Bağlı Alanlar:** [[Economy]], [[Progression]], [[Exploration]], [[Farming_Seasonal_Loops|Farming & Seasonal Loops]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,6 +17,7 @@ Inventory-pressure recipes, meaningful material sinks, experimentation discovery
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
+- [[Automated_Drone_Farming_Batch_Crafting|Automated Drone Farming & Batch Crafting]] (`ECONOMY`, `115 KUs`)
 - [[Crafting]] (`ECONOMY`, `11 KUs`)
 
 ---

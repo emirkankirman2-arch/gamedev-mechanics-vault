@@ -1,5 +1,6 @@
 ---
 title: "G Rsel Efektler"
+aliases: ["G Rsel Efektler"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Character Development", "Gameplay", "Visual Ef
 
 # G Rsel Efektler
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `22`  
-> **Linked Systems:** [[Level Design]], [[Character Development]], [[Gameplay]], [[Visual Effects]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `22`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Character_Development|Character Development]], [[Gameplay]], [[Visual_Effects|Visual Effects]]
 
 ---
 
@@ -66,10 +67,10 @@ Görsel efektler mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character_Development|Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Gameplay]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Visual_Effects|Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Final_Fantasy_IX_-_How_to_Pace_a_Game_~_Design_Doc`, `How_Fortnite_Exploits_Your_FOMO`, `Making_The_Last_of_Us_Part_II_s_Best_Level`, `The_Design_of_Dead_Space_-_Part_1`, `The_Two_Types_of_Random_in_Game_Design`
 

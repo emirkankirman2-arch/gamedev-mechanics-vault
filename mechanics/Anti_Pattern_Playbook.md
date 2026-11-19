@@ -1,5 +1,6 @@
 ---
 title: "Anti-Pattern Playbook"
+aliases: ["Anti-Pattern Playbook"]
 domain: "Retention & Live Systems"
 department: "QA"
 bundle: "Bundle_5"
@@ -10,8 +11,8 @@ linked_systems: ["Retention & Live Systems", "Player Guidance", "Economy", "Diff
 
 # Anti-Pattern Playbook
 
-> **Domain:** [[Retention & Live Systems]] | **Department:** `QA` | **Evidence Units:** `62`  
-> **Linked Systems:** [[Retention & Live Systems]], [[Player Guidance]], [[Economy]], [[Difficulty Design]], [[Combat]]
+> **Domain:** [[Retention_Live_Systems|Retention & Live Systems]] | **Department:** `QA` | **Evidence Units:** `62`  
+> **Linked Systems:** [[Retention_Live_Systems|Retention & Live Systems]], [[Player_Guidance|Player Guidance]], [[Economy]], [[Difficulty_Design|Difficulty Design]], [[Combat]]
 
 ---
 
@@ -64,10 +65,10 @@ Başarılı oyun mekanikleri yalnızca 'ne eklemeli' sorusuyla değil, **'oyuncu
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Retention & Live Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Retention_Live_Systems|Retention & Live Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Guidance|Player Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Difficulty_Design|Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Should_Designers_Listen_to_Negative_Feedback`

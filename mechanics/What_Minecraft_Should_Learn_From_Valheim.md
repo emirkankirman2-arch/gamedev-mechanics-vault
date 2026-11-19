@@ -1,5 +1,6 @@
 ---
 title: "What Minecraft Should Learn From Valheim"
+aliases: ["What Minecraft Should Learn From Valheim"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Player Agency", "Combat"]
 # What Minecraft Should Learn From Valheim
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `27`  
-> **Linked Systems:** [[Progression]], [[Player Agency]], [[Combat]]
+> **Linked Systems:** [[Progression]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -64,7 +65,7 @@ Systems and principles discussed in What_Minecraft_Should_Learn_From_Valheim.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `What_Minecraft_Should_Learn_From_Valheim`

@@ -1,5 +1,6 @@
 ---
 title: "Permadeath & Meta-Progression"
+aliases: ["Permadeath & Meta-Progression"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Risk & Reward", "Reward Systems", "Difficulty D
 # Permadeath & Meta-Progression
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `186`  
-> **Linked Systems:** [[Progression]], [[Risk & Reward]], [[Reward Systems]], [[Difficulty Design]], [[Procedural World Generation]]
+> **Linked Systems:** [[Progression]], [[Risk_Reward|Risk & Reward]], [[Reward_Systems|Reward Systems]], [[Difficulty_Design|Difficulty Design]], [[Procedural_World_Generation|Procedural World Generation]]
 
 ---
 
@@ -68,10 +69,10 @@ linked_systems: ["Progression", "Risk & Reward", "Reward Systems", "Difficulty D
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Risk & Reward]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Procedural World Generation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Risk_Reward|Risk & Reward]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Reward_Systems|Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Difficulty_Design|Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Procedural_World_Generation|Procedural World Generation]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_18_Games_You_Should_Have_Played`, `20_21_Games_You_Should_Have_Played`, `6_Lessons_from_Hollow_Knight_s_immersive_tutorial`, `A_puzzle_game_where_your_tools_are_completely_random`, `Analysing_Mario_to_Master_Super_Mario_Maker`
 

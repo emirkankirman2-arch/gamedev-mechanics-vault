@@ -1,5 +1,6 @@
 ---
 title: "Risk & Reward"
+aliases: ["Risk & Reward"]
 domain: "Risk & Reward"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -10,8 +11,8 @@ linked_systems: ["Combat", "Permadeath & Meta-Progression", "Reward Systems", "D
 
 # Risk & Reward
 
-> **Domain:** [[Risk & Reward]] | **Department:** `DESIGN` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Combat]], [[Permadeath & Meta-Progression]], [[Reward Systems]], [[Difficulty Design]], [[Dynamic Difficulty Adjustment]]
+> **Domain:** [[Risk_Reward|Risk & Reward]] | **Department:** `DESIGN` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Combat]], [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]], [[Reward_Systems|Reward Systems]], [[Difficulty_Design|Difficulty Design]], [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]]
 
 ---
 
@@ -72,10 +73,10 @@ linked_systems: ["Combat", "Permadeath & Meta-Progression", "Reward Systems", "D
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Permadeath & Meta-Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Reward_Systems|Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Difficulty_Design|Difficulty Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `What_Makes_A_Good_Super_Move`, `You_Should_Play_Rollerdrome`, `Carrion_Is_A_REVERSE-HORROR_Gem_That_You_Need_To_Play`, `You_Need_To_Play_Cook_Serve_Delicious_2`
 

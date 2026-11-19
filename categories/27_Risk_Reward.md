@@ -1,5 +1,6 @@
 ---
 title: "Risk & Reward"
+aliases: ["Risk & Reward", "Risk-Ödül Dengesi ve Gerilim"]
 tr_title: "Risk-Ödül Dengesi ve Gerilim"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -8,7 +9,7 @@ tags: [domain-hub, risk_reward]
 
 # Risk & Reward — Risk-Ödül Dengesi ve Gerilim
 
-> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Combat]], [[Permadeath & Meta-Progression]], [[Reward Systems]], [[Difficulty Design]]
+> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Combat]], [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]], [[Reward_Systems|Reward Systems]], [[Difficulty_Design|Difficulty Design]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Push-your-luck extraction mechanics, stamina-vs-greed windows, and high-stakes r
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Risk & Reward]] (`DESIGN`, `8 KUs`)
+- [[Risk_Reward|Risk & Reward]] (`DESIGN`, `8 KUs`)
 
 ---
 

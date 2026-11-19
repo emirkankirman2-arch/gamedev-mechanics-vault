@@ -1,5 +1,6 @@
 ---
 title: "Corpse Recovery"
+aliases: ["Corpse Recovery"]
 domain: "Level Design"
 department: "WORLD_DEVELOPMENT"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat"]
 
 # Corpse Recovery
 
-> **Domain:** [[Level Design]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `36`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `WORLD_DEVELOPMENT` | **Evidence Units:** `36`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -65,8 +66,8 @@ Oyuncu öldüğünde ceset veya kan lekesi dünyada kalır; oyuncuya oraya ulaş
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `20_21_Games_You_Should_Have_Played`, `A_puzzle_game_where_your_tools_are_completely_random`, `Analysing_Mario_to_Master_Super_Mario_Maker`, `Are_Lives_Outdated_Game_Design`, `Climbing_in_Games`

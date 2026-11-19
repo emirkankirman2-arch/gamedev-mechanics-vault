@@ -1,17 +1,18 @@
 ---
 title: "Rollback Netcode & Prediction"
+aliases: ["Rollback Netcode & Prediction"]
 domain: "Multiplayer"
 department: "MULTIPLAYER_ONLINE"
 bundle: "Bundle_2"
 ku_count: 49
 tags: [multiplayer, multiplayer_online, bundle_2, 4-bucket-module]
-linked_systems: ["Multiplayer", "Combat", "Parry & Deflect Windows", "Camera & Player Perspective"]
+linked_systems: ["Multiplayer", "Combat", "Parry & Deflect Windows", "Camera & Player Perspective", "First-Person Animation & Terminal Ballistics"]
 ---
 
 # Rollback Netcode & Prediction
 
 > **Domain:** [[Multiplayer]] | **Department:** `MULTIPLAYER_ONLINE` | **Evidence Units:** `49`  
-> **Linked Systems:** [[Multiplayer]], [[Combat]], [[Parry & Deflect Windows]], [[Camera & Player Perspective]]
+> **Linked Systems:** [[Multiplayer]], [[Combat]], [[Parry_Deflect_Windows|Parry & Deflect Windows]], [[Camera_Player_Perspective|Camera & Player Perspective]], [[First_Person_Animation_Terminal_Ballistics|First-Person Animation & Terminal Ballistics]]
 
 ---
 
@@ -66,8 +67,9 @@ Gerçek zamanlı rekabetçi oyunlarda gecikme tabanlı ağ (delay-based netcode)
 
 - [[Multiplayer]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Parry_Deflect_Windows|Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Player_Perspective|Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[First_Person_Animation_Terminal_Ballistics|First-Person Animation & Terminal Ballistics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `8_Frames_in_16ms_-_Rollback_Networking_in_Mortal_Kombat_and_Injustice_2`, `I_Shot_You_First_-_Networking_the_Gameplay_of_Halo_-_Reach`
 

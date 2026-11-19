@@ -1,17 +1,18 @@
 ---
 title: "Hitstop & Freeze Frames"
+aliases: ["Hitstop & Freeze Frames"]
 domain: "Combat"
 department: "ANIMATION"
 bundle: "Bundle_3"
 ku_count: 142
 tags: [combat, animation, bundle_3, 4-bucket-module]
-linked_systems: ["Combat", "Camera Trauma & Screenshake", "Parry & Deflect Windows", "Adaptive Audio & Stems"]
+linked_systems: ["Combat", "Camera Trauma & Screenshake", "Parry & Deflect Windows", "Adaptive Audio & Stems", "First-Person Animation & Terminal Ballistics"]
 ---
 
 # Hitstop & Freeze Frames
 
 > **Domain:** [[Combat]] | **Department:** `ANIMATION` | **Evidence Units:** `142`  
-> **Linked Systems:** [[Combat]], [[Camera Trauma & Screenshake]], [[Parry & Deflect Windows]], [[Adaptive Audio & Stems]]
+> **Linked Systems:** [[Combat]], [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]], [[Parry_Deflect_Windows|Parry & Deflect Windows]], [[Adaptive_Audio_Stems|Adaptive Audio & Stems]], [[First_Person_Animation_Terminal_Ballistics|First-Person Animation & Terminal Ballistics]]
 
 ---
 
@@ -70,9 +71,10 @@ linked_systems: ["Combat", "Camera Trauma & Screenshake", "Parry & Deflect Windo
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Adaptive Audio & Stems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Parry_Deflect_Windows|Parry & Deflect Windows]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Adaptive_Audio_Stems|Adaptive Audio & Stems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[First_Person_Animation_Terminal_Ballistics|First-Person Animation & Terminal Ballistics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `How_to_Make_a_Good_2D_Camera`, `Secrets_of_Game_Feel_and_Juice`
 

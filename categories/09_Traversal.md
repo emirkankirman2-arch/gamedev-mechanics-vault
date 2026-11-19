@@ -1,5 +1,6 @@
 ---
 title: "Traversal"
+aliases: ["Traversal", "Hareket Fiziği ve Parkur"]
 tr_title: "Hareket Fiziği ve Parkur"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -8,7 +9,7 @@ tags: [domain-hub, traversal]
 
 # Traversal — Hareket Fiziği ve Parkur
 
-> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Coyote Time & Input Buffering]], [[Level Design]], [[Camera & Player Perspective]], [[Combat]]
+> **Ana Disiplin:** `DESIGN` | **Bağlı Alanlar:** [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]], [[Level_Design|Level Design]], [[Camera_Player_Perspective|Camera & Player Perspective]], [[Combat]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Momentum preservation, coyote time, jump buffering, ledge snap, grappling hooks,
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Coyote Time & Input Buffering]] (`DESIGN`, `53 KUs`)
+- [[Coyote_Time_Input_Buffering|Coyote Time & Input Buffering]] (`DESIGN`, `53 KUs`)
 - [[Traversal]] (`DESIGN`, `8 KUs`)
 
 ---

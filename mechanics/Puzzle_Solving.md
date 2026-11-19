@@ -1,5 +1,6 @@
 ---
 title: "Puzzle Solving"
+aliases: ["Puzzle Solving"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Player Agency", "Combat", "Speedrunning"]
 
 # Puzzle Solving
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `90`  
-> **Linked Systems:** [[Level Design]], [[Player Agency]], [[Combat]], [[Speedrunning]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `90`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Player_Agency|Player Agency]], [[Combat]], [[Speedrunning]]
 
 ---
 
@@ -66,8 +67,8 @@ Puzzle-solving mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Speedrunning]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 

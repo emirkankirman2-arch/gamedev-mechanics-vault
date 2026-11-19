@@ -1,5 +1,6 @@
 ---
 title: "Camera & Player Perspective"
+aliases: ["Camera & Player Perspective", "Kamera Fiziği ve Bakış Açısı"]
 tr_title: "Kamera Fiziği ve Bakış Açısı"
 department: "CINEMATICS"
 bundle: "Bundle_2"
@@ -8,7 +9,7 @@ tags: [domain-hub, camera_player_perspective]
 
 # Camera & Player Perspective — Kamera Fiziği ve Bakış Açısı
 
-> **Ana Disiplin:** `CINEMATICS` | **Bağlı Alanlar:** [[Camera Trauma & Screenshake]], [[Combat]], [[Traversal]], [[Shader Rim & Silhouette]]
+> **Ana Disiplin:** `CINEMATICS` | **Bağlı Alanlar:** [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]], [[Combat]], [[Traversal]], [[Shader_Rim_Silhouette|Shader Rim & Silhouette]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,8 +17,8 @@ Spring-arm lag, dynamic FOV sprints, target-lock framing, occlusion fade shaders
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Camera Trauma & Screenshake]] (`CINEMATICS`, `44 KUs`)
-- [[Camera & Player Perspective]] (`CINEMATICS`, `8 KUs`)
+- [[Camera_Trauma_Screenshake|Camera Trauma & Screenshake]] (`CINEMATICS`, `44 KUs`)
+- [[Camera_Player_Perspective|Camera & Player Perspective]] (`CINEMATICS`, `8 KUs`)
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Player Agency"
+aliases: ["Player Agency"]
 domain: "Player Agency"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Quest Design", "Exploration", "Stealth", "Combat", "Puzzle Des
 
 # Player Agency
 
-> **Domain:** [[Player Agency]] | **Department:** `DESIGN` | **Evidence Units:** `51`  
-> **Linked Systems:** [[Quest Design]], [[Exploration]], [[Stealth]], [[Combat]], [[Puzzle Design]], [[Social Systems]]
+> **Domain:** [[Player_Agency|Player Agency]] | **Department:** `DESIGN` | **Evidence Units:** `51`  
+> **Linked Systems:** [[Quest_Design|Quest Design]], [[Exploration]], [[Stealth]], [[Combat]], [[Puzzle_Design|Puzzle Design]], [[Social_Systems|Social Systems]]
 
 ---
 
@@ -71,12 +72,12 @@ linked_systems: ["Quest Design", "Exploration", "Stealth", "Combat", "Puzzle Des
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Quest Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Quest_Design|Quest Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Stealth]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Social Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Puzzle_Design|Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Social_Systems|Social Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `Are_Morality_Systems_Making_Us_Less_Moral`, `Breath_of_the_Wild_s_Exploration_Cycle_~_Design_Doc`, `Choice_Architecture_Player_Expression_and_Narrative_Design_in_Fallout_-_New_Vegas`, `How_Batman_Takes_Stealth_Back_to_Basics`
 

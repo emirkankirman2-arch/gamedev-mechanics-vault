@@ -1,5 +1,6 @@
 ---
 title: "Multiplayer"
+aliases: ["Multiplayer", "Çok Oyunculu ve Ağ Senkronizasyonu"]
 tr_title: "Çok Oyunculu ve Ağ Senkronizasyonu"
 department: "MULTIPLAYER_ONLINE"
 bundle: "Bundle_2"
@@ -8,7 +9,7 @@ tags: [domain-hub, multiplayer]
 
 # Multiplayer — Çok Oyunculu ve Ağ Senkronizasyonu
 
-> **Ana Disiplin:** `MULTIPLAYER_ONLINE` | **Bağlı Alanlar:** [[Rollback Netcode & Prediction]], [[Combat]], [[Social Systems]], [[Camera & Player Perspective]]
+> **Ana Disiplin:** `MULTIPLAYER_ONLINE` | **Bağlı Alanlar:** [[Rollback_Netcode_Prediction|Rollback Netcode & Prediction]], [[Combat]], [[Social_Systems|Social Systems]], [[Camera_Player_Perspective|Camera & Player Perspective]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,7 +17,7 @@ Client-side prediction, lag compensation, rollback netcode, server authority, an
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Rollback Netcode & Prediction]] (`MULTIPLAYER_ONLINE`, `49 KUs`)
+- [[Rollback_Netcode_Prediction|Rollback Netcode & Prediction]] (`MULTIPLAYER_ONLINE`, `49 KUs`)
 - [[Multiplayer]] (`MULTIPLAYER_ONLINE`, `12 KUs`)
 
 ---

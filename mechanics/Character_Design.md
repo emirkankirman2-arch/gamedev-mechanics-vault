@@ -1,5 +1,6 @@
 ---
 title: "Character Design"
+aliases: ["Character Design"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Character Development", "Sound Effects", "Visu
 
 # Character Design
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
-> **Linked Systems:** [[Level Design]], [[Character Development]], [[Sound Effects]], [[Visual Effects]], [[Gameplay Mechanics]], [[Global Information]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `30`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Character_Development|Character Development]], [[Sound_Effects|Sound Effects]], [[Visual_Effects|Visual Effects]], [[Gameplay_Mechanics|Gameplay Mechanics]], [[Global_Information|Global Information]]
 
 ---
 
@@ -66,12 +67,12 @@ Karakterlerin tasarımları ve yetenekleri.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Character_Development|Character Development]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Sound_Effects|Sound Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Visual_Effects|Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Gameplay_Mechanics|Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Global_Information|Global Information]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Good_Design_Bad_Design_Vol._13_with_JoCat_-_Advance_Wars_Chicory_Astroneer_and_More_~_Design_Doc`, `Good_Design_Bad_Design_Vol._4_-_The_Best_and_Worst_of_Video_Game_Graphic_Design_~_Design_Doc`, `Good_Design_Bad_Design_Vol._9_-_The_Graphic_Design_of_Animal_Crossing_Resident_Evil_2_and_More`, `Weird_Gaming_Moments_9_-_El_Shaddai_-_Armaros_Fight`, `Final_Fantasy_IX_-_How_to_Pace_a_Game_~_Design_Doc`
 

@@ -1,5 +1,6 @@
 ---
 title: "Game A Week Teaching Students To Prototype"
+aliases: ["Game A Week Teaching Students To Prototype"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Game Development Process", "Player Agency"]
 
 # Game A Week Teaching Students To Prototype
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `43`  
-> **Linked Systems:** [[Level Design]], [[Game Development Process]], [[Player Agency]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `43`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Game_Development_Process|Game Development Process]], [[Player_Agency|Player Agency]]
 
 ---
 
@@ -63,9 +64,9 @@ Systems and principles discussed in Game_a_Week_-_Teaching_Students_to_Prototype
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Development Process]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Development_Process|Game Development Process]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Game_a_Week_-_Teaching_Students_to_Prototype`
 

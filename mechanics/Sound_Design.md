@@ -1,5 +1,6 @@
 ---
 title: "Sound Design"
+aliases: ["Sound Design"]
 domain: "Diegetic Guidance"
 department: "DESIGN"
 bundle: "Bundle_3"
@@ -10,8 +11,8 @@ linked_systems: ["Diegetic Guidance", "Level Design", "Gameplay Mechanics"]
 
 # Sound Design
 
-> **Domain:** [[Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `29`  
-> **Linked Systems:** [[Diegetic Guidance]], [[Level Design]], [[Gameplay Mechanics]]
+> **Domain:** [[Diegetic_Guidance|Diegetic Guidance]] | **Department:** `DESIGN` | **Evidence Units:** `29`  
+> **Linked Systems:** [[Diegetic_Guidance|Diegetic Guidance]], [[Level_Design|Level Design]], [[Gameplay_Mechanics|Gameplay Mechanics]]
 
 ---
 
@@ -66,9 +67,9 @@ Oyunun ses tasarımı mekanizmaları
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Gameplay_Mechanics|Gameplay Mechanics]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] Aer： Memories of Old - the game with the BEST flight mechanics`, `How_Space_Invaders_Birthed_Japanese_Games`, `I_made_a_Roller_Coaster_Puzzle_Game_for_the_GMTK_Game_Jam_2025_Dev_Log`, `stuck_INSIDE_a_DICE_GMTK_Game_Jam_WINNER_2022`, `The_Anatomy_of_a_Bossfight`
 

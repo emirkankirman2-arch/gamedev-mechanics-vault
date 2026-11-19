@@ -1,5 +1,6 @@
 ---
 title: "Difficulty Design"
+aliases: ["Difficulty Design"]
 domain: "Difficulty Design"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -10,8 +11,8 @@ linked_systems: ["Dynamic Difficulty Adjustment", "Combat", "Progression", "Risk
 
 # Difficulty Design
 
-> **Domain:** [[Difficulty Design]] | **Department:** `DESIGN` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Dynamic Difficulty Adjustment]], [[Combat]], [[Progression]], [[Risk & Reward]], [[Permadeath & Meta-Progression]], [[Anti-Pattern Playbook]]
+> **Domain:** [[Difficulty_Design|Difficulty Design]] | **Department:** `DESIGN` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]], [[Combat]], [[Progression]], [[Risk_Reward|Risk & Reward]], [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]], [[Anti_Pattern_Playbook|Anti-Pattern Playbook]]
 
 ---
 
@@ -62,12 +63,12 @@ linked_systems: ["Dynamic Difficulty Adjustment", "Combat", "Progression", "Risk
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Risk & Reward]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Permadeath & Meta-Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Anti-Pattern Playbook]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Risk_Reward|Risk & Reward]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Permadeath_Meta_Progression|Permadeath & Meta-Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Anti_Pattern_Playbook|Anti-Pattern Playbook]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Canonical_V2_Corpus`
 

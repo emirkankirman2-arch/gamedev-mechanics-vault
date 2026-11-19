@@ -1,17 +1,18 @@
 ---
 title: "Shader Rim & Silhouette"
-domain: "Visual Art & Shaders"
+aliases: ["Shader Rim & Silhouette"]
+domain: "Environmental Storytelling"
 department: "ART"
 bundle: "Bundle_3"
 ku_count: 64
-tags: [visual_art_shaders, art, bundle_3, 4-bucket-module]
-linked_systems: ["Volumetric Lighting & Darkness", "Combat", "Camera & Player Perspective", "Diegetic Guidance"]
+tags: [environmental_storytelling, art, bundle_3, 4-bucket-module]
+linked_systems: ["Volumetric Lighting & Darkness", "Combat", "Camera & Player Perspective", "Diegetic Guidance", "Interactive Wind & Vegetation WPO Shaders"]
 ---
 
 # Shader Rim & Silhouette
 
-> **Domain:** [[Visual Art & Shaders]] | **Department:** `ART` | **Evidence Units:** `64`  
-> **Linked Systems:** [[Volumetric Lighting & Darkness]], [[Combat]], [[Camera & Player Perspective]], [[Diegetic Guidance]]
+> **Domain:** [[Environmental_Storytelling|Environmental Storytelling]] | **Department:** `ART` | **Evidence Units:** `64`  
+> **Linked Systems:** [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]], [[Combat]], [[Camera_Player_Perspective|Camera & Player Perspective]], [[Diegetic_Guidance|Diegetic Guidance]], [[Interactive_Wind_Vegetation_WPO_Shaders|Interactive Wind & Vegetation WPO Shaders]]
 
 ---
 
@@ -66,10 +67,11 @@ Yoğun efektler veya karanlık ortamlarda oynanışın çökmesinin bir numaral�
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Volumetric_Lighting_Darkness|Volumetric Lighting & Darkness]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Camera_Player_Perspective|Camera & Player Perspective]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Diegetic_Guidance|Diegetic Guidance]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Interactive_Wind_Vegetation_WPO_Shaders|Interactive Wind & Vegetation WPO Shaders]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Art_Directing_VFX_for_Stylized_Games`
 

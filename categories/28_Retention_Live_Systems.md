@@ -1,5 +1,6 @@
 ---
 title: "Retention & Live Systems"
+aliases: ["Retention & Live Systems", "Oyuncu Tutma ve Canlı Sistemler"]
 tr_title: "Oyuncu Tutma ve Canlı Sistemler"
 department: "LIVEOPS"
 bundle: "Bundle_5"
@@ -8,7 +9,7 @@ tags: [domain-hub, retention_live_systems]
 
 # Retention & Live Systems — Oyuncu Tutma ve Canlı Sistemler
 
-> **Ana Disiplin:** `LIVEOPS` | **Bağlı Alanlar:** [[Reward Systems]], [[Progression]], [[Social Systems]], [[Anti-Pattern Playbook]]
+> **Ana Disiplin:** `LIVEOPS` | **Bağlı Alanlar:** [[Reward_Systems|Reward Systems]], [[Progression]], [[Social_Systems|Social Systems]], [[Anti_Pattern_Playbook|Anti-Pattern Playbook]]
 
 ## Alan Özeti (Domain Synopsis)
 
@@ -16,8 +17,8 @@ Ethical long-term mastery loops, seasonal modifiers, anti-burnout pacing, and av
 
 ## Bu Alandaki 4-Sepetli Mekanik Modülleri
 
-- [[Anti-Pattern Playbook]] (`QA`, `62 KUs`)
-- [[Retention & Live Systems]] (`LIVEOPS`, `8 KUs`)
+- [[Anti_Pattern_Playbook|Anti-Pattern Playbook]] (`QA`, `62 KUs`)
+- [[Retention_Live_Systems|Retention & Live Systems]] (`LIVEOPS`, `8 KUs`)
 
 ---
 

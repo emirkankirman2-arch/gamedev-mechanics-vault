@@ -1,5 +1,6 @@
 ---
 title: "Word Play Is Now Available On Ios"
+aliases: ["Word Play Is Now Available On Ios"]
 domain: "Progression"
 department: "DESIGN"
 bundle: "Bundle_4"
@@ -11,7 +12,7 @@ linked_systems: ["Progression", "Player Agency", "Combat"]
 # Word Play Is Now Available On Ios
 
 > **Domain:** [[Progression]] | **Department:** `DESIGN` | **Evidence Units:** `29`  
-> **Linked Systems:** [[Progression]], [[Player Agency]], [[Combat]]
+> **Linked Systems:** [[Progression]], [[Player_Agency|Player Agency]], [[Combat]]
 
 ---
 
@@ -64,7 +65,7 @@ Systems and principles discussed in Word_Play_is_now_available_on_iOS.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Word_Play_is_now_available_on_iOS`

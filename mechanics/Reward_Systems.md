@@ -1,5 +1,6 @@
 ---
 title: "Reward Systems"
+aliases: ["Reward Systems"]
 domain: "Reward Systems"
 department: "ECONOMY"
 bundle: "Bundle_4"
@@ -10,8 +11,8 @@ linked_systems: ["Progression", "Risk & Reward", "Economy", "Retention & Live Sy
 
 # Reward Systems
 
-> **Domain:** [[Reward Systems]] | **Department:** `ECONOMY` | **Evidence Units:** `8`  
-> **Linked Systems:** [[Progression]], [[Risk & Reward]], [[Economy]], [[Retention & Live Systems]], [[Dynamic Difficulty Adjustment]], [[Farming & Seasonal Loops]]
+> **Domain:** [[Reward_Systems|Reward Systems]] | **Department:** `ECONOMY` | **Evidence Units:** `8`  
+> **Linked Systems:** [[Progression]], [[Risk_Reward|Risk & Reward]], [[Economy]], [[Retention_Live_Systems|Retention & Live Systems]], [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]], [[Farming_Seasonal_Loops|Farming & Seasonal Loops]]
 
 ---
 
@@ -67,11 +68,11 @@ linked_systems: ["Progression", "Risk & Reward", "Economy", "Retention & Live Sy
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Progression]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Risk & Reward]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Risk_Reward|Risk & Reward]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 - [[Economy]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Retention & Live Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Retention_Live_Systems|Retention & Live Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Dynamic_Difficulty_Adjustment|Dynamic Difficulty Adjustment]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Farming_Seasonal_Loops|Farming & Seasonal Loops]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `Three_Other_Approaches_to_Turn_Timers_GMTK_Extra`, `Bloodiest_Gaming_Peripheral_Extra_Credits_Gaming_shorts`
 

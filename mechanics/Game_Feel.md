@@ -1,5 +1,6 @@
 ---
 title: "Game Feel"
+aliases: ["Game Feel"]
 domain: "Level Design"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -10,8 +11,8 @@ linked_systems: ["Level Design", "Visual Effects", "Player Agency"]
 
 # Game Feel
 
-> **Domain:** [[Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `32`  
-> **Linked Systems:** [[Level Design]], [[Visual Effects]], [[Player Agency]]
+> **Domain:** [[Level_Design|Level Design]] | **Department:** `DESIGN` | **Evidence Units:** `32`  
+> **Linked Systems:** [[Level_Design|Level Design]], [[Visual_Effects|Visual Effects]], [[Player_Agency|Player Agency]]
 
 ---
 
@@ -66,9 +67,9 @@ Game Feel mekanik sistemi.
 
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Visual_Effects|Visual Effects]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `[OLD] 2.4. The Human Processor Model ｜ Farlands School of Game Design`, `[OLD] 2.5. Introduction to Game Feel ｜ Farlands School of Game Design`, `[OLD] 2.6. Game Feel and Input ｜ Farlands School of Game Design`, `DEIXANDO_SEU_JOGO_DELICINHA_COM_GAME_FEEL_E_GAME_JUICE`, `Game_Design_Tools_-_For_When_Spreadsheets_and_Flowcharts_Aren_t_Enough`
 

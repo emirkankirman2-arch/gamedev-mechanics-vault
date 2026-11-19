@@ -1,5 +1,6 @@
 ---
 title: "Discovery"
+aliases: ["Discovery"]
 domain: "Discovery"
 department: "DESIGN"
 bundle: "Bundle_1"
@@ -11,7 +12,7 @@ linked_systems: ["Exploration", "Puzzle Design", "Environmental Storytelling", "
 # Discovery
 
 > **Domain:** [[Discovery]] | **Department:** `DESIGN` | **Evidence Units:** `21`  
-> **Linked Systems:** [[Exploration]], [[Puzzle Design]], [[Environmental Storytelling]], [[Reward Systems]], [[Game Loop]]
+> **Linked Systems:** [[Exploration]], [[Puzzle_Design|Puzzle Design]], [[Environmental_Storytelling|Environmental Storytelling]], [[Reward_Systems|Reward Systems]], [[Game_Loop|Game Loop]]
 
 ---
 
@@ -70,10 +71,10 @@ linked_systems: ["Exploration", "Puzzle Design", "Environmental Storytelling", "
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Exploration]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Game Loop]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Puzzle_Design|Puzzle Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Environmental_Storytelling|Environmental Storytelling]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Reward_Systems|Reward Systems]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Game_Loop|Game Loop]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `How_Terraria_Makes_You_Feel_Like_A_Master`, `Nuke_Possum_Springs_-_A_Night_in_the_Woods_Design_Postmortem`, `What_We_Can_Learn_From_A_2000_Year_Old_Puzzle`, `Redesigning_Death`, `[OLD] Design of The Legend of Zelda ｜ Farlands School of Game Design`
 

@@ -1,5 +1,6 @@
 ---
 title: "The Anatomy Of A Bossfight"
+aliases: ["The Anatomy Of A Bossfight"]
 domain: "Combat"
 department: "DESIGN"
 bundle: "Bundle_2"
@@ -11,7 +12,7 @@ linked_systems: ["Combat", "Player Agency", "Level Design"]
 # The Anatomy Of A Bossfight
 
 > **Domain:** [[Combat]] | **Department:** `DESIGN` | **Evidence Units:** `39`  
-> **Linked Systems:** [[Combat]], [[Player Agency]], [[Level Design]]
+> **Linked Systems:** [[Combat]], [[Player_Agency|Player Agency]], [[Level_Design|Level Design]]
 
 ---
 
@@ -64,8 +65,8 @@ Systems and principles discussed in The_Anatomy_of_a_Bossfight.
 ## 🔗 Bağlantılı Sistemler (Linked Systems Graph)
 
 - [[Combat]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
-- [[Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Player_Agency|Player Agency]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
+- [[Level_Design|Level Design]] — Çapraz sistem etkileşimi ve mekanik sinerjisi
 
 **Kaynak Analiz Referansları:** `The_Anatomy_of_a_Bossfight`
 
